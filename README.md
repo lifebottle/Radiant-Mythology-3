@@ -16,5 +16,6 @@ Scripts use Encoding: `[CP20932] EUC-JP Double-Byte Edition of Windows`
 
 # Credits
  - `Omarrrio` for the Initial tools!
+ - `Stormyu` for the asm for the above mentioned tools
  - `delguoqing` for the Python2 scripts
  
