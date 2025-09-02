@@ -4,7 +4,7 @@
     <PointerOffsetDec>48</PointerOffsetDec>
     <PointerOffsetHex>0x30</PointerOffsetHex>
     <JapaneseText>△ボタンで戦闘メニュー起動</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>4</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>76</PointerOffsetDec>
     <PointerOffsetHex>0x4c</PointerOffsetHex>
     <JapaneseText>戦闘メニュー起動中は時間停止</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>5</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>106</PointerOffsetDec>
     <PointerOffsetHex>0x6a</PointerOffsetHex>
     <JapaneseText>アイテムコマンドでアイテム使用</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>6</Id>
     <Status />

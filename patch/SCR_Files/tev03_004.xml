@@ -4,7 +4,7 @@
     <PointerOffsetDec>42</PointerOffsetDec>
     <PointerOffsetHex>0x2a</PointerOffsetHex>
     <JapaneseText>ＳＴＡＲＴボタンを押すと、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>2</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>70</PointerOffsetDec>
     <PointerOffsetHex>0x46</PointerOffsetHex>
     <JapaneseText>移動メニューを表示出来ます</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>3</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>97</PointerOffsetDec>
     <PointerOffsetHex>0x61</PointerOffsetHex>
     <JapaneseText>ダンジョンへ行く場合は、移動メニューより</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>4</Id>
     <Status />
@@ -31,7 +31,7 @@
     <PointerOffsetDec>139</PointerOffsetDec>
     <PointerOffsetHex>0x8b</PointerOffsetHex>
     <JapaneseText>「ワールドマップ」を選択して下さい</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>5</Id>
     <Status />

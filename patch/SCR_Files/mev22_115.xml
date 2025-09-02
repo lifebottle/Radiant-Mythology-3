@@ -4,7 +4,7 @@
     <PointerOffsetDec>90</PointerOffsetDec>
     <PointerOffsetHex>0x5a</PointerOffsetHex>
     <JapaneseText>ここは、ケイブレックスの目撃が</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>7</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>122</PointerOffsetDec>
     <PointerOffsetHex>0x7a</PointerOffsetHex>
     <JapaneseText>多い場所らしいけれど。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>8</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>146</PointerOffsetDec>
     <PointerOffsetHex>0x92</PointerOffsetHex>
     <JapaneseText>…いないわね</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>9</Id>
     <Status />
@@ -31,7 +31,7 @@
     <PointerOffsetDec>159</PointerOffsetDec>
     <PointerOffsetHex>0x9f</PointerOffsetHex>
     <JapaneseText>それじゃあ、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>10</Id>
     <Status />
@@ -40,7 +40,7 @@
     <PointerOffsetDec>173</PointerOffsetDec>
     <PointerOffsetHex>0xad</PointerOffsetHex>
     <JapaneseText>今は他の場所を当たって、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>11</Id>
     <Status />
@@ -49,7 +49,7 @@
     <PointerOffsetDec>199</PointerOffsetDec>
     <PointerOffsetHex>0xc7</PointerOffsetHex>
     <JapaneseText>また後に来ましょう</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>12</Id>
     <Status />

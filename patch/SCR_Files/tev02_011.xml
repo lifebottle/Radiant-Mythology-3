@@ -4,7 +4,7 @@
     <PointerOffsetDec>64</PointerOffsetDec>
     <PointerOffsetHex>0x40</PointerOffsetHex>
     <JapaneseText>そっちはショップなんだけど、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>5</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>94</PointerOffsetDec>
     <PointerOffsetHex>0x5e</PointerOffsetHex>
     <JapaneseText>今、棚卸し中だから閉店中だよ。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>6</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>126</PointerOffsetDec>
     <PointerOffsetHex>0x7e</PointerOffsetHex>
     <JapaneseText>そのうち、行ける様になるから</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>7</Id>
     <Status />

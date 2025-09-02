@@ -29,7 +29,11 @@ def extract_scr(in_file, out_file, encoding="euc-jp"):
         ET.SubElement(entry, "PointerOffsetDec").text = str(offset)
         ET.SubElement(entry, "PointerOffsetHex").text = hex(offset)
         ET.SubElement(entry, "JapaneseText").text = text
-        ET.SubElement(entry, "EnglishText").text = ""  # placeholder open+close
+
+        # Force open+close tag by inserting a zero-width space
+        eng = ET.SubElement(entry, "EnglishText")
+        eng.text = "\u200b"   # invisible placeholder
+
         ET.SubElement(entry, "Notes")
         ET.SubElement(entry, "Id").text = str(i)
         ET.SubElement(entry, "Status")
@@ -38,6 +42,13 @@ def extract_scr(in_file, out_file, encoding="euc-jp"):
     tree = ET.ElementTree(root)
     ET.indent(tree, space="  ", level=0)
     tree.write(out_file, encoding="utf-8", xml_declaration=True)
+
+    # After writing, replace the placeholder with nothing so you see <EnglishText></EnglishText>
+    with open(out_file, "r", encoding="utf-8") as f:
+        content = f.read()
+    content = content.replace("\u200b", "")
+    with open(out_file, "w", encoding="utf-8") as f:
+        f.write(content)
 
     print(f"✅ Extracted {len(entries)} entries from {in_file} -> {out_file}")
 

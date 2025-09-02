@@ -4,7 +4,7 @@
     <PointerOffsetDec>48</PointerOffsetDec>
     <PointerOffsetHex>0x30</PointerOffsetHex>
     <JapaneseText>戦闘中に使用する術や技は、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>3</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>76</PointerOffsetDec>
     <PointerOffsetHex>0x4c</PointerOffsetHex>
     <JapaneseText>メニューの術・技で、確認や設定が出来ます</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>4</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>117</PointerOffsetDec>
     <PointerOffsetHex>0x75</PointerOffsetHex>
     <JapaneseText>メニューの「術・技」が使用可能になりました</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>5</Id>
     <Status />

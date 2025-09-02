@@ -4,7 +4,7 @@
     <PointerOffsetDec>1010</PointerOffsetDec>
     <PointerOffsetHex>0x3f2</PointerOffsetHex>
     <JapaneseText>ねえ、○○。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>71</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>1024</PointerOffsetDec>
     <PointerOffsetHex>0x400</PointerOffsetHex>
     <JapaneseText>あなたって、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>72</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>1038</PointerOffsetDec>
     <PointerOffsetHex>0x40e</PointerOffsetHex>
     <JapaneseText>空からやって来たって本当？</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>73</Id>
     <Status />
@@ -31,7 +31,7 @@
     <PointerOffsetDec>1065</PointerOffsetDec>
     <PointerOffsetHex>0x429</PointerOffsetHex>
     <JapaneseText>そういう事だったらしい、と言う</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>74</Id>
     <Status />
@@ -40,7 +40,7 @@
     <PointerOffsetDec>1096</PointerOffsetDec>
     <PointerOffsetHex>0x448</PointerOffsetHex>
     <JapaneseText>自分は知らない、と言う</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>75</Id>
     <Status />
@@ -49,7 +49,7 @@
     <PointerOffsetDec>1119</PointerOffsetDec>
     <PointerOffsetHex>0x45f</PointerOffsetHex>
     <JapaneseText>じゃあ、ほんとの事は</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>76</Id>
     <Status />
@@ -58,7 +58,7 @@
     <PointerOffsetDec>1141</PointerOffsetDec>
     <PointerOffsetHex>0x475</PointerOffsetHex>
     <JapaneseText>わからないんじゃない</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>77</Id>
     <Status />
@@ -67,7 +67,7 @@
     <PointerOffsetDec>1162</PointerOffsetDec>
     <PointerOffsetHex>0x48a</PointerOffsetHex>
     <JapaneseText>知らないって…？</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>78</Id>
     <Status />
@@ -76,7 +76,7 @@
     <PointerOffsetDec>1179</PointerOffsetDec>
     <PointerOffsetHex>0x49b</PointerOffsetHex>
     <JapaneseText>それじゃあ、ウソかどうか</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>79</Id>
     <Status />
@@ -85,7 +85,7 @@
     <PointerOffsetDec>1205</PointerOffsetDec>
     <PointerOffsetHex>0x4b5</PointerOffsetHex>
     <JapaneseText>確かめ様が無いじゃない</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>80</Id>
     <Status />
@@ -94,7 +94,7 @@
     <PointerOffsetDec>1228</PointerOffsetDec>
     <PointerOffsetHex>0x4cc</PointerOffsetHex>
     <JapaneseText>でも、本当なんだもん。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>81</Id>
     <Status />
@@ -103,7 +103,7 @@
     <PointerOffsetDec>1252</PointerOffsetDec>
     <PointerOffsetHex>0x4e4</PointerOffsetHex>
     <JapaneseText>光に包まれて、空から降りて来たの</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>82</Id>
     <Status />
@@ -112,7 +112,7 @@
     <PointerOffsetDec>1285</PointerOffsetDec>
     <PointerOffsetHex>0x505</PointerOffsetHex>
     <JapaneseText>そんな事、簡単には信じられないわ</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>83</Id>
     <Status />
@@ -121,7 +121,7 @@
     <PointerOffsetDec>1318</PointerOffsetDec>
     <PointerOffsetHex>0x526</PointerOffsetHex>
     <JapaneseText>真実であるかどうかは別としても、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>84</Id>
     <Status />
@@ -130,7 +130,7 @@
     <PointerOffsetDec>1352</PointerOffsetDec>
     <PointerOffsetHex>0x548</PointerOffsetHex>
     <JapaneseText>素敵なお話だと思いますよ？</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>85</Id>
     <Status />
@@ -139,7 +139,7 @@
     <PointerOffsetDec>1379</PointerOffsetDec>
     <PointerOffsetHex>0x563</PointerOffsetHex>
     <JapaneseText>世界樹が光を発した日に</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>86</Id>
     <Status />
@@ -148,7 +148,7 @@
     <PointerOffsetDec>1403</PointerOffsetDec>
     <PointerOffsetHex>0x57b</PointerOffsetHex>
     <JapaneseText>空から降りて来た、なんて…。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>87</Id>
     <Status />
@@ -157,7 +157,7 @@
     <PointerOffsetDec>1433</PointerOffsetDec>
     <PointerOffsetHex>0x599</PointerOffsetHex>
     <JapaneseText>まるで、ディセンダーの様ですね</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>88</Id>
     <Status />
@@ -166,7 +166,7 @@
     <PointerOffsetDec>1464</PointerOffsetDec>
     <PointerOffsetHex>0x5b8</PointerOffsetHex>
     <JapaneseText>ディセンダー？</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>89</Id>
     <Status />
@@ -175,7 +175,7 @@
     <PointerOffsetDec>1479</PointerOffsetDec>
     <PointerOffsetHex>0x5c7</PointerOffsetHex>
     <JapaneseText>そう。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>90</Id>
     <Status />
@@ -184,7 +184,7 @@
     <PointerOffsetDec>1487</PointerOffsetDec>
     <PointerOffsetHex>0x5cf</PointerOffsetHex>
     <JapaneseText>あたしやアンジュさんがいた教会には、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>91</Id>
     <Status />
@@ -193,7 +193,7 @@
     <PointerOffsetDec>1525</PointerOffsetDec>
     <PointerOffsetHex>0x5f5</PointerOffsetHex>
     <JapaneseText>「救世主」の言い伝えがあるの</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>92</Id>
     <Status />
@@ -202,7 +202,7 @@
     <PointerOffsetDec>1554</PointerOffsetDec>
     <PointerOffsetHex>0x612</PointerOffsetHex>
     <JapaneseText>世界に危機が訪れた時、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>93</Id>
     <Status />
@@ -211,7 +211,7 @@
     <PointerOffsetDec>1578</PointerOffsetDec>
     <PointerOffsetHex>0x62a</PointerOffsetHex>
     <JapaneseText>世界樹が生み出す存在</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>94</Id>
     <Status />
@@ -220,7 +220,7 @@
     <PointerOffsetDec>1599</PointerOffsetDec>
     <PointerOffsetHex>0x63f</PointerOffsetHex>
     <JapaneseText>遠い昔から、教会に伝わる「予言」です</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>95</Id>
     <Status />
@@ -229,7 +229,7 @@
     <PointerOffsetDec>1636</PointerOffsetDec>
     <PointerOffsetHex>0x664</PointerOffsetHex>
     <JapaneseText>世界樹から生まれたばかりのディセンダーは</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>96</Id>
     <Status />
@@ -238,7 +238,7 @@
     <PointerOffsetDec>1678</PointerOffsetDec>
     <PointerOffsetHex>0x68e</PointerOffsetHex>
     <JapaneseText>記憶が無く、世界の事も知らず、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>97</Id>
     <Status />
@@ -247,7 +247,7 @@
     <PointerOffsetDec>1709</PointerOffsetDec>
     <PointerOffsetHex>0x6ad</PointerOffsetHex>
     <JapaneseText>不可能も恐れも知らない無垢な存在だと</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>98</Id>
     <Status />
@@ -256,7 +256,7 @@
     <PointerOffsetDec>1747</PointerOffsetDec>
     <PointerOffsetHex>0x6d3</PointerOffsetHex>
     <JapaneseText>言います</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>99</Id>
     <Status />
@@ -265,7 +265,7 @@
     <PointerOffsetDec>1756</PointerOffsetDec>
     <PointerOffsetHex>0x6dc</PointerOffsetHex>
     <JapaneseText>そして、人々の為に世界を学び、強くなり、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>100</Id>
     <Status />
@@ -274,7 +274,7 @@
     <PointerOffsetDec>1798</PointerOffsetDec>
     <PointerOffsetHex>0x706</PointerOffsetHex>
     <JapaneseText>ゆくゆくは世界を平和に導き…、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>101</Id>
     <Status />
@@ -283,7 +283,7 @@
     <PointerOffsetDec>1830</PointerOffsetDec>
     <PointerOffsetHex>0x726</PointerOffsetHex>
     <JapaneseText>また世界樹へと還って行くそうです</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>102</Id>
     <Status />
@@ -292,7 +292,7 @@
     <PointerOffsetDec>1863</PointerOffsetDec>
     <PointerOffsetHex>0x747</PointerOffsetHex>
     <JapaneseText>○○さんの</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>103</Id>
     <Status />
@@ -301,7 +301,7 @@
     <PointerOffsetDec>1875</PointerOffsetDec>
     <PointerOffsetHex>0x753</PointerOffsetHex>
     <JapaneseText>「記憶が無い」という点は、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>104</Id>
     <Status />
@@ -310,7 +310,7 @@
     <PointerOffsetDec>1903</PointerOffsetDec>
     <PointerOffsetHex>0x76f</PointerOffsetHex>
     <JapaneseText>まさにディセンダーの様ですね</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>105</Id>
     <Status />
@@ -319,7 +319,7 @@
     <PointerOffsetDec>1932</PointerOffsetDec>
     <PointerOffsetHex>0x78c</PointerOffsetHex>
     <JapaneseText>じゃあ、彼はディセンダー？</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>106</Id>
     <Status />
@@ -328,7 +328,7 @@
     <PointerOffsetDec>1959</PointerOffsetDec>
     <PointerOffsetHex>0x7a7</PointerOffsetHex>
     <JapaneseText>じゃあ、彼女はディセンダー？</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>107</Id>
     <Status />
@@ -337,7 +337,7 @@
     <PointerOffsetDec>1988</PointerOffsetDec>
     <PointerOffsetHex>0x7c4</PointerOffsetHex>
     <JapaneseText>だが、彼がディセンダーか</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>108</Id>
     <Status />
@@ -346,7 +346,7 @@
     <PointerOffsetDec>2014</PointerOffsetDec>
     <PointerOffsetHex>0x7de</PointerOffsetHex>
     <JapaneseText>どうかの真偽はわからない。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>109</Id>
     <Status />
@@ -355,7 +355,7 @@
     <PointerOffsetDec>2042</PointerOffsetDec>
     <PointerOffsetHex>0x7fa</PointerOffsetHex>
     <JapaneseText>あくまで予言で伝えられているだけだからな</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>110</Id>
     <Status />
@@ -364,7 +364,7 @@
     <PointerOffsetDec>2083</PointerOffsetDec>
     <PointerOffsetHex>0x823</PointerOffsetHex>
     <JapaneseText>だが、彼女がディセンダーか</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>111</Id>
     <Status />
@@ -373,7 +373,7 @@
     <PointerOffsetDec>2111</PointerOffsetDec>
     <PointerOffsetHex>0x83f</PointerOffsetHex>
     <JapaneseText>どうかの真偽はわからない。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>112</Id>
     <Status />
@@ -382,7 +382,7 @@
     <PointerOffsetDec>2139</PointerOffsetDec>
     <PointerOffsetHex>0x85b</PointerOffsetHex>
     <JapaneseText>あくまで予言で伝えられているだけだからな</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>113</Id>
     <Status />
@@ -391,7 +391,7 @@
     <PointerOffsetDec>2180</PointerOffsetDec>
     <PointerOffsetHex>0x884</PointerOffsetHex>
     <JapaneseText>そもそも、その予言自体の真偽すら、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>114</Id>
     <Status />
@@ -400,7 +400,7 @@
     <PointerOffsetDec>2216</PointerOffsetDec>
     <PointerOffsetHex>0x8a8</PointerOffsetHex>
     <JapaneseText>誰にもわからない</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>115</Id>
     <Status />
@@ -409,7 +409,7 @@
     <PointerOffsetDec>2233</PointerOffsetDec>
     <PointerOffsetHex>0x8b9</PointerOffsetHex>
     <JapaneseText>昔の人の創作話という見方が一般的だろう</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>116</Id>
     <Status />
@@ -418,7 +418,7 @@
     <PointerOffsetDec>2272</PointerOffsetDec>
     <PointerOffsetHex>0x8e0</PointerOffsetHex>
     <JapaneseText>そう、ですか…</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>117</Id>
     <Status />
@@ -427,7 +427,7 @@
     <PointerOffsetDec>2287</PointerOffsetDec>
     <PointerOffsetHex>0x8ef</PointerOffsetHex>
     <JapaneseText>いや、かくいうオレも</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>118</Id>
     <Status />
@@ -436,7 +436,7 @@
     <PointerOffsetDec>2309</PointerOffsetDec>
     <PointerOffsetHex>0x905</PointerOffsetHex>
     <JapaneseText>世界樹が光ったのを見た時、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>119</Id>
     <Status />
@@ -445,7 +445,7 @@
     <PointerOffsetDec>2337</PointerOffsetDec>
     <PointerOffsetHex>0x921</PointerOffsetHex>
     <JapaneseText>真っ先に予言の話を思い出したからな</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>120</Id>
     <Status />
@@ -454,7 +454,7 @@
     <PointerOffsetDec>2372</PointerOffsetDec>
     <PointerOffsetHex>0x944</PointerOffsetHex>
     <JapaneseText>しかし…。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>121</Id>
     <Status />
@@ -463,7 +463,7 @@
     <PointerOffsetDec>2384</PointerOffsetDec>
     <PointerOffsetHex>0x950</PointerOffsetHex>
     <JapaneseText>世間ではディセンダーの出現を待つ宗教が</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>122</Id>
     <Status />
@@ -472,7 +472,7 @@
     <PointerOffsetDec>2424</PointerOffsetDec>
     <PointerOffsetHex>0x978</PointerOffsetHex>
     <JapaneseText>次々に興っている様だな</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>123</Id>
     <Status />
@@ -481,7 +481,7 @@
     <PointerOffsetDec>2447</PointerOffsetDec>
     <PointerOffsetHex>0x98f</PointerOffsetHex>
     <JapaneseText>この様なご時世ですし、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>124</Id>
     <Status />
@@ -490,7 +490,7 @@
     <PointerOffsetDec>2471</PointerOffsetDec>
     <PointerOffsetHex>0x9a7</PointerOffsetHex>
     <JapaneseText>救いを求める人々が多い証拠ですね</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>125</Id>
     <Status />
@@ -499,7 +499,7 @@
     <PointerOffsetDec>2504</PointerOffsetDec>
     <PointerOffsetHex>0x9c8</PointerOffsetHex>
     <JapaneseText>各地で争いが絶えませんからね…。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>126</Id>
     <Status />
@@ -508,7 +508,7 @@
     <PointerOffsetDec>2538</PointerOffsetDec>
     <PointerOffsetHex>0x9ea</PointerOffsetHex>
     <JapaneseText>救いを求める人が増えても、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>127</Id>
     <Status />
@@ -517,7 +517,7 @@
     <PointerOffsetDec>2566</PointerOffsetDec>
     <PointerOffsetHex>0xa06</PointerOffsetHex>
     <JapaneseText>おかしくはありません</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>128</Id>
     <Status />

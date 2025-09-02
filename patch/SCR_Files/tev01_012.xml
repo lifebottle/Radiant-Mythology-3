@@ -4,7 +4,7 @@
     <PointerOffsetDec>42</PointerOffsetDec>
     <PointerOffsetHex>0x2a</PointerOffsetHex>
     <JapaneseText>ダンジョンを移動する</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>3</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>64</PointerOffsetDec>
     <PointerOffsetHex>0x40</PointerOffsetHex>
     <JapaneseText>モンスターシンボルと接触すると、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>4</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>98</PointerOffsetDec>
     <PointerOffsetHex>0x62</PointerOffsetHex>
     <JapaneseText>戦闘開始となります</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>5</Id>
     <Status />

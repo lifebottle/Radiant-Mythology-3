@@ -4,7 +4,7 @@
     <PointerOffsetDec>46</PointerOffsetDec>
     <PointerOffsetHex>0x2e</PointerOffsetHex>
     <JapaneseText>採掘ポイントは、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>2</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>64</PointerOffsetDec>
     <PointerOffsetHex>0x40</PointerOffsetHex>
     <JapaneseText>ダンジョンに入り直すと再び現れます</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>3</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>99</PointerOffsetDec>
     <PointerOffsetHex>0x63</PointerOffsetHex>
     <JapaneseText>同様に、赤宝箱も</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>4</Id>
     <Status />
@@ -31,7 +31,7 @@
     <PointerOffsetDec>117</PointerOffsetDec>
     <PointerOffsetHex>0x75</PointerOffsetHex>
     <JapaneseText>ダンジョンに入り直す事で復活します</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>5</Id>
     <Status />

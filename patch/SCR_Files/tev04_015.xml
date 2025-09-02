@@ -4,7 +4,7 @@
     <PointerOffsetDec>48</PointerOffsetDec>
     <PointerOffsetHex>0x30</PointerOffsetHex>
     <JapaneseText>アナログパッドで、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>4</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>68</PointerOffsetDec>
     <PointerOffsetHex>0x44</PointerOffsetHex>
     <JapaneseText>戦闘フィールドを自由に移動。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>5</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>98</PointerOffsetDec>
     <PointerOffsetHex>0x62</PointerOffsetHex>
     <JapaneseText>有利な位置取りを行う事が出来る</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>6</Id>
     <Status />

@@ -4,7 +4,7 @@
     <PointerOffsetDec>64</PointerOffsetDec>
     <PointerOffsetHex>0x40</PointerOffsetHex>
     <JapaneseText>こっちは行き止まりだね。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>5</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>90</PointerOffsetDec>
     <PointerOffsetHex>0x5a</PointerOffsetHex>
     <JapaneseText>引き返そう</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>6</Id>
     <Status />

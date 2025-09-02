@@ -4,7 +4,7 @@
     <PointerOffsetDec>40</PointerOffsetDec>
     <PointerOffsetHex>0x28</PointerOffsetHex>
     <JapaneseText>△ボタンを押すとメニューを起動します。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>3</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>80</PointerOffsetDec>
     <PointerOffsetHex>0x50</PointerOffsetHex>
     <JapaneseText>メニューからアイテムの使用や、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>4</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>112</PointerOffsetDec>
     <PointerOffsetHex>0x70</PointerOffsetHex>
     <JapaneseText>ステータスで状態の確認などが出来ます</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>5</Id>
     <Status />

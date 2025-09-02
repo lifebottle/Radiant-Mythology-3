@@ -4,7 +4,7 @@
     <PointerOffsetDec>64</PointerOffsetDec>
     <PointerOffsetHex>0x40</PointerOffsetHex>
     <JapaneseText>まずは、艦内見取り図を</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>5</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>88</PointerOffsetDec>
     <PointerOffsetHex>0x58</PointerOffsetHex>
     <JapaneseText>確認した方がいいよ。</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>6</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>110</PointerOffsetDec>
     <PointerOffsetHex>0x6e</PointerOffsetHex>
     <JapaneseText>□ボタンを押してみて</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>7</Id>
     <Status />

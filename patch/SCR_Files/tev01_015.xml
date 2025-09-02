@@ -4,7 +4,7 @@
     <PointerOffsetDec>34</PointerOffsetDec>
     <PointerOffsetHex>0x22</PointerOffsetHex>
     <JapaneseText>宝箱は○ボタンで開けられます</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>2</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>63</PointerOffsetDec>
     <PointerOffsetHex>0x3f</PointerOffsetHex>
     <JapaneseText>赤い宝箱の中身は、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>3</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>83</PointerOffsetDec>
     <PointerOffsetHex>0x53</PointerOffsetHex>
     <JapaneseText>ダンジョンに入る度に変化し、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>4</Id>
     <Status />
@@ -31,7 +31,7 @@
     <PointerOffsetDec>113</PointerOffsetDec>
     <PointerOffsetHex>0x71</PointerOffsetHex>
     <JapaneseText>何が入っているかはわかりません</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>5</Id>
     <Status />

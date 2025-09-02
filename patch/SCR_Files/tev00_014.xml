@@ -4,7 +4,7 @@
     <PointerOffsetDec>72</PointerOffsetDec>
     <PointerOffsetHex>0x48</PointerOffsetHex>
     <JapaneseText>メニューの「作戦」では、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>3</Id>
     <Status />
@@ -13,7 +13,7 @@
     <PointerOffsetDec>98</PointerOffsetDec>
     <PointerOffsetHex>0x62</PointerOffsetHex>
     <JapaneseText>「基本行動」や「優先行動」の設定によって、</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>4</Id>
     <Status />
@@ -22,7 +22,7 @@
     <PointerOffsetDec>142</PointerOffsetDec>
     <PointerOffsetHex>0x8e</PointerOffsetHex>
     <JapaneseText>仲間の戦闘行動を制御する事が出来ます</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>5</Id>
     <Status />
@@ -31,7 +31,7 @@
     <PointerOffsetDec>179</PointerOffsetDec>
     <PointerOffsetHex>0xb3</PointerOffsetHex>
     <JapaneseText>なお、戦闘中でも、戦闘メニューから</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>6</Id>
     <Status />
@@ -40,7 +40,7 @@
     <PointerOffsetDec>215</PointerOffsetDec>
     <PointerOffsetHex>0xd7</PointerOffsetHex>
     <JapaneseText>「作戦」の変更は可能です</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>7</Id>
     <Status />
@@ -49,7 +49,7 @@
     <PointerOffsetDec>240</PointerOffsetDec>
     <PointerOffsetHex>0xf0</PointerOffsetHex>
     <JapaneseText>メニューの「作戦・隊列」が使用可能になりました</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>8</Id>
     <Status />
@@ -58,7 +58,7 @@
     <PointerOffsetDec>287</PointerOffsetDec>
     <PointerOffsetHex>0x11f</PointerOffsetHex>
     <JapaneseText>優先行動（ひよっこ編）が使えるようになりました！</JapaneseText>
-    <EnglishText />
+    <EnglishText></EnglishText>
     <Notes />
     <Id>9</Id>
     <Status />
