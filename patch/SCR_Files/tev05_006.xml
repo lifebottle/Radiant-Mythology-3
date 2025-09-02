@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>270</PointerOffsetDec>
+    <PointerOffsetHex>0x10e</PointerOffsetHex>
+    <JapaneseText>ああ、そうだ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>14</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>286</PointerOffsetDec>
+    <PointerOffsetHex>0x11e</PointerOffsetHex>
+    <JapaneseText>冒険者には必須の知恵、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>15</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>310</PointerOffsetDec>
+    <PointerOffsetHex>0x136</PointerOffsetHex>
+    <JapaneseText>「生産」について教えてあげるね</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>16</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>341</PointerOffsetDec>
+    <PointerOffsetHex>0x155</PointerOffsetHex>
+    <JapaneseText>「生産」を行うと、「料理」「グミ」</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>17</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>377</PointerOffsetDec>
+    <PointerOffsetHex>0x179</PointerOffsetHex>
+    <JapaneseText>「ボトル」といった便利アイテムを、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>18</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>413</PointerOffsetDec>
+    <PointerOffsetHex>0x19d</PointerOffsetHex>
+    <JapaneseText>自分で作る事が出来るの</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>19</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>436</PointerOffsetDec>
+    <PointerOffsetHex>0x1b4</PointerOffsetHex>
+    <JapaneseText>「生産」を行うには、生産したいモノの</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>20</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>474</PointerOffsetDec>
+    <PointerOffsetHex>0x1da</PointerOffsetHex>
+    <JapaneseText>「レシピ」を持っていること。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>21</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>504</PointerOffsetDec>
+    <PointerOffsetHex>0x1f8</PointerOffsetHex>
+    <JapaneseText>次に、必要な材料を持っていること</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>22</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>537</PointerOffsetDec>
+    <PointerOffsetHex>0x219</PointerOffsetHex>
+    <JapaneseText>これらの条件がそろっていたら、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>23</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>569</PointerOffsetDec>
+    <PointerOffsetHex>0x239</PointerOffsetHex>
+    <JapaneseText>メニューの生産から、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>24</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>591</PointerOffsetDec>
+    <PointerOffsetHex>0x24f</PointerOffsetHex>
+    <JapaneseText>作りたいモノを選択すればいいの</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>25</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>622</PointerOffsetDec>
+    <PointerOffsetHex>0x26e</PointerOffsetHex>
+    <JapaneseText>レシピは宝箱なんかで手に入る事もあるし、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>26</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>664</PointerOffsetDec>
+    <PointerOffsetHex>0x298</PointerOffsetHex>
+    <JapaneseText>色々生産を楽しんでみるといいと思うよ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>27</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>701</PointerOffsetDec>
+    <PointerOffsetHex>0x2bd</PointerOffsetHex>
+    <JapaneseText>メニューの「生産」が使用可能になりました</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>28</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>742</PointerOffsetDec>
+    <PointerOffsetHex>0x2e6</PointerOffsetHex>
+    <JapaneseText>各種レシピを受け取りました</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>29</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>769</PointerOffsetDec>
+    <PointerOffsetHex>0x301</PointerOffsetHex>
+    <JapaneseText>各種素材を受け取りました</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>30</Id>
+    <Status />
+  </Entry>
+</Entries>

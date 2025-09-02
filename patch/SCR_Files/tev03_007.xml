@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>58</PointerOffsetDec>
+    <PointerOffsetHex>0x3a</PointerOffsetHex>
+    <JapaneseText>目的地への移動は、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>78</PointerOffsetDec>
+    <PointerOffsetHex>0x4e</PointerOffsetHex>
+    <JapaneseText>この「ワールドマップ」で行います</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>111</PointerOffsetDec>
+    <PointerOffsetHex>0x6f</PointerOffsetHex>
+    <JapaneseText>移動したい場所を選択して、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>139</PointerOffsetDec>
+    <PointerOffsetHex>0x8b</PointerOffsetHex>
+    <JapaneseText>○ボタンで決定です</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>7</Id>
+    <Status />
+  </Entry>
+</Entries>

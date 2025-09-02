@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>48</PointerOffsetDec>
+    <PointerOffsetHex>0x30</PointerOffsetHex>
+    <JapaneseText>艦内見取り図を受け取りました。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>80</PointerOffsetDec>
+    <PointerOffsetHex>0x50</PointerOffsetHex>
+    <JapaneseText>□ボタンを押すと、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>100</PointerOffsetDec>
+    <PointerOffsetHex>0x64</PointerOffsetHex>
+    <JapaneseText>艦内見取り図を表示します</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+</Entries>

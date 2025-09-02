@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>40</PointerOffsetDec>
+    <PointerOffsetHex>0x28</PointerOffsetHex>
+    <JapaneseText>統</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>56</PointerOffsetDec>
+    <PointerOffsetHex>0x38</PointerOffsetHex>
+    <JapaneseText>満</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>465</PointerOffsetDec>
+    <PointerOffsetHex>0x1d1</PointerOffsetHex>
+    <JapaneseText>お、まだいたか</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>30</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>480</PointerOffsetDec>
+    <PointerOffsetHex>0x1e0</PointerOffsetHex>
+    <JapaneseText>お手柔らかに頼むぜ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>31</Id>
+    <Status />
+  </Entry>
+</Entries>

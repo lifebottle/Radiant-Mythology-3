@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>40</PointerOffsetDec>
+    <PointerOffsetHex>0x28</PointerOffsetHex>
+    <JapaneseText>△ボタンを押すとメニューを起動します。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>80</PointerOffsetDec>
+    <PointerOffsetHex>0x50</PointerOffsetHex>
+    <JapaneseText>メニューからアイテムの使用や、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>112</PointerOffsetDec>
+    <PointerOffsetHex>0x70</PointerOffsetHex>
+    <JapaneseText>ステータスで状態の確認などが出来ます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+</Entries>

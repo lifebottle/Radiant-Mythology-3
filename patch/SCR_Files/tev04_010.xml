@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>32</PointerOffsetDec>
+    <PointerOffsetHex>0x20</PointerOffsetHex>
+    <JapaneseText>ダンジョンには、通行を妨げる</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>62</PointerOffsetDec>
+    <PointerOffsetHex>0x3e</PointerOffsetHex>
+    <JapaneseText>ギミックがあります</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>81</PointerOffsetDec>
+    <PointerOffsetHex>0x51</PointerOffsetHex>
+    <JapaneseText>また、ギミック解除の手段は</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>109</PointerOffsetDec>
+    <PointerOffsetHex>0x6d</PointerOffsetHex>
+    <JapaneseText>ゲームの進行によって可能になるもの、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>147</PointerOffsetDec>
+    <PointerOffsetHex>0x93</PointerOffsetHex>
+    <JapaneseText>パズルの様な仕掛けのものなど様々です</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+</Entries>

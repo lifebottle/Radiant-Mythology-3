@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>64</PointerOffsetDec>
+    <PointerOffsetHex>0x40</PointerOffsetHex>
+    <JapaneseText>クエストも達成した事だし、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>92</PointerOffsetDec>
+    <PointerOffsetHex>0x5c</PointerOffsetHex>
+    <JapaneseText>ＳＴＡＲＴボタンを押して、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>120</PointerOffsetDec>
+    <PointerOffsetHex>0x78</PointerOffsetHex>
+    <JapaneseText>パパッとバンエルティア号へ戻ろう！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>7</Id>
+    <Status />
+  </Entry>
+</Entries>

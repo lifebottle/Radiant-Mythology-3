@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>48</PointerOffsetDec>
+    <PointerOffsetHex>0x30</PointerOffsetHex>
+    <JapaneseText>メニュー中にＳＴＡＲＴボタンで、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>82</PointerOffsetDec>
+    <PointerOffsetHex>0x52</PointerOffsetHex>
+    <JapaneseText>操作キャラを切り替える</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+</Entries>

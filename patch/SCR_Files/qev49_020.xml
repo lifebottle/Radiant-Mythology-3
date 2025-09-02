@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>151</PointerOffsetDec>
+    <PointerOffsetHex>0x97</PointerOffsetHex>
+    <JapaneseText>やっぱり、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>10</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>163</PointerOffsetDec>
+    <PointerOffsetHex>0xa3</PointerOffsetHex>
+    <JapaneseText>行ってくれると思ったぞ、しかし</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>11</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>194</PointerOffsetDec>
+    <PointerOffsetHex>0xc2</PointerOffsetHex>
+    <JapaneseText>コーダ、お腹すいてるぞ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>12</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>220</PointerOffsetDec>
+    <PointerOffsetHex>0xdc</PointerOffsetHex>
+    <JapaneseText>しっかり取って来い。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>13</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>242</PointerOffsetDec>
+    <PointerOffsetHex>0xf2</PointerOffsetHex>
+    <JapaneseText>待ってるぞ、しかし</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>14</Id>
+    <Status />
+  </Entry>
+</Entries>

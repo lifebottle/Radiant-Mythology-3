@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>46</PointerOffsetDec>
+    <PointerOffsetHex>0x2e</PointerOffsetHex>
+    <JapaneseText>採掘ポイントは、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>64</PointerOffsetDec>
+    <PointerOffsetHex>0x40</PointerOffsetHex>
+    <JapaneseText>ダンジョンに入り直すと再び現れます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>99</PointerOffsetDec>
+    <PointerOffsetHex>0x63</PointerOffsetHex>
+    <JapaneseText>同様に、赤宝箱も</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>117</PointerOffsetDec>
+    <PointerOffsetHex>0x75</PointerOffsetHex>
+    <JapaneseText>ダンジョンに入り直す事で復活します</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+</Entries>

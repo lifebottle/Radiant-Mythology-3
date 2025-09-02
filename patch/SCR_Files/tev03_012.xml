@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>46</PointerOffsetDec>
+    <PointerOffsetHex>0x2e</PointerOffsetHex>
+    <JapaneseText>クエストを達成すると、ダンジョンから</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>84</PointerOffsetDec>
+    <PointerOffsetHex>0x54</PointerOffsetHex>
+    <JapaneseText>バンエルティア号へパッと戻る事が</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>118</PointerOffsetDec>
+    <PointerOffsetHex>0x76</PointerOffsetHex>
+    <JapaneseText>出来ます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>127</PointerOffsetDec>
+    <PointerOffsetHex>0x7f</PointerOffsetHex>
+    <JapaneseText>ＳＴＡＲＴボタンを押して、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>155</PointerOffsetDec>
+    <PointerOffsetHex>0x9b</PointerOffsetHex>
+    <JapaneseText>「バンエルティア号に戻りますか？」の</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>193</PointerOffsetDec>
+    <PointerOffsetHex>0xc1</PointerOffsetHex>
+    <JapaneseText>メニューを呼び出し「はい」を選んで下さい</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>7</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>234</PointerOffsetDec>
+    <PointerOffsetHex>0xea</PointerOffsetHex>
+    <JapaneseText>なお、このメニューは、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>8</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>258</PointerOffsetDec>
+    <PointerOffsetHex>0x102</PointerOffsetHex>
+    <JapaneseText>クエストを達成するまで利用出来ません</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>9</Id>
+    <Status />
+  </Entry>
+</Entries>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>50</PointerOffsetDec>
+    <PointerOffsetHex>0x32</PointerOffsetHex>
+    <JapaneseText>京</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>234</PointerOffsetDec>
+    <PointerOffsetHex>0xea</PointerOffsetHex>
+    <JapaneseText>己自身を越えろ、ディセンダー。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>14</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>266</PointerOffsetDec>
+    <PointerOffsetHex>0x10a</PointerOffsetHex>
+    <JapaneseText>そなたには、その力があるのだ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>15</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>297</PointerOffsetDec>
+    <PointerOffsetHex>0x129</PointerOffsetHex>
+    <JapaneseText>さあ、そなたの欲する未来を創れ！！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>16</Id>
+    <Status />
+  </Entry>
+</Entries>

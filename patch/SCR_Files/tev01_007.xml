@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>48</PointerOffsetDec>
+    <PointerOffsetHex>0x30</PointerOffsetHex>
+    <JapaneseText>×ボタンで術や技を使用</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>72</PointerOffsetDec>
+    <PointerOffsetHex>0x48</PointerOffsetHex>
+    <JapaneseText>方向キーとの組み合わせで術や技が変化</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+</Entries>

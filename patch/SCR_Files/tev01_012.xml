@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>42</PointerOffsetDec>
+    <PointerOffsetHex>0x2a</PointerOffsetHex>
+    <JapaneseText>ダンジョンを移動する</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>64</PointerOffsetDec>
+    <PointerOffsetHex>0x40</PointerOffsetHex>
+    <JapaneseText>モンスターシンボルと接触すると、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>98</PointerOffsetDec>
+    <PointerOffsetHex>0x62</PointerOffsetHex>
+    <JapaneseText>戦闘開始となります</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+</Entries>

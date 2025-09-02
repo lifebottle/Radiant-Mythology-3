@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>40</PointerOffsetDec>
+    <PointerOffsetHex>0x28</PointerOffsetHex>
+    <JapaneseText>泅</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>617</PointerOffsetDec>
+    <PointerOffsetHex>0x269</PointerOffsetHex>
+    <JapaneseText>ここが赤のオアシス…だよね？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>39</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>646</PointerOffsetDec>
+    <PointerOffsetHex>0x286</PointerOffsetHex>
+    <JapaneseText>邪魔されちゃってるなあ…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>40</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>671</PointerOffsetDec>
+    <PointerOffsetHex>0x29f</PointerOffsetHex>
+    <JapaneseText>でも、ここに用があるんだから</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>41</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>701</PointerOffsetDec>
+    <PointerOffsetHex>0x2bd</PointerOffsetHex>
+    <JapaneseText>さっさとボコメキョにしちゃおう！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>42</Id>
+    <Status />
+  </Entry>
+</Entries>

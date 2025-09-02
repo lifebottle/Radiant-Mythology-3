@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>46</PointerOffsetDec>
+    <PointerOffsetHex>0x2e</PointerOffsetHex>
+    <JapaneseText>これは倉庫です。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>64</PointerOffsetDec>
+    <PointerOffsetHex>0x40</PointerOffsetHex>
+    <JapaneseText>所持している装備品を預ける事が</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>96</PointerOffsetDec>
+    <PointerOffsetHex>0x60</PointerOffsetHex>
+    <JapaneseText>出来ます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>105</PointerOffsetDec>
+    <PointerOffsetHex>0x69</PointerOffsetHex>
+    <JapaneseText>また、倉庫に預けている装備アイテムを</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>143</PointerOffsetDec>
+    <PointerOffsetHex>0x8f</PointerOffsetHex>
+    <JapaneseText>ここで売却する事も可能です</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>170</PointerOffsetDec>
+    <PointerOffsetHex>0xaa</PointerOffsetHex>
+    <JapaneseText>倉庫は、クエストカウンタの横と</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>7</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>202</PointerOffsetDec>
+    <PointerOffsetHex>0xca</PointerOffsetHex>
+    <JapaneseText>ショップに設置されています</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>8</Id>
+    <Status />
+  </Entry>
+</Entries>

@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>144</PointerOffsetDec>
+    <PointerOffsetHex>0x90</PointerOffsetHex>
+    <JapaneseText>漲捧</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1058</PointerOffsetDec>
+    <PointerOffsetHex>0x422</PointerOffsetHex>
+    <JapaneseText>樓</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>78</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1874</PointerOffsetDec>
+    <PointerOffsetHex>0x752</PointerOffsetHex>
+    <JapaneseText>だ、誰かいるよ…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>125</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1891</PointerOffsetDec>
+    <PointerOffsetHex>0x763</PointerOffsetHex>
+    <JapaneseText>精霊じゃ無さそうだな</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>126</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1912</PointerOffsetDec>
+    <PointerOffsetHex>0x778</PointerOffsetHex>
+    <JapaneseText>でも、アンジュさんの指示じゃ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>127</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1942</PointerOffsetDec>
+    <PointerOffsetHex>0x796</PointerOffsetHex>
+    <JapaneseText>目的地はここなんだけどな</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>128</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1967</PointerOffsetDec>
+    <PointerOffsetHex>0x7af</PointerOffsetHex>
+    <JapaneseText>男に精霊の居場所を聞いてみる</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>129</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1996</PointerOffsetDec>
+    <PointerOffsetHex>0x7cc</PointerOffsetHex>
+    <JapaneseText>男を無視して、精霊を探す</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>130</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2021</PointerOffsetDec>
+    <PointerOffsetHex>0x7e5</PointerOffsetHex>
+    <JapaneseText>精霊を探している、だと？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>131</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2046</PointerOffsetDec>
+    <PointerOffsetHex>0x7fe</PointerOffsetHex>
+    <JapaneseText>…あ……、…その、僕達は…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>132</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2073</PointerOffsetDec>
+    <PointerOffsetHex>0x819</PointerOffsetHex>
+    <JapaneseText>…ギルドの者で…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>133</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2091</PointerOffsetDec>
+    <PointerOffsetHex>0x82b</PointerOffsetHex>
+    <JapaneseText>精霊を……探していて………</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>134</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2118</PointerOffsetDec>
+    <PointerOffsetHex>0x846</PointerOffsetHex>
+    <JapaneseText>精霊に会わせる事は出来ない。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>135</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2148</PointerOffsetDec>
+    <PointerOffsetHex>0x864</PointerOffsetHex>
+    <JapaneseText>早々に立ち去れ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>136</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2163</PointerOffsetDec>
+    <PointerOffsetHex>0x873</PointerOffsetHex>
+    <JapaneseText>でも、オレ達は精霊に</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>137</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2185</PointerOffsetDec>
+    <PointerOffsetHex>0x889</PointerOffsetHex>
+    <JapaneseText>聞かなきゃいけない事があるんだよ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>138</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2221</PointerOffsetDec>
+    <PointerOffsetHex>0x8ad</PointerOffsetHex>
+    <JapaneseText>話がしたいだけなんだ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>139</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2242</PointerOffsetDec>
+    <PointerOffsetHex>0x8c2</PointerOffsetHex>
+    <JapaneseText>話だと？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>140</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2251</PointerOffsetDec>
+    <PointerOffsetHex>0x8cb</PointerOffsetHex>
+    <JapaneseText>そんな嘘は、今まで訪れた者は皆言っていた</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>141</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2292</PointerOffsetDec>
+    <PointerOffsetHex>0x8f4</PointerOffsetHex>
+    <JapaneseText>お前達の目的は、精霊を捕え</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>142</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2320</PointerOffsetDec>
+    <PointerOffsetHex>0x910</PointerOffsetHex>
+    <JapaneseText>星晶がある場所を探知させる為に</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>143</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2352</PointerOffsetDec>
+    <PointerOffsetHex>0x930</PointerOffsetHex>
+    <JapaneseText>利用したいだけなのだろう？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>144</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2379</PointerOffsetDec>
+    <PointerOffsetHex>0x94b</PointerOffsetHex>
+    <JapaneseText>い、いいえ……</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>145</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2394</PointerOffsetDec>
+    <PointerOffsetHex>0x95a</PointerOffsetHex>
+    <JapaneseText>そんな事は…、絶対に……</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>146</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2419</PointerOffsetDec>
+    <PointerOffsetHex>0x973</PointerOffsetHex>
+    <JapaneseText>精霊を知ってるんだな</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>147</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2440</PointerOffsetDec>
+    <PointerOffsetHex>0x988</PointerOffsetHex>
+    <JapaneseText>あんたこそ、何者なんだよ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>148</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2474</PointerOffsetDec>
+    <PointerOffsetHex>0x9aa</PointerOffsetHex>
+    <JapaneseText>俺は、リヒター・アーベント。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>150</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2504</PointerOffsetDec>
+    <PointerOffsetHex>0x9c8</PointerOffsetHex>
+    <JapaneseText>ここにいる精霊と契約し、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>151</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2530</PointerOffsetDec>
+    <PointerOffsetHex>0x9e2</PointerOffsetHex>
+    <JapaneseText>この地と精霊を守る者だ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>152</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2553</PointerOffsetDec>
+    <PointerOffsetHex>0x9f9</PointerOffsetHex>
+    <JapaneseText>精霊に会いたくば、俺に勝ってみせろ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>153</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2588</PointerOffsetDec>
+    <PointerOffsetHex>0xa1c</PointerOffsetHex>
+    <JapaneseText>そういう事か</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>154</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2601</PointerOffsetDec>
+    <PointerOffsetHex>0xa29</PointerOffsetHex>
+    <JapaneseText>よし、行くぜ！　みんな！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>155</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2649</PointerOffsetDec>
+    <PointerOffsetHex>0xa59</PointerOffsetHex>
+    <JapaneseText>お前達、ここへ何しに来た…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>156</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2676</PointerOffsetDec>
+    <PointerOffsetHex>0xa74</PointerOffsetHex>
+    <JapaneseText>…あ……、…その、僕達は…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>157</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2703</PointerOffsetDec>
+    <PointerOffsetHex>0xa8f</PointerOffsetHex>
+    <JapaneseText>…ギルドの者で…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>158</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2721</PointerOffsetDec>
+    <PointerOffsetHex>0xaa1</PointerOffsetHex>
+    <JapaneseText>精霊を……探していて………</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>159</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2748</PointerOffsetDec>
+    <PointerOffsetHex>0xabc</PointerOffsetHex>
+    <JapaneseText>精霊に会わせる事は出来ない。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>160</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2778</PointerOffsetDec>
+    <PointerOffsetHex>0xada</PointerOffsetHex>
+    <JapaneseText>早々に立ち去れ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>161</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2793</PointerOffsetDec>
+    <PointerOffsetHex>0xae9</PointerOffsetHex>
+    <JapaneseText>でも、オレ達は精霊に</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>162</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2815</PointerOffsetDec>
+    <PointerOffsetHex>0xaff</PointerOffsetHex>
+    <JapaneseText>聞かなきゃいけない事があるんだよ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>163</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2851</PointerOffsetDec>
+    <PointerOffsetHex>0xb23</PointerOffsetHex>
+    <JapaneseText>話がしたいだけなんだ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>164</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2872</PointerOffsetDec>
+    <PointerOffsetHex>0xb38</PointerOffsetHex>
+    <JapaneseText>話だと？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>165</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2881</PointerOffsetDec>
+    <PointerOffsetHex>0xb41</PointerOffsetHex>
+    <JapaneseText>そんな嘘は、今まで訪れた者は皆言っていた</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>166</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2922</PointerOffsetDec>
+    <PointerOffsetHex>0xb6a</PointerOffsetHex>
+    <JapaneseText>お前達の目的は、精霊を捕え</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>167</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2950</PointerOffsetDec>
+    <PointerOffsetHex>0xb86</PointerOffsetHex>
+    <JapaneseText>星晶がある場所を探知させる為に</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>168</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2982</PointerOffsetDec>
+    <PointerOffsetHex>0xba6</PointerOffsetHex>
+    <JapaneseText>利用したいだけなのだろう？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>169</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3009</PointerOffsetDec>
+    <PointerOffsetHex>0xbc1</PointerOffsetHex>
+    <JapaneseText>い、いいえ……</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>170</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3024</PointerOffsetDec>
+    <PointerOffsetHex>0xbd0</PointerOffsetHex>
+    <JapaneseText>そんな事は…、絶対に……</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>171</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3049</PointerOffsetDec>
+    <PointerOffsetHex>0xbe9</PointerOffsetHex>
+    <JapaneseText>精霊を知ってるんだな</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>172</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3070</PointerOffsetDec>
+    <PointerOffsetHex>0xbfe</PointerOffsetHex>
+    <JapaneseText>あんたこそ、何者なんだよ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>173</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3104</PointerOffsetDec>
+    <PointerOffsetHex>0xc20</PointerOffsetHex>
+    <JapaneseText>俺は、リヒター・アーベント。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>175</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3134</PointerOffsetDec>
+    <PointerOffsetHex>0xc3e</PointerOffsetHex>
+    <JapaneseText>ここにいる精霊と契約し、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>176</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3160</PointerOffsetDec>
+    <PointerOffsetHex>0xc58</PointerOffsetHex>
+    <JapaneseText>この地と精霊を守る者だ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>177</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3183</PointerOffsetDec>
+    <PointerOffsetHex>0xc6f</PointerOffsetHex>
+    <JapaneseText>精霊に会いたくば、俺に勝ってみせろ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>178</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3218</PointerOffsetDec>
+    <PointerOffsetHex>0xc92</PointerOffsetHex>
+    <JapaneseText>そういう事か</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>179</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3231</PointerOffsetDec>
+    <PointerOffsetHex>0xc9f</PointerOffsetHex>
+    <JapaneseText>よし、行くぜ！　みんな！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>180</Id>
+    <Status />
+  </Entry>
+</Entries>

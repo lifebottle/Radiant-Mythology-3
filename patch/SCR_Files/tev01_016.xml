@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>28</PointerOffsetDec>
+    <PointerOffsetHex>0x1c</PointerOffsetHex>
+    <JapaneseText>宝箱は○ボタンで開けられます。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>60</PointerOffsetDec>
+    <PointerOffsetHex>0x3c</PointerOffsetHex>
+    <JapaneseText>緑の宝箱の中身は決まっており、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>92</PointerOffsetDec>
+    <PointerOffsetHex>0x5c</PointerOffsetHex>
+    <JapaneseText>取れるのは一度だけです</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+</Entries>

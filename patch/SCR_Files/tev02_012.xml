@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>90</PointerOffsetDec>
+    <PointerOffsetHex>0x5a</PointerOffsetHex>
+    <JapaneseText>それじゃ挨拶も済んだ事だし、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>7</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>120</PointerOffsetDec>
+    <PointerOffsetHex>0x78</PointerOffsetHex>
+    <JapaneseText>アンジュさんの所に行って報告しよう</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>8</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>155</PointerOffsetDec>
+    <PointerOffsetHex>0x9b</PointerOffsetHex>
+    <JapaneseText>次は、仕事について</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>9</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>175</PointerOffsetDec>
+    <PointerOffsetHex>0xaf</PointerOffsetHex>
+    <JapaneseText>色々と説明してくれるはずだから</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>10</Id>
+    <Status />
+  </Entry>
+</Entries>

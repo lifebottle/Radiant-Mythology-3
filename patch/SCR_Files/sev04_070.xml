@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>78</PointerOffsetDec>
+    <PointerOffsetHex>0x4e</PointerOffsetHex>
+    <JapaneseText>旋</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>461</PointerOffsetDec>
+    <PointerOffsetHex>0x1cd</PointerOffsetHex>
+    <JapaneseText>これで決めなくちゃ…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>25</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>482</PointerOffsetDec>
+    <PointerOffsetHex>0x1e2</PointerOffsetHex>
+    <JapaneseText>行くよ、○○！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>26</Id>
+    <Status />
+  </Entry>
+</Entries>

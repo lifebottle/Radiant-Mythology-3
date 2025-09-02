@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>34</PointerOffsetDec>
+    <PointerOffsetHex>0x22</PointerOffsetHex>
+    <JapaneseText>バンエルティア号の艦内では、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>64</PointerOffsetDec>
+    <PointerOffsetHex>0x40</PointerOffsetHex>
+    <JapaneseText>ダンジョン内と違い、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>86</PointerOffsetDec>
+    <PointerOffsetHex>0x56</PointerOffsetHex>
+    <JapaneseText>どこでもセーブが出来ます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>111</PointerOffsetDec>
+    <PointerOffsetHex>0x6f</PointerOffsetHex>
+    <JapaneseText>セーブはメニューから行って下さい</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+</Entries>

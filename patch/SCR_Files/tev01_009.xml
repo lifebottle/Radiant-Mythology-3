@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>66</PointerOffsetDec>
+    <PointerOffsetHex>0x42</PointerOffsetHex>
+    <JapaneseText>×ボタンを押すと、ミニマップを表示し、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>106</PointerOffsetDec>
+    <PointerOffsetHex>0x6a</PointerOffsetHex>
+    <JapaneseText>周囲を確認出来ます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>125</PointerOffsetDec>
+    <PointerOffsetHex>0x7d</PointerOffsetHex>
+    <JapaneseText>再び非表示にするには、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>149</PointerOffsetDec>
+    <PointerOffsetHex>0x95</PointerOffsetHex>
+    <JapaneseText>×ボタンを押して下さい</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>7</Id>
+    <Status />
+  </Entry>
+</Entries>

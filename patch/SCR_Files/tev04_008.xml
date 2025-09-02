@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>90</PointerOffsetDec>
+    <PointerOffsetHex>0x5a</PointerOffsetHex>
+    <JapaneseText>あ、こっちはまだ駄目だよ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>7</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>118</PointerOffsetDec>
+    <PointerOffsetHex>0x76</PointerOffsetHex>
+    <JapaneseText>魔物だって強いのがいるし、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>8</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>146</PointerOffsetDec>
+    <PointerOffsetHex>0x92</PointerOffsetHex>
+    <JapaneseText>危険だもの</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>9</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>157</PointerOffsetDec>
+    <PointerOffsetHex>0x9d</PointerOffsetHex>
+    <JapaneseText>元の道へ戻ろう</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>10</Id>
+    <Status />
+  </Entry>
+</Entries>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>144</PointerOffsetDec>
+    <PointerOffsetHex>0x90</PointerOffsetHex>
+    <JapaneseText>なぁ……。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>10</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>156</PointerOffsetDec>
+    <PointerOffsetHex>0x9c</PointerOffsetHex>
+    <JapaneseText>まさかとは思うが、あいつに会うの、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>11</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>192</PointerOffsetDec>
+    <PointerOffsetHex>0xc0</PointerOffsetHex>
+    <JapaneseText>楽しみにしてないよな？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>12</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>224</PointerOffsetDec>
+    <PointerOffsetHex>0xe0</PointerOffsetHex>
+    <JapaneseText>レシピを取りに行くのが目的なんだよな？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>14</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>264</PointerOffsetDec>
+    <PointerOffsetHex>0x108</PointerOffsetHex>
+    <JapaneseText>いや、いいんだ、悪いな……</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>15</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>291</PointerOffsetDec>
+    <PointerOffsetHex>0x123</PointerOffsetHex>
+    <JapaneseText>よし……行こう</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>16</Id>
+    <Status />
+  </Entry>
+</Entries>

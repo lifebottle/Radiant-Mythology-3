@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>250</PointerOffsetDec>
+    <PointerOffsetHex>0xfa</PointerOffsetHex>
+    <JapaneseText>奩</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>14</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>272</PointerOffsetDec>
+    <PointerOffsetHex>0x110</PointerOffsetHex>
+    <JapaneseText>さあ、世界樹へ還れ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>16</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>294</PointerOffsetDec>
+    <PointerOffsetHex>0x126</PointerOffsetHex>
+    <JapaneseText>そして、その力を私に！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>17</Id>
+    <Status />
+  </Entry>
+</Entries>

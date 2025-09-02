@@ -1,0 +1,678 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>616</PointerOffsetDec>
+    <PointerOffsetHex>0x268</PointerOffsetHex>
+    <JapaneseText>圏</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>33</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1264</PointerOffsetDec>
+    <PointerOffsetHex>0x4f0</PointerOffsetHex>
+    <JapaneseText>夾</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>80</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1987</PointerOffsetDec>
+    <PointerOffsetHex>0x7c3</PointerOffsetHex>
+    <JapaneseText>光の中に、世界が見える。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>120</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2013</PointerOffsetDec>
+    <PointerOffsetHex>0x7dd</PointerOffsetHex>
+    <JapaneseText>たくさんの世界が…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>121</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2032</PointerOffsetDec>
+    <PointerOffsetHex>0x7f0</PointerOffsetHex>
+    <JapaneseText>私がいる。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>122</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2044</PointerOffsetDec>
+    <PointerOffsetHex>0x7fc</PointerOffsetHex>
+    <JapaneseText>色んな世界に色んな私が</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>123</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2067</PointerOffsetDec>
+    <PointerOffsetHex>0x813</PointerOffsetHex>
+    <JapaneseText>こんなにたくさん…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>124</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2086</PointerOffsetDec>
+    <PointerOffsetHex>0x826</PointerOffsetHex>
+    <JapaneseText>世界樹は、新しい種子を実らせる時、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>125</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2122</PointerOffsetDec>
+    <PointerOffsetHex>0x84a</PointerOffsetHex>
+    <JapaneseText>自らの経験を全て種子へと</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>126</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2148</PointerOffsetDec>
+    <PointerOffsetHex>0x864</PointerOffsetHex>
+    <JapaneseText>受け継がせている</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>127</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2165</PointerOffsetDec>
+    <PointerOffsetHex>0x875</PointerOffsetHex>
+    <JapaneseText>無論、これらの世界の経験は全て、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>128</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2199</PointerOffsetDec>
+    <PointerOffsetHex>0x897</PointerOffsetHex>
+    <JapaneseText>ルミナシアへと受け継がれているのだよ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>129</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2236</PointerOffsetDec>
+    <PointerOffsetHex>0x8bc</PointerOffsetHex>
+    <JapaneseText>そして、「今」があるのだ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>130</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2264</PointerOffsetDec>
+    <PointerOffsetHex>0x8d8</PointerOffsetHex>
+    <JapaneseText>カノンノも、ディセンダーも、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>131</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2294</PointerOffsetDec>
+    <PointerOffsetHex>0x8f6</PointerOffsetHex>
+    <JapaneseText>アドリビトムの皆も…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>132</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2315</PointerOffsetDec>
+    <PointerOffsetHex>0x90b</PointerOffsetHex>
+    <JapaneseText>うん、わかるよ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>133</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2330</PointerOffsetDec>
+    <PointerOffsetHex>0x91a</PointerOffsetHex>
+    <JapaneseText>私の中にあった記憶は、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>134</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2354</PointerOffsetDec>
+    <PointerOffsetHex>0x932</PointerOffsetHex>
+    <JapaneseText>これらの世界のもの。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>135</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2376</PointerOffsetDec>
+    <PointerOffsetHex>0x948</PointerOffsetHex>
+    <JapaneseText>今、ずっと遡ってる…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>136</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2397</PointerOffsetDec>
+    <PointerOffsetHex>0x95d</PointerOffsetHex>
+    <JapaneseText>こんなにずっと、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>137</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2415</PointerOffsetDec>
+    <PointerOffsetHex>0x96f</PointerOffsetHex>
+    <JapaneseText>世界は続いて来たんだ…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>138</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2438</PointerOffsetDec>
+    <PointerOffsetHex>0x986</PointerOffsetHex>
+    <JapaneseText>あの光は…？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>139</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2451</PointerOffsetDec>
+    <PointerOffsetHex>0x993</PointerOffsetHex>
+    <JapaneseText>カノンノ…。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>140</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2465</PointerOffsetDec>
+    <PointerOffsetHex>0x9a1</PointerOffsetHex>
+    <JapaneseText>あれが、そなたの記憶の最果てだ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>141</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2496</PointerOffsetDec>
+    <PointerOffsetHex>0x9c0</PointerOffsetHex>
+    <JapaneseText>この光、とても懐かしい感じがする…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>142</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2538</PointerOffsetDec>
+    <PointerOffsetHex>0x9ea</PointerOffsetHex>
+    <JapaneseText>広い宙の中に瞬く命。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>144</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2560</PointerOffsetDec>
+    <PointerOffsetHex>0xa00</PointerOffsetHex>
+    <JapaneseText>受け継がれた記憶の最も先にいる者。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>145</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2596</PointerOffsetDec>
+    <PointerOffsetHex>0xa24</PointerOffsetHex>
+    <JapaneseText>ようこそ…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>146</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2614</PointerOffsetDec>
+    <PointerOffsetHex>0xa36</PointerOffsetHex>
+    <JapaneseText>あな…たは？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>148</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2627</PointerOffsetDec>
+    <PointerOffsetHex>0xa43</PointerOffsetHex>
+    <JapaneseText>私はカノンノ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>149</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2643</PointerOffsetDec>
+    <PointerOffsetHex>0xa53</PointerOffsetHex>
+    <JapaneseText>根源の世界樹…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>150</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2658</PointerOffsetDec>
+    <PointerOffsetHex>0xa62</PointerOffsetHex>
+    <JapaneseText>何と…、根源の世界樹とは…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>151</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2685</PointerOffsetDec>
+    <PointerOffsetHex>0xa7d</PointerOffsetHex>
+    <JapaneseText>そなたから、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>152</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2699</PointerOffsetDec>
+    <PointerOffsetHex>0xa8b</PointerOffsetHex>
+    <JapaneseText>全てが受け継がれて来たのか…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>153</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2728</PointerOffsetDec>
+    <PointerOffsetHex>0xaa8</PointerOffsetHex>
+    <JapaneseText>そうよ…。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>154</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2740</PointerOffsetDec>
+    <PointerOffsetHex>0xab4</PointerOffsetHex>
+    <JapaneseText>私の世界は地殻の変動で</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>155</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2764</PointerOffsetDec>
+    <PointerOffsetHex>0xacc</PointerOffsetHex>
+    <JapaneseText>滅びを避けられなかった</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>156</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2787</PointerOffsetDec>
+    <PointerOffsetHex>0xae3</PointerOffsetHex>
+    <JapaneseText>だから、私達の世界の住人は、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>157</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2817</PointerOffsetDec>
+    <PointerOffsetHex>0xb01</PointerOffsetHex>
+    <JapaneseText>全ての生命を一つにして、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>158</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2843</PointerOffsetDec>
+    <PointerOffsetHex>0xb1b</PointerOffsetHex>
+    <JapaneseText>新しい生命の姿をとったの</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>159</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2868</PointerOffsetDec>
+    <PointerOffsetHex>0xb34</PointerOffsetHex>
+    <JapaneseText>全てを一つに？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>160</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2883</PointerOffsetDec>
+    <PointerOffsetHex>0xb43</PointerOffsetHex>
+    <JapaneseText>そう、全ての生命を一つにして、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>161</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2915</PointerOffsetDec>
+    <PointerOffsetHex>0xb63</PointerOffsetHex>
+    <JapaneseText>また新しい世界を生み出すの。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>162</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2945</PointerOffsetDec>
+    <PointerOffsetHex>0xb81</PointerOffsetHex>
+    <JapaneseText>世界樹となってね…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>163</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2964</PointerOffsetDec>
+    <PointerOffsetHex>0xb94</PointerOffsetHex>
+    <JapaneseText>私はその器、種子になる為に選ばれたの</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>164</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3001</PointerOffsetDec>
+    <PointerOffsetHex>0xbb9</PointerOffsetHex>
+    <JapaneseText>命を繋げる為に、世界の全ての命を宿して、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>165</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3043</PointerOffsetDec>
+    <PointerOffsetHex>0xbe3</PointerOffsetHex>
+    <JapaneseText>世界樹という新しい生命の種子に</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>166</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3075</PointerOffsetDec>
+    <PointerOffsetHex>0xc03</PointerOffsetHex>
+    <JapaneseText>なったのよ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>167</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3086</PointerOffsetDec>
+    <PointerOffsetHex>0xc0e</PointerOffsetHex>
+    <JapaneseText>命を繋げる…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>168</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3099</PointerOffsetDec>
+    <PointerOffsetHex>0xc1b</PointerOffsetHex>
+    <JapaneseText>そう。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>169</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3107</PointerOffsetDec>
+    <PointerOffsetHex>0xc23</PointerOffsetHex>
+    <JapaneseText>それは新しい可能性</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>170</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3126</PointerOffsetDec>
+    <PointerOffsetHex>0xc36</PointerOffsetHex>
+    <JapaneseText>たくさんたくさん、世界を生んだわ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>171</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3162</PointerOffsetDec>
+    <PointerOffsetHex>0xc5a</PointerOffsetHex>
+    <JapaneseText>色んな世界を</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>172</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3175</PointerOffsetDec>
+    <PointerOffsetHex>0xc67</PointerOffsetHex>
+    <JapaneseText>世界にある、様々な命と共に、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>173</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3205</PointerOffsetDec>
+    <PointerOffsetHex>0xc85</PointerOffsetHex>
+    <JapaneseText>学びながらね</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>174</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3218</PointerOffsetDec>
+    <PointerOffsetHex>0xc92</PointerOffsetHex>
+    <JapaneseText>世界が一つだと寂しいから。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>175</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3246</PointerOffsetDec>
+    <PointerOffsetHex>0xcae</PointerOffsetHex>
+    <JapaneseText>一緒に助け合って行ける様に。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>176</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3276</PointerOffsetDec>
+    <PointerOffsetHex>0xccc</PointerOffsetHex>
+    <JapaneseText>共に創造していく為に</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>177</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3297</PointerOffsetDec>
+    <PointerOffsetHex>0xce1</PointerOffsetHex>
+    <JapaneseText>多くの世界を生んだのよ…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>178</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3322</PointerOffsetDec>
+    <PointerOffsetHex>0xcfa</PointerOffsetHex>
+    <JapaneseText>助け合っていける…様に…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>179</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3347</PointerOffsetDec>
+    <PointerOffsetHex>0xd13</PointerOffsetHex>
+    <JapaneseText>世界樹から生まれた世界は、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>180</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3375</PointerOffsetDec>
+    <PointerOffsetHex>0xd2f</PointerOffsetHex>
+    <JapaneseText>みんな私の世界から生まれた尊い家族</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>181</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3410</PointerOffsetDec>
+    <PointerOffsetHex>0xd52</PointerOffsetHex>
+    <JapaneseText>じゃあ、ルミナシアとジルディアが…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>182</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3446</PointerOffsetDec>
+    <PointerOffsetHex>0xd76</PointerOffsetHex>
+    <JapaneseText>相容れないのは？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>183</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3463</PointerOffsetDec>
+    <PointerOffsetHex>0xd87</PointerOffsetHex>
+    <JapaneseText>理を大きく離れた生き方を選ぶのも、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>184</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3499</PointerOffsetDec>
+    <PointerOffsetHex>0xdab</PointerOffsetHex>
+    <JapaneseText>また世界の選択。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>185</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3517</PointerOffsetDec>
+    <PointerOffsetHex>0xdbd</PointerOffsetHex>
+    <JapaneseText>だが、根本は繋がっているのだ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>186</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3546</PointerOffsetDec>
+    <PointerOffsetHex>0xdda</PointerOffsetHex>
+    <JapaneseText>さあ、そろそろ戻りなさい。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>187</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3574</PointerOffsetDec>
+    <PointerOffsetHex>0xdf6</PointerOffsetHex>
+    <JapaneseText>あなた達は戻って「今」を生きなければ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>188</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3611</PointerOffsetDec>
+    <PointerOffsetHex>0xe1b</PointerOffsetHex>
+    <JapaneseText>あなたは私。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>189</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3625</PointerOffsetDec>
+    <PointerOffsetHex>0xe29</PointerOffsetHex>
+    <JapaneseText>私の記憶、世界の記憶が受け継がれた証</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>190</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3662</PointerOffsetDec>
+    <PointerOffsetHex>0xe4e</PointerOffsetHex>
+    <JapaneseText>…世界もあなたも、たくさんの受け継がれた</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>191</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3704</PointerOffsetDec>
+    <PointerOffsetHex>0xe78</PointerOffsetHex>
+    <JapaneseText>命の上にあるのよ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>192</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3721</PointerOffsetDec>
+    <PointerOffsetHex>0xe89</PointerOffsetHex>
+    <JapaneseText>生きなさい。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>193</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>3735</PointerOffsetDec>
+    <PointerOffsetHex>0xe97</PointerOffsetHex>
+    <JapaneseText>最後に、ルミナシアの創世を見せてあげるわ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>194</Id>
+    <Status />
+  </Entry>
+</Entries>

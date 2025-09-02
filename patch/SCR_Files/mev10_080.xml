@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>68</PointerOffsetDec>
+    <PointerOffsetHex>0x44</PointerOffsetHex>
+    <JapaneseText>到</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>740</PointerOffsetDec>
+    <PointerOffsetHex>0x2e4</PointerOffsetHex>
+    <JapaneseText>おっ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>51</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>748</PointerOffsetDec>
+    <PointerOffsetHex>0x2ec</PointerOffsetHex>
+    <JapaneseText>どうした、○○</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>52</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>763</PointerOffsetDec>
+    <PointerOffsetHex>0x2fb</PointerOffsetHex>
+    <JapaneseText>アンジュに頼まれてきた、と言う</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>53</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>794</PointerOffsetDec>
+    <PointerOffsetHex>0x31a</PointerOffsetHex>
+    <JapaneseText>様子が気になって来た、と言う</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>54</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>823</PointerOffsetDec>
+    <PointerOffsetHex>0x337</PointerOffsetHex>
+    <JapaneseText>アンジュも気を揉んでいるんだな。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>55</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>857</PointerOffsetDec>
+    <PointerOffsetHex>0x359</PointerOffsetHex>
+    <JapaneseText>無理もねえか。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>56</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>873</PointerOffsetDec>
+    <PointerOffsetHex>0x369</PointerOffsetHex>
+    <JapaneseText>あれからほとんど進展してないしな</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>57</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>906</PointerOffsetDec>
+    <PointerOffsetHex>0x38a</PointerOffsetHex>
+    <JapaneseText>みんな、そうやって</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>58</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>926</PointerOffsetDec>
+    <PointerOffsetHex>0x39e</PointerOffsetHex>
+    <JapaneseText>ここの様子を見に来るんだ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>59</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>951</PointerOffsetDec>
+    <PointerOffsetHex>0x3b7</PointerOffsetHex>
+    <JapaneseText>俺も気になって見に来たんだけどな</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>60</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>984</PointerOffsetDec>
+    <PointerOffsetHex>0x3d8</PointerOffsetHex>
+    <JapaneseText>ん〜〜〜〜…、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>61</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1000</PointerOffsetDec>
+    <PointerOffsetHex>0x3e8</PointerOffsetHex>
+    <JapaneseText>あと一歩ってところなのよね〜</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>62</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1029</PointerOffsetDec>
+    <PointerOffsetHex>0x405</PointerOffsetHex>
+    <JapaneseText>「アレ」さえあれば、いいんだけど</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>63</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1062</PointerOffsetDec>
+    <PointerOffsetHex>0x426</PointerOffsetHex>
+    <JapaneseText>「アレ」とは何かを尋ねる</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>64</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1087</PointerOffsetDec>
+    <PointerOffsetHex>0x43f</PointerOffsetHex>
+    <JapaneseText>必要なものがあれば取りに行く、と言う</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>65</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1124</PointerOffsetDec>
+    <PointerOffsetHex>0x464</PointerOffsetHex>
+    <JapaneseText>ん〜、言うのは簡単だけどさ…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>66</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1153</PointerOffsetDec>
+    <PointerOffsetHex>0x481</PointerOffsetHex>
+    <JapaneseText>ああ、俺も協力するぜ？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>67</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1176</PointerOffsetDec>
+    <PointerOffsetHex>0x498</PointerOffsetHex>
+    <JapaneseText>取りに行く…、ねえ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>68</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1195</PointerOffsetDec>
+    <PointerOffsetHex>0x4ab</PointerOffsetHex>
+    <JapaneseText>取りに行けるもんならいいけどさぁ…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>69</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1230</PointerOffsetDec>
+    <PointerOffsetHex>0x4ce</PointerOffsetHex>
+    <JapaneseText>ヴェラトローパを出現させる為には、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>70</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1266</PointerOffsetDec>
+    <PointerOffsetHex>0x4f2</PointerOffsetHex>
+    <JapaneseText>ヴェラトローパのドクメントが</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>71</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1296</PointerOffsetDec>
+    <PointerOffsetHex>0x510</PointerOffsetHex>
+    <JapaneseText>必要なのよ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>72</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1307</PointerOffsetDec>
+    <PointerOffsetHex>0x51b</PointerOffsetHex>
+    <JapaneseText>ミもフタもないだろ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>73</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1329</PointerOffsetDec>
+    <PointerOffsetHex>0x531</PointerOffsetHex>
+    <JapaneseText>…それがわかったら、苦労しねえよ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>74</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1362</PointerOffsetDec>
+    <PointerOffsetHex>0x552</PointerOffsetHex>
+    <JapaneseText>見た事も触った事もない物、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>75</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1390</PointerOffsetDec>
+    <PointerOffsetHex>0x56e</PointerOffsetHex>
+    <JapaneseText>探せるわけねえもんなあ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>76</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1413</PointerOffsetDec>
+    <PointerOffsetHex>0x585</PointerOffsetHex>
+    <JapaneseText>ほんの一部でもいいから、ヴェラトローパの</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>77</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1455</PointerOffsetDec>
+    <PointerOffsetHex>0x5af</PointerOffsetHex>
+    <JapaneseText>純粋なドクメントがあれば…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>78</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1482</PointerOffsetDec>
+    <PointerOffsetHex>0x5ca</PointerOffsetHex>
+    <JapaneseText>ヴェラトローパの次元に共鳴させて、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>79</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1518</PointerOffsetDec>
+    <PointerOffsetHex>0x5ee</PointerOffsetHex>
+    <JapaneseText>干渉する事が出来るんだけど</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>80</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1545</PointerOffsetDec>
+    <PointerOffsetHex>0x609</PointerOffsetHex>
+    <JapaneseText>もうちょっと考えてみるわ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>81</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1570</PointerOffsetDec>
+    <PointerOffsetHex>0x622</PointerOffsetHex>
+    <JapaneseText>…無理すんなよな。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>82</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1590</PointerOffsetDec>
+    <PointerOffsetHex>0x636</PointerOffsetHex>
+    <JapaneseText>寝てねぇだろ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>83</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1603</PointerOffsetDec>
+    <PointerOffsetHex>0x643</PointerOffsetHex>
+    <JapaneseText>あら！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>84</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1611</PointerOffsetDec>
+    <PointerOffsetHex>0x64b</PointerOffsetHex>
+    <JapaneseText>こんな面白い事なんだもの、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>85</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1639</PointerOffsetDec>
+    <PointerOffsetHex>0x667</PointerOffsetHex>
+    <JapaneseText>寝てる時間も惜しいわよ〜♪</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>86</Id>
+    <Status />
+  </Entry>
+</Entries>

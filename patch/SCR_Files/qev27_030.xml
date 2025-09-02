@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>134</PointerOffsetDec>
+    <PointerOffsetHex>0x86</PointerOffsetHex>
+    <JapaneseText>この火山で落ち合う事に</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>9</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>158</PointerOffsetDec>
+    <PointerOffsetHex>0x9e</PointerOffsetHex>
+    <JapaneseText>なっているのだが……</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>10</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>188</PointerOffsetDec>
+    <PointerOffsetHex>0xbc</PointerOffsetHex>
+    <JapaneseText>とりあえず、奥を目指そう。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>12</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>216</PointerOffsetDec>
+    <PointerOffsetHex>0xd8</PointerOffsetHex>
+    <JapaneseText>足場が悪い上に魔物も出る。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>13</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>244</PointerOffsetDec>
+    <PointerOffsetHex>0xf4</PointerOffsetHex>
+    <JapaneseText>気を付けて登るんだ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>14</Id>
+    <Status />
+  </Entry>
+</Entries>

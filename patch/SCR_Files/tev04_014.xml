@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>28</PointerOffsetDec>
+    <PointerOffsetHex>0x1c</PointerOffsetHex>
+    <JapaneseText>奩</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>170</PointerOffsetDec>
+    <PointerOffsetHex>0xaa</PointerOffsetHex>
+    <JapaneseText>あの子、動きそうにないね</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>11</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>195</PointerOffsetDec>
+    <PointerOffsetHex>0xc3</PointerOffsetHex>
+    <JapaneseText>うーん。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>12</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>205</PointerOffsetDec>
+    <PointerOffsetHex>0xcd</PointerOffsetHex>
+    <JapaneseText>こっちからぶつかって行くしかないか…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>13</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>242</PointerOffsetDec>
+    <PointerOffsetHex>0xf2</PointerOffsetHex>
+    <JapaneseText>じゃあ、行くよッ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>14</Id>
+    <Status />
+  </Entry>
+</Entries>

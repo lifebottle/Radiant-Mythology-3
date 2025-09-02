@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>48</PointerOffsetDec>
+    <PointerOffsetHex>0x30</PointerOffsetHex>
+    <JapaneseText>Ｒボタンでターゲット切り替え</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>78</PointerOffsetDec>
+    <PointerOffsetHex>0x4e</PointerOffsetHex>
+    <JapaneseText>Ｒボタンを押している間はゲームが停止し、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>120</PointerOffsetDec>
+    <PointerOffsetHex>0x78</PointerOffsetHex>
+    <JapaneseText>その間方向キーで切り替えが出来る</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+</Entries>

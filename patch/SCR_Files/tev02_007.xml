@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>28</PointerOffsetDec>
+    <PointerOffsetHex>0x1c</PointerOffsetHex>
+    <JapaneseText>画面左下に「ＳＫＩＴ」とマークが</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>62</PointerOffsetDec>
+    <PointerOffsetHex>0x3e</PointerOffsetHex>
+    <JapaneseText>表示された時、ＳＥＬＥＣＴボタンを押すと、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>106</PointerOffsetDec>
+    <PointerOffsetHex>0x6a</PointerOffsetHex>
+    <JapaneseText>「スキット」というイベントが起動します</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+</Entries>

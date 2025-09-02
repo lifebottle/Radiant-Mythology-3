@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>34</PointerOffsetDec>
+    <PointerOffsetHex>0x22</PointerOffsetHex>
+    <JapaneseText>宝箱は○ボタンで開けられます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>63</PointerOffsetDec>
+    <PointerOffsetHex>0x3f</PointerOffsetHex>
+    <JapaneseText>赤い宝箱の中身は、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>83</PointerOffsetDec>
+    <PointerOffsetHex>0x53</PointerOffsetHex>
+    <JapaneseText>ダンジョンに入る度に変化し、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>113</PointerOffsetDec>
+    <PointerOffsetHex>0x71</PointerOffsetHex>
+    <JapaneseText>何が入っているかはわかりません</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+</Entries>

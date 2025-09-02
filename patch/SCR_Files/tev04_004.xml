@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>58</PointerOffsetDec>
+    <PointerOffsetHex>0x3a</PointerOffsetHex>
+    <JapaneseText>ワールドマップでも、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>80</PointerOffsetDec>
+    <PointerOffsetHex>0x50</PointerOffsetHex>
+    <JapaneseText>△ボタンでメニューの起動が可能です</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>115</PointerOffsetDec>
+    <PointerOffsetHex>0x73</PointerOffsetHex>
+    <JapaneseText>メニューからのセーブも可能ですので、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>153</PointerOffsetDec>
+    <PointerOffsetHex>0x99</PointerOffsetHex>
+    <JapaneseText>有効に利用しましょう</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>7</Id>
+    <Status />
+  </Entry>
+</Entries>

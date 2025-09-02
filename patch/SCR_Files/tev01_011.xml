@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>48</PointerOffsetDec>
+    <PointerOffsetHex>0x30</PointerOffsetHex>
+    <JapaneseText>△ボタンで戦闘メニュー起動</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>76</PointerOffsetDec>
+    <PointerOffsetHex>0x4c</PointerOffsetHex>
+    <JapaneseText>戦闘メニュー起動中は時間停止</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>106</PointerOffsetDec>
+    <PointerOffsetHex>0x6a</PointerOffsetHex>
+    <JapaneseText>アイテムコマンドでアイテム使用</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+</Entries>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>48</PointerOffsetDec>
+    <PointerOffsetHex>0x30</PointerOffsetHex>
+    <JapaneseText>戦闘で対峙した事のあるモンスターの情報は、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>92</PointerOffsetDec>
+    <PointerOffsetHex>0x5c</PointerOffsetHex>
+    <JapaneseText>「モンスター図鑑」で確認出来ます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>125</PointerOffsetDec>
+    <PointerOffsetHex>0x7d</PointerOffsetHex>
+    <JapaneseText>メニューのライブラリから</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>151</PointerOffsetDec>
+    <PointerOffsetHex>0x97</PointerOffsetHex>
+    <JapaneseText>「モンスター図鑑」を選択して下さい</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+</Entries>

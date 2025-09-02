@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>250</PointerOffsetDec>
+    <PointerOffsetHex>0xfa</PointerOffsetHex>
+    <JapaneseText>奩</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>14</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>270</PointerOffsetDec>
+    <PointerOffsetHex>0x10e</PointerOffsetHex>
+    <JapaneseText>まだこの世に存在していたか…。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>16</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>302</PointerOffsetDec>
+    <PointerOffsetHex>0x12e</PointerOffsetHex>
+    <JapaneseText>本来、世界のあるべき姿。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>17</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>328</PointerOffsetDec>
+    <PointerOffsetHex>0x148</PointerOffsetHex>
+    <JapaneseText>それはお前が存在しない世界なんだ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>18</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>361</PointerOffsetDec>
+    <PointerOffsetHex>0x169</PointerOffsetHex>
+    <JapaneseText>さあ、世界樹へと還れ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>19</Id>
+    <Status />
+  </Entry>
+</Entries>

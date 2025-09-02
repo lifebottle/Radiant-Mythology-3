@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>90</PointerOffsetDec>
+    <PointerOffsetHex>0x5a</PointerOffsetHex>
+    <JapaneseText>おや。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>7</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>98</PointerOffsetDec>
+    <PointerOffsetHex>0x62</PointerOffsetHex>
+    <JapaneseText>協力していただけるんですか？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>8</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>127</PointerOffsetDec>
+    <PointerOffsetHex>0x7f</PointerOffsetHex>
+    <JapaneseText>いやぁ、助かります。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>9</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>149</PointerOffsetDec>
+    <PointerOffsetHex>0x95</PointerOffsetHex>
+    <JapaneseText>さすがに私一人で、あの山を</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>10</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>177</PointerOffsetDec>
+    <PointerOffsetHex>0xb1</PointerOffsetHex>
+    <JapaneseText>捜索するのは、骨が折れますから</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>11</Id>
+    <Status />
+  </Entry>
+</Entries>

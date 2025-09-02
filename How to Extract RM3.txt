@@ -1,0 +1,35 @@
+HOW TO EXTRACT SCR FILES TO XML
+
+I created a working directory on the root of my C:\ drive amd named this folder RM3
+Unpack the game iso into a new folder named GAME
+	- You should have C:\RM3\GAME with the files from the iso.
+
+Extract the namco.bdi file
+1. Build Namco File Project.exe
+	a. Open Developer Command Prompt for VS 2022
+	b. Input CD GitHub\Radiant-Mythology-3\Namco file project\Namco file project and hit enter
+	c. Now run the command to build the EXE -- msbuild "Namco file project.csproj"
+		- This will create a bin folder with the EXE ready to run.
+2. Run the Namco File Project.exe
+3. Click the Unpack button
+	- Browse to C:\RM3\Game\PSP_GAME\USRDIR and select the namco.bdi file
+	- The app will take a moment to process and then ask you where to save the extracted files
+	- Create a new folder named namco_bdi and click ok
+When asked if you would like it to try and assign extensions say no.
+The namco.bdi file should now be extracted to C:\RM3\namco_bdi
+
+Extract the .arc files from namco_bdi files
+1. Copy the arc_extractor.bat and arc_extractor.py from the repo to the namco_bdi folder
+	- May need to edit the bat and change the directory to ("C:\RM3\namco_bdi\*")
+2. Run the arc_extractor.bat
+
+Copy the .scr files into the same directory
+1. Copy the scrcollector.py script into C:\RM3\namco_bdi
+2. Run the scrcollector.py script
+	- This will copy all the .scr files into C:\RM3\SCR_Files
+
+Extract Japanese dialogue into XML format
+1. Copy the SCR_Extract_CD.py to the C:\RM3\SCR_Files directory
+2. Run SCR_Extract_CD.py
+	- This will extract the Japanese dialogue into XML format.
+	- This XML can be used to translate the dialogue for future reinsertion.

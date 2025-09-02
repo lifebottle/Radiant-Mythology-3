@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>482</PointerOffsetDec>
+    <PointerOffsetHex>0x1e2</PointerOffsetHex>
+    <JapaneseText>モンスターを倒すと、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>30</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>504</PointerOffsetDec>
+    <PointerOffsetHex>0x1f8</PointerOffsetHex>
+    <JapaneseText>アイテムをドロップする事があります</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>31</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>539</PointerOffsetDec>
+    <PointerOffsetHex>0x21b</PointerOffsetHex>
+    <JapaneseText>なお、ドロップするアイテムは</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>32</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>569</PointerOffsetDec>
+    <PointerOffsetHex>0x239</PointerOffsetHex>
+    <JapaneseText>モンスターの種類により異なります</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>33</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>602</PointerOffsetDec>
+    <PointerOffsetHex>0x25a</PointerOffsetHex>
+    <JapaneseText>大丈夫だった？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>34</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>617</PointerOffsetDec>
+    <PointerOffsetHex>0x269</PointerOffsetHex>
+    <JapaneseText>あ、そろそろ船が到着する時間だ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>35</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>651</PointerOffsetDec>
+    <PointerOffsetHex>0x28b</PointerOffsetHex>
+    <JapaneseText>急いで山を降りなきゃ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>36</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>674</PointerOffsetDec>
+    <PointerOffsetHex>0x2a2</PointerOffsetHex>
+    <JapaneseText>少し急ぐ事になるけど、いいかな？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>37</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>707</PointerOffsetDec>
+    <PointerOffsetHex>0x2c3</PointerOffsetHex>
+    <JapaneseText>船に乗ったら、あなたの希望する場所へ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>38</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>745</PointerOffsetDec>
+    <PointerOffsetHex>0x2e9</PointerOffsetHex>
+    <JapaneseText>送ってもらえる様に伝えるから</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>39</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>774</PointerOffsetDec>
+    <PointerOffsetHex>0x306</PointerOffsetHex>
+    <JapaneseText>希望する場所について悩む</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>40</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>799</PointerOffsetDec>
+    <PointerOffsetHex>0x31f</PointerOffsetHex>
+    <JapaneseText>送ると言われて悩む</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>41</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>818</PointerOffsetDec>
+    <PointerOffsetHex>0x332</PointerOffsetHex>
+    <JapaneseText>そう。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>42</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>826</PointerOffsetDec>
+    <PointerOffsetHex>0x33a</PointerOffsetHex>
+    <JapaneseText>どこかへ行こうとしていたんでしょう？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>43</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>864</PointerOffsetDec>
+    <PointerOffsetHex>0x360</PointerOffsetHex>
+    <JapaneseText>それで、ここへ降りてしまったとか…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>44</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>899</PointerOffsetDec>
+    <PointerOffsetHex>0x383</PointerOffsetHex>
+    <JapaneseText>え…？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>45</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>907</PointerOffsetDec>
+    <PointerOffsetHex>0x38b</PointerOffsetHex>
+    <JapaneseText>どこへ行ったらいいのか、わからない？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>46</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>944</PointerOffsetDec>
+    <PointerOffsetHex>0x3b0</PointerOffsetHex>
+    <JapaneseText>え………</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>47</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>953</PointerOffsetDec>
+    <PointerOffsetHex>0x3b9</PointerOffsetHex>
+    <JapaneseText>ええっ！？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>48</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>965</PointerOffsetDec>
+    <PointerOffsetHex>0x3c5</PointerOffsetHex>
+    <JapaneseText>自分の名前以外、何もわからないって…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>49</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1002</PointerOffsetDec>
+    <PointerOffsetHex>0x3ea</PointerOffsetHex>
+    <JapaneseText>んーんんん…。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>50</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1018</PointerOffsetDec>
+    <PointerOffsetHex>0x3fa</PointerOffsetHex>
+    <JapaneseText>それじゃあ、どうすればいいかな</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>51</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1049</PointerOffsetDec>
+    <PointerOffsetHex>0x419</PointerOffsetHex>
+    <JapaneseText>とりあえず、船までおいでよ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>52</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1079</PointerOffsetDec>
+    <PointerOffsetHex>0x437</PointerOffsetHex>
+    <JapaneseText>それから一緒に考えるから</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>53</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1104</PointerOffsetDec>
+    <PointerOffsetHex>0x450</PointerOffsetHex>
+    <JapaneseText>行こっ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>54</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1113</PointerOffsetDec>
+    <PointerOffsetHex>0x459</PointerOffsetHex>
+    <JapaneseText>△ボタンを押すとメニューを起動します。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>55</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1153</PointerOffsetDec>
+    <PointerOffsetHex>0x481</PointerOffsetHex>
+    <JapaneseText>メニューからアイテムの使用や、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>56</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1185</PointerOffsetDec>
+    <PointerOffsetHex>0x4a1</PointerOffsetHex>
+    <JapaneseText>ステータスで状態の確認などが出来ます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>57</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1222</PointerOffsetDec>
+    <PointerOffsetHex>0x4c6</PointerOffsetHex>
+    <JapaneseText>×ボタンを押すと、ミニマップを表示し、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>58</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1262</PointerOffsetDec>
+    <PointerOffsetHex>0x4ee</PointerOffsetHex>
+    <JapaneseText>周囲を確認出来ます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>59</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1281</PointerOffsetDec>
+    <PointerOffsetHex>0x501</PointerOffsetHex>
+    <JapaneseText>再び非表示にするには、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>60</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1305</PointerOffsetDec>
+    <PointerOffsetHex>0x519</PointerOffsetHex>
+    <JapaneseText>×ボタンを押して下さい</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>61</Id>
+    <Status />
+  </Entry>
+</Entries>

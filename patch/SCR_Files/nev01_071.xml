@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>350</PointerOffsetDec>
+    <PointerOffsetHex>0x15e</PointerOffsetHex>
+    <JapaneseText>わからない事とか、困った事があったら</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>17</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>388</PointerOffsetDec>
+    <PointerOffsetHex>0x184</PointerOffsetHex>
+    <JapaneseText>みんなに話を聞いてみて。一人で悩むより</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>18</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>428</PointerOffsetDec>
+    <PointerOffsetHex>0x1ac</PointerOffsetHex>
+    <JapaneseText>早く答えが見つかる事もあると思うよ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>19</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>463</PointerOffsetDec>
+    <PointerOffsetHex>0x1cf</PointerOffsetHex>
+    <JapaneseText>採取のクエストは、結構依頼が多いんだ。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>20</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>503</PointerOffsetDec>
+    <PointerOffsetHex>0x1f7</PointerOffsetHex>
+    <JapaneseText>あちこちに魔物がいるせいで、自分では</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>21</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>541</PointerOffsetDec>
+    <PointerOffsetHex>0x21d</PointerOffsetHex>
+    <JapaneseText>取りに行けないって人が多いみたい</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>22</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>574</PointerOffsetDec>
+    <PointerOffsetHex>0x23e</PointerOffsetHex>
+    <JapaneseText>自主訓練って言うと、大変そうに聞こえるかも</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>23</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>618</PointerOffsetDec>
+    <PointerOffsetHex>0x26a</PointerOffsetHex>
+    <JapaneseText>しれないけど、楽しいよ。仕事をするのに</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>24</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>658</PointerOffsetDec>
+    <PointerOffsetHex>0x292</PointerOffsetHex>
+    <JapaneseText>必要な事だし、体を動かすと気持ちいいしね♪</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>25</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>701</PointerOffsetDec>
+    <PointerOffsetHex>0x2bd</PointerOffsetHex>
+    <JapaneseText>わたし達の故郷は、星晶採掘でめちゃくちゃに</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>26</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>745</PointerOffsetDec>
+    <PointerOffsetHex>0x2e9</PointerOffsetHex>
+    <JapaneseText>なっちゃった……でも、いつか復興出来るって</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>27</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>789</PointerOffsetDec>
+    <PointerOffsetHex>0x315</PointerOffsetHex>
+    <JapaneseText>信じてるんだ。絶対あきらめないよ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>28</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>824</PointerOffsetDec>
+    <PointerOffsetHex>0x338</PointerOffsetHex>
+    <JapaneseText>入隊試験合格、おめでとう！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>29</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>852</PointerOffsetDec>
+    <PointerOffsetHex>0x354</PointerOffsetHex>
+    <JapaneseText>これで一緒にクエストを受けられるね。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>30</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>890</PointerOffsetDec>
+    <PointerOffsetHex>0x37a</PointerOffsetHex>
+    <JapaneseText>あなたと組めるの、楽しみにしてるよ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>31</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>925</PointerOffsetDec>
+    <PointerOffsetHex>0x39d</PointerOffsetHex>
+    <JapaneseText>作物が育たないっていうのは、食べ物が</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>32</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>963</PointerOffsetDec>
+    <PointerOffsetHex>0x3c3</PointerOffsetHex>
+    <JapaneseText>不足するだけじゃない。心の不安と、ずっと</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>33</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1005</PointerOffsetDec>
+    <PointerOffsetHex>0x3ed</PointerOffsetHex>
+    <JapaneseText>戦っていかなきゃいけないって事なんだよね</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>34</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1046</PointerOffsetDec>
+    <PointerOffsetHex>0x416</PointerOffsetHex>
+    <JapaneseText>コクヨウ玉虫、大きくて綺麗だよね！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>35</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1082</PointerOffsetDec>
+    <PointerOffsetHex>0x43a</PointerOffsetHex>
+    <JapaneseText>わたしの故郷は雪国で、虫を見る事自体も</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>36</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1122</PointerOffsetDec>
+    <PointerOffsetHex>0x462</PointerOffsetHex>
+    <JapaneseText>珍しいから……つい何回も見に行っちゃうよ♪</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>37</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1165</PointerOffsetDec>
+    <PointerOffsetHex>0x48d</PointerOffsetHex>
+    <JapaneseText>あの虫の子、怯えてる……目や口はないけど</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>38</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1207</PointerOffsetDec>
+    <PointerOffsetHex>0x4b7</PointerOffsetHex>
+    <JapaneseText>雰囲気でわかるの。すごく怖いみたい。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>39</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1245</PointerOffsetDec>
+    <PointerOffsetHex>0x4dd</PointerOffsetHex>
+    <JapaneseText>でも、何に怯えてるんだろう……？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>40</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1278</PointerOffsetDec>
+    <PointerOffsetHex>0x4fe</PointerOffsetHex>
+    <JapaneseText>霊峰を荒らさない心の清い人には</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>41</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1310</PointerOffsetDec>
+    <PointerOffsetHex>0x51e</PointerOffsetHex>
+    <JapaneseText>精霊が守護の力を授けてくれるんだよ。これは</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>42</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1354</PointerOffsetDec>
+    <PointerOffsetHex>0x54a</PointerOffsetHex>
+    <JapaneseText>わたしの故郷に伝わる伝承なんだけど……</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>43</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1393</PointerOffsetDec>
+    <PointerOffsetHex>0x571</PointerOffsetHex>
+    <JapaneseText>そういう時は「暖かい雪」が降るんだって。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>44</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1435</PointerOffsetDec>
+    <PointerOffsetHex>0x59b</PointerOffsetHex>
+    <JapaneseText>雪は冷たいままだけど、守護してくれる精霊の</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>45</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1479</PointerOffsetDec>
+    <PointerOffsetHex>0x5c7</PointerOffsetHex>
+    <JapaneseText>心のおかげであったかいって感じるんだって</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>46</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1520</PointerOffsetDec>
+    <PointerOffsetHex>0x5f0</PointerOffsetHex>
+    <JapaneseText>わたしのマイミソが少し減っているような</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>47</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1560</PointerOffsetDec>
+    <PointerOffsetHex>0x618</PointerOffsetHex>
+    <JapaneseText>気がするの……誰か食べたりしてないよね？</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>48</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1601</PointerOffsetDec>
+    <PointerOffsetHex>0x641</PointerOffsetHex>
+    <JapaneseText>ニアタが元気になって良かった！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>49</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1633</PointerOffsetDec>
+    <PointerOffsetHex>0x661</PointerOffsetHex>
+    <JapaneseText>それに、カノンノに会えて</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>50</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1659</PointerOffsetDec>
+    <PointerOffsetHex>0x67b</PointerOffsetHex>
+    <JapaneseText>とっても嬉しそうだね</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>51</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1680</PointerOffsetDec>
+    <PointerOffsetHex>0x690</PointerOffsetHex>
+    <JapaneseText>キバがどんなに生えてきたって</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>52</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1710</PointerOffsetDec>
+    <PointerOffsetHex>0x6ae</PointerOffsetHex>
+    <JapaneseText>最後まであきらめないよ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>53</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1736</PointerOffsetDec>
+    <PointerOffsetHex>0x6c8</PointerOffsetHex>
+    <JapaneseText>そうでしょ、○○</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>54</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1753</PointerOffsetDec>
+    <PointerOffsetHex>0x6d9</PointerOffsetHex>
+    <JapaneseText>握手で、あなたの力が皆に伝わっていくのね。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>55</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1797</PointerOffsetDec>
+    <PointerOffsetHex>0x705</PointerOffsetHex>
+    <JapaneseText>人と人が手を取り合える証みたいで</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>56</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1831</PointerOffsetDec>
+    <PointerOffsetHex>0x727</PointerOffsetHex>
+    <JapaneseText>素敵。さすが、リタだよね！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>57</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1858</PointerOffsetDec>
+    <PointerOffsetHex>0x742</PointerOffsetHex>
+    <JapaneseText>あなたの見せてくれた光、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>58</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1884</PointerOffsetDec>
+    <PointerOffsetHex>0x75c</PointerOffsetHex>
+    <JapaneseText>皆の中に灯った光……その強さを信じるよ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>59</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1926</PointerOffsetDec>
+    <PointerOffsetHex>0x786</PointerOffsetHex>
+    <JapaneseText>行こう、○○！！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>60</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1943</PointerOffsetDec>
+    <PointerOffsetHex>0x797</PointerOffsetHex>
+    <JapaneseText>ジルディアの枝、綺麗だよね。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>61</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1973</PointerOffsetDec>
+    <PointerOffsetHex>0x7b5</PointerOffsetHex>
+    <JapaneseText>世界樹の色とは違うけど、違ってるから</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>62</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2011</PointerOffsetDec>
+    <PointerOffsetHex>0x7db</PointerOffsetHex>
+    <JapaneseText>綺麗なのかもって、今は思ったりするんだ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>63</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2050</PointerOffsetDec>
+    <PointerOffsetHex>0x802</PointerOffsetHex>
+    <JapaneseText>無断で…外出するからだよ……、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>64</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>2082</PointerOffsetDec>
+    <PointerOffsetHex>0x822</PointerOffsetHex>
+    <JapaneseText>もう…</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>65</Id>
+    <Status />
+  </Entry>
+</Entries>

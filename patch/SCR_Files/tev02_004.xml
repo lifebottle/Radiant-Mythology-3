@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>34</PointerOffsetDec>
+    <PointerOffsetHex>0x22</PointerOffsetHex>
+    <JapaneseText>艦内見取り図で「ＥＶＥＮＴ」マークが</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>72</PointerOffsetDec>
+    <PointerOffsetHex>0x48</PointerOffsetHex>
+    <JapaneseText>表示されている場所へ行くと、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>102</PointerOffsetDec>
+    <PointerOffsetHex>0x66</PointerOffsetHex>
+    <JapaneseText>イベントが発生します</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>123</PointerOffsetDec>
+    <PointerOffsetHex>0x7b</PointerOffsetHex>
+    <JapaneseText>なお、表示の切り替えを行う場合は、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>159</PointerOffsetDec>
+    <PointerOffsetHex>0x9f</PointerOffsetHex>
+    <JapaneseText>方向キー上下でフロア切り替え。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>191</PointerOffsetDec>
+    <PointerOffsetHex>0xbf</PointerOffsetHex>
+    <JapaneseText>方向キー左右で部屋切り替えになります</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>7</Id>
+    <Status />
+  </Entry>
+</Entries>

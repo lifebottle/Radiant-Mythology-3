@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>110</PointerOffsetDec>
+    <PointerOffsetHex>0x6e</PointerOffsetHex>
+    <JapaneseText>あ、そこの床にあるスイッチ！</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>8</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>139</PointerOffsetDec>
+    <PointerOffsetHex>0x8b</PointerOffsetHex>
+    <JapaneseText>それを踏むと、扉が開閉する仕組みに</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>9</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>175</PointerOffsetDec>
+    <PointerOffsetHex>0xaf</PointerOffsetHex>
+    <JapaneseText>なってるんだよ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>10</Id>
+    <Status />
+  </Entry>
+</Entries>

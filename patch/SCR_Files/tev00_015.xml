@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>324</PointerOffsetDec>
+    <PointerOffsetHex>0x144</PointerOffsetHex>
+    <JapaneseText>そうそう「料理」について</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>25</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>350</PointerOffsetDec>
+    <PointerOffsetHex>0x15e</PointerOffsetHex>
+    <JapaneseText>お教えしますね</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>26</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>365</PointerOffsetDec>
+    <PointerOffsetHex>0x16d</PointerOffsetHex>
+    <JapaneseText>料理はレシピを入手し、かつ料理に必要な</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>27</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>405</PointerOffsetDec>
+    <PointerOffsetHex>0x195</PointerOffsetHex>
+    <JapaneseText>食材があれば、「生産」によって作る事が</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>28</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>445</PointerOffsetDec>
+    <PointerOffsetHex>0x1bd</PointerOffsetHex>
+    <JapaneseText>出来ます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>29</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>454</PointerOffsetDec>
+    <PointerOffsetHex>0x1c6</PointerOffsetHex>
+    <JapaneseText>ただ、料理を作る事が出来るのは、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>30</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>488</PointerOffsetDec>
+    <PointerOffsetHex>0x1e8</PointerOffsetHex>
+    <JapaneseText>ダンジョンの中、しかもメニューを</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>31</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>522</PointerOffsetDec>
+    <PointerOffsetHex>0x20a</PointerOffsetHex>
+    <JapaneseText>開く事が出来るタイミングだけです</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>32</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>555</PointerOffsetDec>
+    <PointerOffsetHex>0x22b</PointerOffsetHex>
+    <JapaneseText>こうして出来た料理を食べる事によって、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>33</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>595</PointerOffsetDec>
+    <PointerOffsetHex>0x253</PointerOffsetHex>
+    <JapaneseText>パーティ全員には様々な効果をもたらします</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>34</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>636</PointerOffsetDec>
+    <PointerOffsetHex>0x27c</PointerOffsetHex>
+    <JapaneseText>例えば最大ＨＰやＴＰの増加、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>35</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>666</PointerOffsetDec>
+    <PointerOffsetHex>0x29a</PointerOffsetHex>
+    <JapaneseText>パラメータの上昇など、様々な効果があります</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>36</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>709</PointerOffsetDec>
+    <PointerOffsetHex>0x2c5</PointerOffsetHex>
+    <JapaneseText>この効果は、ダンジョンにいる間継続します。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>37</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>753</PointerOffsetDec>
+    <PointerOffsetHex>0x2f1</PointerOffsetHex>
+    <JapaneseText>ただし…、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>38</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>764</PointerOffsetDec>
+    <PointerOffsetHex>0x2fc</PointerOffsetHex>
+    <JapaneseText>ダンジョンから出たり、パーティが全滅して</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>39</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>806</PointerOffsetDec>
+    <PointerOffsetHex>0x326</PointerOffsetHex>
+    <JapaneseText>しまった場合は解除されます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>40</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>833</PointerOffsetDec>
+    <PointerOffsetHex>0x341</PointerOffsetHex>
+    <JapaneseText>ちなみに効果継続中に、また新しい料理を</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>41</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>873</PointerOffsetDec>
+    <PointerOffsetHex>0x369</PointerOffsetHex>
+    <JapaneseText>作って食べた場合、今までの効果は無効と</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>42</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>913</PointerOffsetDec>
+    <PointerOffsetHex>0x391</PointerOffsetHex>
+    <JapaneseText>なります</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>43</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>922</PointerOffsetDec>
+    <PointerOffsetHex>0x39a</PointerOffsetHex>
+    <JapaneseText>その代わり、新たに食べた料理の効果を</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>44</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>960</PointerOffsetDec>
+    <PointerOffsetHex>0x3c0</PointerOffsetHex>
+    <JapaneseText>得られる、という事です</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>45</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>983</PointerOffsetDec>
+    <PointerOffsetHex>0x3d7</PointerOffsetHex>
+    <JapaneseText>ですので、ダンジョン内の状況によって</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>46</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1021</PointerOffsetDec>
+    <PointerOffsetHex>0x3fd</PointerOffsetHex>
+    <JapaneseText>作る料理の献立を決めるといいと思いますよ</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>47</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1062</PointerOffsetDec>
+    <PointerOffsetHex>0x426</PointerOffsetHex>
+    <JapaneseText>以上、せん越ながら</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>48</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>1082</PointerOffsetDec>
+    <PointerOffsetHex>0x43a</PointerOffsetHex>
+    <JapaneseText>説明させていただきました</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>49</Id>
+    <Status />
+  </Entry>
+</Entries>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Entries>
+  <Entry>
+    <PointerOffsetDec>46</PointerOffsetDec>
+    <PointerOffsetHex>0x2e</PointerOffsetHex>
+    <JapaneseText>傭兵のダウンロードは、５人までです。</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>2</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>84</PointerOffsetDec>
+    <PointerOffsetHex>0x54</PointerOffsetHex>
+    <JapaneseText>ダウンロードされた傭兵の中から</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>3</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>116</PointerOffsetDec>
+    <PointerOffsetHex>0x74</PointerOffsetHex>
+    <JapaneseText>最大３人まで、ここ展望室に配置されます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>4</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>155</PointerOffsetDec>
+    <PointerOffsetHex>0x9b</PointerOffsetHex>
+    <JapaneseText>配置された傭兵に話しかけると、連動サイトで</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>5</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>199</PointerOffsetDec>
+    <PointerOffsetHex>0xc7</PointerOffsetHex>
+    <JapaneseText>登録された情報を知る事が出来ます</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>6</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>232</PointerOffsetDec>
+    <PointerOffsetHex>0xe8</PointerOffsetHex>
+    <JapaneseText>傭兵は、パーティに入っている間、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>7</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>266</PointerOffsetDec>
+    <PointerOffsetHex>0x10a</PointerOffsetHex>
+    <JapaneseText>プレイヤーキャラやテイルズキャラと同様に</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>8</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>308</PointerOffsetDec>
+    <PointerOffsetHex>0x134</PointerOffsetHex>
+    <JapaneseText>経験値を取得してレベルアップします</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>9</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>343</PointerOffsetDec>
+    <PointerOffsetHex>0x157</PointerOffsetHex>
+    <JapaneseText>ただし、パーティを離脱すると、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>10</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>375</PointerOffsetDec>
+    <PointerOffsetHex>0x177</PointerOffsetHex>
+    <JapaneseText>それまでに取得した経験値はリセットされ、</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>11</Id>
+    <Status />
+  </Entry>
+  <Entry>
+    <PointerOffsetDec>417</PointerOffsetDec>
+    <PointerOffsetHex>0x1a1</PointerOffsetHex>
+    <JapaneseText>ダウンロード時のレベルに戻ります</JapaneseText>
+    <EnglishText />
+    <Notes />
+    <Id>12</Id>
+    <Status />
+  </Entry>
+</Entries>
