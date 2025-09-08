@@ -1,93 +1,83 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>268</PointerOffsetDec>
-    <PointerOffsetHex>0x10c</PointerOffsetHex>
+    <PointerOffset>268</PointerOffset>
     <JapaneseText>ああ、○○でしたか</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>287</PointerOffsetDec>
-    <PointerOffsetHex>0x11f</PointerOffsetHex>
+    <PointerOffset>287</PointerOffset>
     <JapaneseText>いえ、実はあなたにぴったりの</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>317</PointerOffsetDec>
-    <PointerOffsetHex>0x13d</PointerOffsetHex>
+    <PointerOffset>317</PointerOffset>
     <JapaneseText>頼み事が出来そうでして</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>340</PointerOffsetDec>
-    <PointerOffsetHex>0x154</PointerOffsetHex>
+    <PointerOffset>340</PointerOffset>
     <JapaneseText>後で、また来て頂けますよね？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>378</PointerOffsetDec>
-    <PointerOffsetHex>0x17a</PointerOffsetHex>
+    <PointerOffset>378</PointerOffset>
     <JapaneseText>もちろん、無理にとは言いません。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>412</PointerOffsetDec>
-    <PointerOffsetHex>0x19c</PointerOffsetHex>
+    <PointerOffset>412</PointerOffset>
     <JapaneseText>時間に都合の付く時で構いませんし</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>445</PointerOffsetDec>
-    <PointerOffsetHex>0x1bd</PointerOffsetHex>
+    <PointerOffset>445</PointerOffset>
     <JapaneseText>頼りにしていますよ、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>472</PointerOffsetDec>
-    <PointerOffsetHex>0x1d8</PointerOffsetHex>
+    <PointerOffset>472</PointerOffset>
     <JapaneseText>クエスト「お金大好き∀」が</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>500</PointerOffsetDec>
-    <PointerOffsetHex>0x1f4</PointerOffsetHex>
+    <PointerOffset>500</PointerOffset>
     <JapaneseText>エントリーされました。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>27</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>524</PointerOffsetDec>
-    <PointerOffsetHex>0x20c</PointerOffsetHex>
+    <PointerOffset>524</PointerOffset>
     <JapaneseText>ジェイドから受ける事が出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>28</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

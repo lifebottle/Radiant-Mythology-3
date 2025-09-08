@@ -1,84 +1,75 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>142</PointerOffsetDec>
-    <PointerOffsetHex>0x8e</PointerOffsetHex>
+    <PointerOffset>142</PointerOffset>
     <JapaneseText>「疾風のフイゴ」って見た事あるキュ？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>179</PointerOffsetDec>
-    <PointerOffsetHex>0xb3</PointerOffsetHex>
+    <PointerOffset>179</PointerOffset>
     <JapaneseText>それがあれば、またまた</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>203</PointerOffsetDec>
-    <PointerOffsetHex>0xcb</PointerOffsetHex>
+    <PointerOffset>203</PointerOffset>
     <JapaneseText>装備を強化出来るんだキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>230</PointerOffsetDec>
-    <PointerOffsetHex>0xe6</PointerOffsetHex>
+    <PointerOffset>230</PointerOffset>
     <JapaneseText>発明家の好奇心を刺激するキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>262</PointerOffsetDec>
-    <PointerOffsetHex>0x106</PointerOffsetHex>
+    <PointerOffset>262</PointerOffset>
     <JapaneseText>ぜひ、行ってきて欲しいキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>292</PointerOffsetDec>
-    <PointerOffsetHex>0x124</PointerOffsetHex>
+    <PointerOffset>292</PointerOffset>
     <JapaneseText>お願いだキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>307</PointerOffsetDec>
-    <PointerOffsetHex>0x133</PointerOffsetHex>
+    <PointerOffset>307</PointerOffset>
     <JapaneseText>クエスト「疾風のフイゴを探せ！」が</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>343</PointerOffsetDec>
-    <PointerOffsetHex>0x157</PointerOffsetHex>
+    <PointerOffset>343</PointerOffset>
     <JapaneseText>エントリーされました。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>367</PointerOffsetDec>
-    <PointerOffsetHex>0x16f</PointerOffsetHex>
+    <PointerOffset>367</PointerOffset>
     <JapaneseText>ポッポから受ける事が出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

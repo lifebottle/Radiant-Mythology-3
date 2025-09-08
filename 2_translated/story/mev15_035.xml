@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>132</PointerOffsetDec>
-    <PointerOffsetHex>0x84</PointerOffsetHex>
+    <PointerOffset>132</PointerOffset>
     <JapaneseText>うーん、他にどの道があるのかな？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>165</PointerOffsetDec>
-    <PointerOffsetHex>0xa5</PointerOffsetHex>
+    <PointerOffset>165</PointerOffset>
     <JapaneseText>こういう時は、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>181</PointerOffsetDec>
-    <PointerOffsetHex>0xb5</PointerOffsetHex>
+    <PointerOffset>181</PointerOffset>
     <JapaneseText>一旦戻ってみたらどうかな？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>208</PointerOffsetDec>
-    <PointerOffsetHex>0xd0</PointerOffsetHex>
+    <PointerOffset>208</PointerOffset>
     <JapaneseText>そうね〜。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>220</PointerOffsetDec>
-    <PointerOffsetHex>0xdc</PointerOffsetHex>
+    <PointerOffset>220</PointerOffset>
     <JapaneseText>船に戻って作戦の練り直しを</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>248</PointerOffsetDec>
-    <PointerOffsetHex>0xf8</PointerOffsetHex>
+    <PointerOffset>248</PointerOffset>
     <JapaneseText>提案するしかないか</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

@@ -1,30 +1,27 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>28</PointerOffsetDec>
-    <PointerOffsetHex>0x1c</PointerOffsetHex>
+    <PointerOffset>28</PointerOffset>
     <JapaneseText>ここには金で買えないものがあるんだな、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>2</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>68</PointerOffsetDec>
-    <PointerOffsetHex>0x44</PointerOffsetHex>
+    <PointerOffset>68</PointerOffset>
     <JapaneseText>正味の話が。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>3</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>82</PointerOffsetDec>
-    <PointerOffsetHex>0x52</PointerOffsetHex>
+    <PointerOffset>82</PointerOffset>
     <JapaneseText>さー、正味の話が何を交換するんだ？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

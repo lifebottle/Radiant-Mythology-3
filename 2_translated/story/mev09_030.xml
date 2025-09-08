@@ -1,246 +1,219 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>392</PointerOffsetDec>
-    <PointerOffsetHex>0x188</PointerOffsetHex>
+    <PointerOffset>392</PointerOffset>
     <JapaneseText>精霊は、マナが豊かな所にしか</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>31</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>422</PointerOffsetDec>
-    <PointerOffsetHex>0x1a6</PointerOffsetHex>
+    <PointerOffset>422</PointerOffset>
     <JapaneseText>いられないんだろ？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>32</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>441</PointerOffsetDec>
-    <PointerOffsetHex>0x1b9</PointerOffsetHex>
+    <PointerOffset>441</PointerOffset>
     <JapaneseText>この山に精霊がいるなら、ここは</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>33</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>473</PointerOffsetDec>
-    <PointerOffsetHex>0x1d9</PointerOffsetHex>
+    <PointerOffset>473</PointerOffset>
     <JapaneseText>マナが豊富なのかな</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>34</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>492</PointerOffsetDec>
-    <PointerOffsetHex>0x1ec</PointerOffsetHex>
+    <PointerOffset>492</PointerOffset>
     <JapaneseText>…ええっと。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>35</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>506</PointerOffsetDec>
-    <PointerOffsetHex>0x1fa</PointerOffsetHex>
+    <PointerOffset>506</PointerOffset>
     <JapaneseText>そういう事に…なるのかな？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>36</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>533</PointerOffsetDec>
-    <PointerOffsetHex>0x215</PointerOffsetHex>
+    <PointerOffset>533</PointerOffset>
     <JapaneseText>土地がマナに恵まれる条件は二つあって、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>37</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>573</PointerOffsetDec>
-    <PointerOffsetHex>0x23d</PointerOffsetHex>
+    <PointerOffset>573</PointerOffset>
     <JapaneseText>まず一つが、地下に世界樹の根が通ってる事</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>38</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>614</PointerOffsetDec>
-    <PointerOffsetHex>0x266</PointerOffsetHex>
+    <PointerOffset>614</PointerOffset>
     <JapaneseText>そして、もう一つは星晶がある事</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>39</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>645</PointerOffsetDec>
-    <PointerOffsetHex>0x285</PointerOffsetHex>
+    <PointerOffset>645</PointerOffset>
     <JapaneseText>ここはどうなんだろうな。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>40</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>671</PointerOffsetDec>
-    <PointerOffsetHex>0x29f</PointerOffsetHex>
+    <PointerOffset>671</PointerOffset>
     <JapaneseText>こんな寒い所に世界樹の根が伸びるかな</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>41</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>708</PointerOffsetDec>
-    <PointerOffsetHex>0x2c4</PointerOffsetHex>
+    <PointerOffset>708</PointerOffset>
     <JapaneseText>寒さとかは関係ないんじゃないかな。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>42</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>744</PointerOffsetDec>
-    <PointerOffsetHex>0x2e8</PointerOffsetHex>
+    <PointerOffset>744</PointerOffset>
     <JapaneseText>普通の樹じゃないんだから。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>43</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>772</PointerOffsetDec>
-    <PointerOffsetHex>0x304</PointerOffsetHex>
+    <PointerOffset>772</PointerOffset>
     <JapaneseText>マグマの中でも根は伸びてるって言うし</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>44</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>809</PointerOffsetDec>
-    <PointerOffsetHex>0x329</PointerOffsetHex>
+    <PointerOffset>809</PointerOffset>
     <JapaneseText>星晶は、マナが物質化したものなんだろ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>45</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>849</PointerOffsetDec>
-    <PointerOffsetHex>0x351</PointerOffsetHex>
+    <PointerOffset>849</PointerOffset>
     <JapaneseText>根が張ってない所にも星晶があるのは</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>46</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>885</PointerOffsetDec>
-    <PointerOffsetHex>0x375</PointerOffsetHex>
+    <PointerOffset>885</PointerOffset>
     <JapaneseText>何でなんだ？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>47</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>898</PointerOffsetDec>
-    <PointerOffsetHex>0x382</PointerOffsetHex>
+    <PointerOffset>898</PointerOffset>
     <JapaneseText>そ、そこまでは…僕にはわからないよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>48</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>933</PointerOffsetDec>
-    <PointerOffsetHex>0x3a5</PointerOffsetHex>
+    <PointerOffset>933</PointerOffset>
     <JapaneseText>でも、世界樹も成長の途中で…、世界中に</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>49</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>973</PointerOffsetDec>
-    <PointerOffsetHex>0x3cd</PointerOffsetHex>
+    <PointerOffset>973</PointerOffset>
     <JapaneseText>根を伸ばしきれていないとか…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>50</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1002</PointerOffsetDec>
-    <PointerOffsetHex>0x3ea</PointerOffsetHex>
+    <PointerOffset>1002</PointerOffset>
     <JapaneseText>だから、世界中に根が張り尽くされるまで、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>51</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1044</PointerOffsetDec>
-    <PointerOffsetHex>0x414</PointerOffsetHex>
+    <PointerOffset>1044</PointerOffset>
     <JapaneseText>世界樹はマナを物質化させる事で</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>52</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1076</PointerOffsetDec>
-    <PointerOffsetHex>0x434</PointerOffsetHex>
+    <PointerOffset>1076</PointerOffset>
     <JapaneseText>星晶を作って…、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>53</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1093</PointerOffsetDec>
-    <PointerOffsetHex>0x445</PointerOffsetHex>
+    <PointerOffset>1093</PointerOffset>
     <JapaneseText>根が張っていない土地に星晶を据えたって</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>54</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1133</PointerOffsetDec>
-    <PointerOffsetHex>0x46d</PointerOffsetHex>
+    <PointerOffset>1133</PointerOffset>
     <JapaneseText>そういう「説」はあるみたいだね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>55</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1164</PointerOffsetDec>
-    <PointerOffsetHex>0x48c</PointerOffsetHex>
+    <PointerOffset>1164</PointerOffset>
     <JapaneseText>じゃあ、やっぱそういうのも含めて</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>56</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1198</PointerOffsetDec>
-    <PointerOffsetHex>0x4ae</PointerOffsetHex>
+    <PointerOffset>1198</PointerOffset>
     <JapaneseText>精霊に聞くしかないのか</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>57</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

@@ -1,39 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>50</PointerOffsetDec>
-    <PointerOffsetHex>0x32</PointerOffsetHex>
+    <PointerOffset>50</PointerOffset>
     <JapaneseText>京</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>3</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>234</PointerOffsetDec>
-    <PointerOffsetHex>0xea</PointerOffsetHex>
+    <PointerOffset>234</PointerOffset>
     <JapaneseText>己自身を越えろ、ディセンダー。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>266</PointerOffsetDec>
-    <PointerOffsetHex>0x10a</PointerOffsetHex>
+    <PointerOffset>266</PointerOffset>
     <JapaneseText>そなたには、その力があるのだ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>297</PointerOffsetDec>
-    <PointerOffsetHex>0x129</PointerOffsetHex>
+    <PointerOffset>297</PointerOffset>
     <JapaneseText>さあ、そなたの欲する未来を創れ！！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

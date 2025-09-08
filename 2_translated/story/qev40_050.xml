@@ -1,138 +1,123 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>847</PointerOffsetDec>
-    <PointerOffsetHex>0x34f</PointerOffsetHex>
+    <PointerOffset>847</PointerOffset>
     <JapaneseText>やっぱり今回も、化けてるんだな……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>59</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>882</PointerOffsetDec>
-    <PointerOffsetHex>0x372</PointerOffsetHex>
+    <PointerOffset>882</PointerOffset>
     <JapaneseText>待ってたパン！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>60</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>898</PointerOffsetDec>
-    <PointerOffsetHex>0x382</PointerOffsetHex>
+    <PointerOffset>898</PointerOffset>
     <JapaneseText>よくぞここまで来たパン！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>61</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>924</PointerOffsetDec>
-    <PointerOffsetHex>0x39c</PointerOffsetHex>
+    <PointerOffset>924</PointerOffset>
     <JapaneseText>褒めてあげるパン！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>62</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>943</PointerOffsetDec>
-    <PointerOffsetHex>0x3af</PointerOffsetHex>
+    <PointerOffset>943</PointerOffset>
     <JapaneseText>いや、お前が呼び出したんだろ……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>63</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>976</PointerOffsetDec>
-    <PointerOffsetHex>0x3d0</PointerOffsetHex>
+    <PointerOffset>976</PointerOffset>
     <JapaneseText>レシピはそう簡単に手に入らないから、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>64</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1014</PointerOffsetDec>
-    <PointerOffsetHex>0x3f6</PointerOffsetHex>
+    <PointerOffset>1014</PointerOffset>
     <JapaneseText>より価値が上がるんだパン！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>65</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1042</PointerOffsetDec>
-    <PointerOffsetHex>0x412</PointerOffsetHex>
+    <PointerOffset>1042</PointerOffset>
     <JapaneseText>これも一つの修行だパン！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>66</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1067</PointerOffsetDec>
-    <PointerOffsetHex>0x42b</PointerOffsetHex>
+    <PointerOffset>1067</PointerOffset>
     <JapaneseText>誰も修行したいなんて言ってない……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>67</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1102</PointerOffsetDec>
-    <PointerOffsetHex>0x44e</PointerOffsetHex>
+    <PointerOffset>1102</PointerOffset>
     <JapaneseText>照れなくてもいいパン！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>68</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1126</PointerOffsetDec>
-    <PointerOffsetHex>0x466</PointerOffsetHex>
+    <PointerOffset>1126</PointerOffset>
     <JapaneseText>それでは、レシピをあげるパン！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>69</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1158</PointerOffsetDec>
-    <PointerOffsetHex>0x486</PointerOffsetHex>
+    <PointerOffset>1158</PointerOffset>
     <JapaneseText>しっかり、頑張るパン！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>70</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1181</PointerOffsetDec>
-    <PointerOffsetHex>0x49d</PointerOffsetHex>
+    <PointerOffset>1181</PointerOffset>
     <JapaneseText>カレーパンのレシピを覚えた！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>71</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1210</PointerOffsetDec>
-    <PointerOffsetHex>0x4ba</PointerOffsetHex>
+    <PointerOffset>1210</PointerOffset>
     <JapaneseText>いだいだパン……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>72</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1227</PointerOffsetDec>
-    <PointerOffsetHex>0x4cb</PointerOffsetHex>
+    <PointerOffset>1227</PointerOffset>
     <JapaneseText>毎回転び過ぎだろ……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>73</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

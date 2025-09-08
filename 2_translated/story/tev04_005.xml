@@ -1,12 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>72</PointerOffsetDec>
-    <PointerOffsetHex>0x48</PointerOffsetHex>
+    <PointerOffset>72</PointerOffset>
     <JapaneseText>今回の目的地はブラウニー坑道だよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

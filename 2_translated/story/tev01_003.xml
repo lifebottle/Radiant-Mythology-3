@@ -1,48 +1,43 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>58</PointerOffsetDec>
-    <PointerOffsetHex>0x3a</PointerOffsetHex>
+    <PointerOffset>58</PointerOffset>
     <JapaneseText>ダンジョンには、通行を妨げる</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>88</PointerOffsetDec>
-    <PointerOffsetHex>0x58</PointerOffsetHex>
+    <PointerOffset>88</PointerOffset>
     <JapaneseText>ギミックがあります</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>107</PointerOffsetDec>
-    <PointerOffsetHex>0x6b</PointerOffsetHex>
+    <PointerOffset>107</PointerOffset>
     <JapaneseText>また、ギミック解除の手段は</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>135</PointerOffsetDec>
-    <PointerOffsetHex>0x87</PointerOffsetHex>
+    <PointerOffset>135</PointerOffset>
     <JapaneseText>ゲームの進行によって可能になるもの、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>173</PointerOffsetDec>
-    <PointerOffsetHex>0xad</PointerOffsetHex>
+    <PointerOffset>173</PointerOffset>
     <JapaneseText>パズルの様な仕掛けのものなど様々です</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>116</PointerOffsetDec>
-    <PointerOffsetHex>0x74</PointerOffsetHex>
+    <PointerOffset>116</PointerOffset>
     <JapaneseText>レシピの為に、行くのか？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>141</PointerOffsetDec>
-    <PointerOffsetHex>0x8d</PointerOffsetHex>
+    <PointerOffset>141</PointerOffset>
     <JapaneseText>全く、○○も</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>155</PointerOffsetDec>
-    <PointerOffsetHex>0x9b</PointerOffsetHex>
+    <PointerOffset>155</PointerOffset>
     <JapaneseText>物好きだな。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>169</PointerOffsetDec>
-    <PointerOffsetHex>0xa9</PointerOffsetHex>
+    <PointerOffset>169</PointerOffset>
     <JapaneseText>後で後悔しても、俺は知らないからな</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>204</PointerOffsetDec>
-    <PointerOffsetHex>0xcc</PointerOffsetHex>
+    <PointerOffset>204</PointerOffset>
     <JapaneseText>さて……仕方ない、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>224</PointerOffsetDec>
-    <PointerOffsetHex>0xe0</PointerOffsetHex>
+    <PointerOffset>224</PointerOffset>
     <JapaneseText>カダイフ砂漠まで行くか</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

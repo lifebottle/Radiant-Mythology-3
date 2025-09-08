@@ -1,84 +1,75 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>40</PointerOffsetDec>
-    <PointerOffsetHex>0x28</PointerOffsetHex>
+    <PointerOffset>40</PointerOffset>
     <JapaneseText>モンスターシンボルと接触する際、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>2</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>74</PointerOffsetDec>
-    <PointerOffsetHex>0x4a</PointerOffsetHex>
+    <PointerOffset>74</PointerOffset>
     <JapaneseText>モンスターシンボルとの接触方向によって</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>3</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>114</PointerOffsetDec>
-    <PointerOffsetHex>0x72</PointerOffsetHex>
+    <PointerOffset>114</PointerOffset>
     <JapaneseText>バックアタックが発生します</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>141</PointerOffsetDec>
-    <PointerOffsetHex>0x8d</PointerOffsetHex>
+    <PointerOffset>141</PointerOffset>
     <JapaneseText>モンスターシンボルの後ろから接触すれば、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>183</PointerOffsetDec>
-    <PointerOffsetHex>0xb7</PointerOffsetHex>
+    <PointerOffset>183</PointerOffset>
     <JapaneseText>戦闘開始時に、有利なバックアタックが</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>221</PointerOffsetDec>
-    <PointerOffsetHex>0xdd</PointerOffsetHex>
+    <PointerOffset>221</PointerOffset>
     <JapaneseText>発生します</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>232</PointerOffsetDec>
-    <PointerOffsetHex>0xe8</PointerOffsetHex>
+    <PointerOffset>232</PointerOffset>
     <JapaneseText>逆に、後ろから接触された場合、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>264</PointerOffsetDec>
-    <PointerOffsetHex>0x108</PointerOffsetHex>
+    <PointerOffset>264</PointerOffset>
     <JapaneseText>戦闘開始時に不利なフォーメーションとなり、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>308</PointerOffsetDec>
-    <PointerOffsetHex>0x134</PointerOffsetHex>
+    <PointerOffset>308</PointerOffset>
     <JapaneseText>逃走も不可能となります</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

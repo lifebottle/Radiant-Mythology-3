@@ -1,30 +1,27 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>226</PointerOffsetDec>
-    <PointerOffsetHex>0xe2</PointerOffsetHex>
+    <PointerOffset>226</PointerOffset>
     <JapaneseText>己自身を越えろ、ディセンダー。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>258</PointerOffsetDec>
-    <PointerOffsetHex>0x102</PointerOffsetHex>
+    <PointerOffset>258</PointerOffset>
     <JapaneseText>そなたには、その力があるのだ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>289</PointerOffsetDec>
-    <PointerOffsetHex>0x121</PointerOffsetHex>
+    <PointerOffset>289</PointerOffset>
     <JapaneseText>さあ、そなたの欲する未来を創れ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

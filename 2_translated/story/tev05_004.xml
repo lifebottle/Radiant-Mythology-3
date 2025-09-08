@@ -1,21 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>64</PointerOffsetDec>
-    <PointerOffsetHex>0x40</PointerOffsetHex>
+    <PointerOffset>64</PointerOffset>
     <JapaneseText>違うよ、○○。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>80</PointerOffsetDec>
-    <PointerOffsetHex>0x50</PointerOffsetHex>
+    <PointerOffset>80</PointerOffset>
     <JapaneseText>今回の行き先は、ルバーブ連山だよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

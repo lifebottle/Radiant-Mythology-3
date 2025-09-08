@@ -1,219 +1,195 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>326</PointerOffsetDec>
-    <PointerOffsetHex>0x146</PointerOffsetHex>
+    <PointerOffset>326</PointerOffset>
     <JapaneseText>ポッポの鍛冶屋、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>344</PointerOffsetDec>
-    <PointerOffsetHex>0x158</PointerOffsetHex>
+    <PointerOffset>344</PointerOffset>
     <JapaneseText>ようやくオープン出来たキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>374</PointerOffsetDec>
-    <PointerOffsetHex>0x176</PointerOffsetHex>
+    <PointerOffset>374</PointerOffset>
     <JapaneseText>改めて、よろしくだキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>399</PointerOffsetDec>
-    <PointerOffsetHex>0x18f</PointerOffsetHex>
+    <PointerOffset>399</PointerOffset>
     <JapaneseText>ここでは、装備の「合成」と「強化」が</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>437</PointerOffsetDec>
-    <PointerOffsetHex>0x1b5</PointerOffsetHex>
+    <PointerOffset>437</PointerOffset>
     <JapaneseText>出来るんだキュ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>27</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>452</PointerOffsetDec>
-    <PointerOffsetHex>0x1c4</PointerOffsetHex>
+    <PointerOffset>452</PointerOffset>
     <JapaneseText>強くして欲しい装備品があったら、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>28</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>486</PointerOffsetDec>
-    <PointerOffsetHex>0x1e6</PointerOffsetHex>
+    <PointerOffset>486</PointerOffset>
     <JapaneseText>ポッポに任せるキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>29</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>507</PointerOffsetDec>
-    <PointerOffsetHex>0x1fb</PointerOffsetHex>
+    <PointerOffset>507</PointerOffset>
     <JapaneseText>それから、「合成」と「強化」について、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>30</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>547</PointerOffsetDec>
-    <PointerOffsetHex>0x223</PointerOffsetHex>
+    <PointerOffset>547</PointerOffset>
     <JapaneseText>説明をしておくんだキュ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>31</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>570</PointerOffsetDec>
-    <PointerOffsetHex>0x23a</PointerOffsetHex>
+    <PointerOffset>570</PointerOffset>
     <JapaneseText>「合成」は、装備に付属したスキルを、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>32</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>608</PointerOffsetDec>
-    <PointerOffsetHex>0x260</PointerOffsetHex>
+    <PointerOffset>608</PointerOffset>
     <JapaneseText>別の装備に移す事が出来るんだキュ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>33</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>641</PointerOffsetDec>
-    <PointerOffsetHex>0x281</PointerOffsetHex>
+    <PointerOffset>641</PointerOffset>
     <JapaneseText>ただし、合成でスキルを移動させた装備は</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>34</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>681</PointerOffsetDec>
-    <PointerOffsetHex>0x2a9</PointerOffsetHex>
+    <PointerOffset>681</PointerOffset>
     <JapaneseText>無くなってしまうから気を付けるんだキュ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>35</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>720</PointerOffsetDec>
-    <PointerOffsetHex>0x2d0</PointerOffsetHex>
+    <PointerOffset>720</PointerOffset>
     <JapaneseText>「強化」は、装備に「強化素材」を使って、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>36</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>762</PointerOffsetDec>
-    <PointerOffsetHex>0x2fa</PointerOffsetHex>
+    <PointerOffset>762</PointerOffset>
     <JapaneseText>装備のパラメータを変化させるんだキュ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>37</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>799</PointerOffsetDec>
-    <PointerOffsetHex>0x31f</PointerOffsetHex>
+    <PointerOffset>799</PointerOffset>
     <JapaneseText>素材にはランクがあるんだキュ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>38</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>831</PointerOffsetDec>
-    <PointerOffsetHex>0x33f</PointerOffsetHex>
+    <PointerOffset>831</PointerOffset>
     <JapaneseText>でも、今の設備じゃ「素材ランク１」までしか</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>39</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>875</PointerOffsetDec>
-    <PointerOffsetHex>0x36b</PointerOffsetHex>
+    <PointerOffset>875</PointerOffset>
     <JapaneseText>扱えないキュ〜…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>40</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>892</PointerOffsetDec>
-    <PointerOffsetHex>0x37c</PointerOffsetHex>
+    <PointerOffset>892</PointerOffset>
     <JapaneseText>それから、装備には強化回数があるんだキュ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>41</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>936</PointerOffsetDec>
-    <PointerOffsetHex>0x3a8</PointerOffsetHex>
+    <PointerOffset>936</PointerOffset>
     <JapaneseText>「合成」「強化」をするとこれが減って、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>42</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>976</PointerOffsetDec>
-    <PointerOffsetHex>0x3d0</PointerOffsetHex>
+    <PointerOffset>976</PointerOffset>
     <JapaneseText>０になるまで出来るんだキュ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>43</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1003</PointerOffsetDec>
-    <PointerOffsetHex>0x3eb</PointerOffsetHex>
+    <PointerOffset>1003</PointerOffset>
     <JapaneseText>わかったキュ？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>44</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1019</PointerOffsetDec>
-    <PointerOffsetHex>0x3fb</PointerOffsetHex>
+    <PointerOffset>1019</PointerOffset>
     <JapaneseText>大事な事だから</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>45</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1035</PointerOffsetDec>
-    <PointerOffsetHex>0x40b</PointerOffsetHex>
+    <PointerOffset>1035</PointerOffset>
     <JapaneseText>覚えておいて欲しいキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>46</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

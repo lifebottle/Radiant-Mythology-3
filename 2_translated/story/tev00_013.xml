@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>90</PointerOffsetDec>
-    <PointerOffsetHex>0x5a</PointerOffsetHex>
+    <PointerOffset>90</PointerOffset>
     <JapaneseText>あの、グレードショップのアーダさんが、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>130</PointerOffsetDec>
-    <PointerOffsetHex>0x82</PointerOffsetHex>
+    <PointerOffset>130</PointerOffset>
     <JapaneseText>何やら奥の小部屋を改造しに</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>158</PointerOffsetDec>
-    <PointerOffsetHex>0x9e</PointerOffsetHex>
+    <PointerOffset>158</PointerOffset>
     <JapaneseText>来たんですが…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>173</PointerOffsetDec>
-    <PointerOffsetHex>0xad</PointerOffsetHex>
+    <PointerOffset>173</PointerOffset>
     <JapaneseText>そこの、カーテンがある所です。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>205</PointerOffsetDec>
-    <PointerOffsetHex>0xcd</PointerOffsetHex>
+    <PointerOffset>205</PointerOffset>
     <JapaneseText>あなた専用だと聞いていますけど…、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>241</PointerOffsetDec>
-    <PointerOffsetHex>0xf1</PointerOffsetHex>
+    <PointerOffset>241</PointerOffset>
     <JapaneseText>何なのでしょうね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

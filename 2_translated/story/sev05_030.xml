@@ -1,75 +1,67 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>282</PointerOffsetDec>
-    <PointerOffsetHex>0x11a</PointerOffsetHex>
+    <PointerOffset>282</PointerOffset>
     <JapaneseText>おのれ…、ディセンダー…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>307</PointerOffsetDec>
-    <PointerOffsetHex>0x133</PointerOffsetHex>
+    <PointerOffset>307</PointerOffset>
     <JapaneseText>我々の種族は、ヴェラトローパを降りる時、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>349</PointerOffsetDec>
-    <PointerOffsetHex>0x15d</PointerOffsetHex>
+    <PointerOffset>349</PointerOffset>
     <JapaneseText>この世界を治めるに相応しい者として</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>385</PointerOffsetDec>
-    <PointerOffsetHex>0x181</PointerOffsetHex>
+    <PointerOffset>385</PointerOffset>
     <JapaneseText>設計した</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>394</PointerOffsetDec>
-    <PointerOffsetHex>0x18a</PointerOffsetHex>
+    <PointerOffset>394</PointerOffset>
     <JapaneseText>天使の力、その全てを見せてやろう</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>427</PointerOffsetDec>
-    <PointerOffsetHex>0x1ab</PointerOffsetHex>
+    <PointerOffset>427</PointerOffset>
     <JapaneseText>ディセンダーなどいなくとも、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>457</PointerOffsetDec>
-    <PointerOffsetHex>0x1c9</PointerOffsetHex>
+    <PointerOffset>457</PointerOffset>
     <JapaneseText>我等が世界を統治する力を持つ事を</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>491</PointerOffsetDec>
-    <PointerOffsetHex>0x1eb</PointerOffsetHex>
+    <PointerOffset>491</PointerOffset>
     <JapaneseText>証明してやる！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

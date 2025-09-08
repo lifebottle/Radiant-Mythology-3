@@ -1,102 +1,91 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>46</PointerOffsetDec>
-    <PointerOffsetHex>0x2e</PointerOffsetHex>
+    <PointerOffset>46</PointerOffset>
     <JapaneseText>傭兵のダウンロードは、５人までです。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>2</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>84</PointerOffsetDec>
-    <PointerOffsetHex>0x54</PointerOffsetHex>
+    <PointerOffset>84</PointerOffset>
     <JapaneseText>ダウンロードされた傭兵の中から</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>3</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>116</PointerOffsetDec>
-    <PointerOffsetHex>0x74</PointerOffsetHex>
+    <PointerOffset>116</PointerOffset>
     <JapaneseText>最大３人まで、ここ展望室に配置されます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>155</PointerOffsetDec>
-    <PointerOffsetHex>0x9b</PointerOffsetHex>
+    <PointerOffset>155</PointerOffset>
     <JapaneseText>配置された傭兵に話しかけると、連動サイトで</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>199</PointerOffsetDec>
-    <PointerOffsetHex>0xc7</PointerOffsetHex>
+    <PointerOffset>199</PointerOffset>
     <JapaneseText>登録された情報を知る事が出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>232</PointerOffsetDec>
-    <PointerOffsetHex>0xe8</PointerOffsetHex>
+    <PointerOffset>232</PointerOffset>
     <JapaneseText>傭兵は、パーティに入っている間、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>266</PointerOffsetDec>
-    <PointerOffsetHex>0x10a</PointerOffsetHex>
+    <PointerOffset>266</PointerOffset>
     <JapaneseText>プレイヤーキャラやテイルズキャラと同様に</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>308</PointerOffsetDec>
-    <PointerOffsetHex>0x134</PointerOffsetHex>
+    <PointerOffset>308</PointerOffset>
     <JapaneseText>経験値を取得してレベルアップします</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>343</PointerOffsetDec>
-    <PointerOffsetHex>0x157</PointerOffsetHex>
+    <PointerOffset>343</PointerOffset>
     <JapaneseText>ただし、パーティを離脱すると、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>375</PointerOffsetDec>
-    <PointerOffsetHex>0x177</PointerOffsetHex>
+    <PointerOffset>375</PointerOffset>
     <JapaneseText>それまでに取得した経験値はリセットされ、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>417</PointerOffsetDec>
-    <PointerOffsetHex>0x1a1</PointerOffsetHex>
+    <PointerOffset>417</PointerOffset>
     <JapaneseText>ダウンロード時のレベルに戻ります</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

@@ -1,39 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>90</PointerOffsetDec>
-    <PointerOffsetHex>0x5a</PointerOffsetHex>
+    <PointerOffset>90</PointerOffset>
     <JapaneseText>ちょっと、ちょっと！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>112</PointerOffsetDec>
-    <PointerOffsetHex>0x70</PointerOffsetHex>
+    <PointerOffset>112</PointerOffset>
     <JapaneseText>どこに行くのよ？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>129</PointerOffsetDec>
-    <PointerOffsetHex>0x81</PointerOffsetHex>
+    <PointerOffset>129</PointerOffset>
     <JapaneseText>「生命賛歌の間」はこっちじゃないの。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>167</PointerOffsetDec>
-    <PointerOffsetHex>0xa7</PointerOffsetHex>
+    <PointerOffset>167</PointerOffset>
     <JapaneseText>引き返すわよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

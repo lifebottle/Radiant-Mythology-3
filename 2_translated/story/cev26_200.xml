@@ -1,1083 +1,963 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>1402</PointerOffsetDec>
-    <PointerOffsetHex>0x57a</PointerOffsetHex>
+    <PointerOffset>1402</PointerOffset>
     <JapaneseText>通常。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>95</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1411</PointerOffsetDec>
-    <PointerOffsetHex>0x583</PointerOffsetHex>
+    <PointerOffset>1411</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>96</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1437</PointerOffsetDec>
-    <PointerOffsetHex>0x59d</PointerOffsetHex>
+    <PointerOffset>1437</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>97</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1459</PointerOffsetDec>
-    <PointerOffsetHex>0x5b3</PointerOffsetHex>
+    <PointerOffset>1459</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>98</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1487</PointerOffsetDec>
-    <PointerOffsetHex>0x5cf</PointerOffsetHex>
+    <PointerOffset>1487</PointerOffset>
     <JapaneseText>笑い。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>99</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1496</PointerOffsetDec>
-    <PointerOffsetHex>0x5d8</PointerOffsetHex>
+    <PointerOffset>1496</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>100</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1522</PointerOffsetDec>
-    <PointerOffsetHex>0x5f2</PointerOffsetHex>
+    <PointerOffset>1522</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>101</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1544</PointerOffsetDec>
-    <PointerOffsetHex>0x608</PointerOffsetHex>
+    <PointerOffset>1544</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>102</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1572</PointerOffsetDec>
-    <PointerOffsetHex>0x624</PointerOffsetHex>
+    <PointerOffset>1572</PointerOffset>
     <JapaneseText>怒り。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>103</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1581</PointerOffsetDec>
-    <PointerOffsetHex>0x62d</PointerOffsetHex>
+    <PointerOffset>1581</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>104</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1607</PointerOffsetDec>
-    <PointerOffsetHex>0x647</PointerOffsetHex>
+    <PointerOffset>1607</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>105</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1629</PointerOffsetDec>
-    <PointerOffsetHex>0x65d</PointerOffsetHex>
+    <PointerOffset>1629</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>106</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1657</PointerOffsetDec>
-    <PointerOffsetHex>0x679</PointerOffsetHex>
+    <PointerOffset>1657</PointerOffset>
     <JapaneseText>悲しみ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>107</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1668</PointerOffsetDec>
-    <PointerOffsetHex>0x684</PointerOffsetHex>
+    <PointerOffset>1668</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>108</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1694</PointerOffsetDec>
-    <PointerOffsetHex>0x69e</PointerOffsetHex>
+    <PointerOffset>1694</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>109</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1716</PointerOffsetDec>
-    <PointerOffsetHex>0x6b4</PointerOffsetHex>
+    <PointerOffset>1716</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>110</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1744</PointerOffsetDec>
-    <PointerOffsetHex>0x6d0</PointerOffsetHex>
+    <PointerOffset>1744</PointerOffset>
     <JapaneseText>照れ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>111</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1753</PointerOffsetDec>
-    <PointerOffsetHex>0x6d9</PointerOffsetHex>
+    <PointerOffset>1753</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>112</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1779</PointerOffsetDec>
-    <PointerOffsetHex>0x6f3</PointerOffsetHex>
+    <PointerOffset>1779</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>113</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1801</PointerOffsetDec>
-    <PointerOffsetHex>0x709</PointerOffsetHex>
+    <PointerOffset>1801</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>114</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1829</PointerOffsetDec>
-    <PointerOffsetHex>0x725</PointerOffsetHex>
+    <PointerOffset>1829</PointerOffset>
     <JapaneseText>驚き。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>115</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1838</PointerOffsetDec>
-    <PointerOffsetHex>0x72e</PointerOffsetHex>
+    <PointerOffset>1838</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>116</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1864</PointerOffsetDec>
-    <PointerOffsetHex>0x748</PointerOffsetHex>
+    <PointerOffset>1864</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>117</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1886</PointerOffsetDec>
-    <PointerOffsetHex>0x75e</PointerOffsetHex>
+    <PointerOffset>1886</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>118</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1914</PointerOffsetDec>
-    <PointerOffsetHex>0x77a</PointerOffsetHex>
+    <PointerOffset>1914</PointerOffset>
     <JapaneseText>がっくし。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>119</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1927</PointerOffsetDec>
-    <PointerOffsetHex>0x787</PointerOffsetHex>
+    <PointerOffset>1927</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>120</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1953</PointerOffsetDec>
-    <PointerOffsetHex>0x7a1</PointerOffsetHex>
+    <PointerOffset>1953</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>121</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1975</PointerOffsetDec>
-    <PointerOffsetHex>0x7b7</PointerOffsetHex>
+    <PointerOffset>1975</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>122</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2003</PointerOffsetDec>
-    <PointerOffsetHex>0x7d3</PointerOffsetHex>
+    <PointerOffset>2003</PointerOffset>
     <JapaneseText>痛っ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>123</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2012</PointerOffsetDec>
-    <PointerOffsetHex>0x7dc</PointerOffsetHex>
+    <PointerOffset>2012</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>124</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2038</PointerOffsetDec>
-    <PointerOffsetHex>0x7f6</PointerOffsetHex>
+    <PointerOffset>2038</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>125</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2060</PointerOffsetDec>
-    <PointerOffsetHex>0x80c</PointerOffsetHex>
+    <PointerOffset>2060</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>126</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2088</PointerOffsetDec>
-    <PointerOffsetHex>0x828</PointerOffsetHex>
+    <PointerOffset>2088</PointerOffset>
     <JapaneseText>得意気。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>127</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2099</PointerOffsetDec>
-    <PointerOffsetHex>0x833</PointerOffsetHex>
+    <PointerOffset>2099</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>128</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2125</PointerOffsetDec>
-    <PointerOffsetHex>0x84d</PointerOffsetHex>
+    <PointerOffset>2125</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>129</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2147</PointerOffsetDec>
-    <PointerOffsetHex>0x863</PointerOffsetHex>
+    <PointerOffset>2147</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>130</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2175</PointerOffsetDec>
-    <PointerOffsetHex>0x87f</PointerOffsetHex>
+    <PointerOffset>2175</PointerOffset>
     <JapaneseText>おののく。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>131</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2188</PointerOffsetDec>
-    <PointerOffsetHex>0x88c</PointerOffsetHex>
+    <PointerOffset>2188</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>132</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2214</PointerOffsetDec>
-    <PointerOffsetHex>0x8a6</PointerOffsetHex>
+    <PointerOffset>2214</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>133</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2236</PointerOffsetDec>
-    <PointerOffsetHex>0x8bc</PointerOffsetHex>
+    <PointerOffset>2236</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>134</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2264</PointerOffsetDec>
-    <PointerOffsetHex>0x8d8</PointerOffsetHex>
+    <PointerOffset>2264</PointerOffset>
     <JapaneseText>通常。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>135</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2273</PointerOffsetDec>
-    <PointerOffsetHex>0x8e1</PointerOffsetHex>
+    <PointerOffset>2273</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>136</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2299</PointerOffsetDec>
-    <PointerOffsetHex>0x8fb</PointerOffsetHex>
+    <PointerOffset>2299</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>137</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2321</PointerOffsetDec>
-    <PointerOffsetHex>0x911</PointerOffsetHex>
+    <PointerOffset>2321</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>138</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2349</PointerOffsetDec>
-    <PointerOffsetHex>0x92d</PointerOffsetHex>
+    <PointerOffset>2349</PointerOffset>
     <JapaneseText>笑い。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>139</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2358</PointerOffsetDec>
-    <PointerOffsetHex>0x936</PointerOffsetHex>
+    <PointerOffset>2358</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>140</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2384</PointerOffsetDec>
-    <PointerOffsetHex>0x950</PointerOffsetHex>
+    <PointerOffset>2384</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>141</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2406</PointerOffsetDec>
-    <PointerOffsetHex>0x966</PointerOffsetHex>
+    <PointerOffset>2406</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>142</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2434</PointerOffsetDec>
-    <PointerOffsetHex>0x982</PointerOffsetHex>
+    <PointerOffset>2434</PointerOffset>
     <JapaneseText>怒り。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>143</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2443</PointerOffsetDec>
-    <PointerOffsetHex>0x98b</PointerOffsetHex>
+    <PointerOffset>2443</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>144</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2469</PointerOffsetDec>
-    <PointerOffsetHex>0x9a5</PointerOffsetHex>
+    <PointerOffset>2469</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>145</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2491</PointerOffsetDec>
-    <PointerOffsetHex>0x9bb</PointerOffsetHex>
+    <PointerOffset>2491</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>146</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2519</PointerOffsetDec>
-    <PointerOffsetHex>0x9d7</PointerOffsetHex>
+    <PointerOffset>2519</PointerOffset>
     <JapaneseText>悲しみ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>147</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2530</PointerOffsetDec>
-    <PointerOffsetHex>0x9e2</PointerOffsetHex>
+    <PointerOffset>2530</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>148</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2556</PointerOffsetDec>
-    <PointerOffsetHex>0x9fc</PointerOffsetHex>
+    <PointerOffset>2556</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>149</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2578</PointerOffsetDec>
-    <PointerOffsetHex>0xa12</PointerOffsetHex>
+    <PointerOffset>2578</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>150</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2606</PointerOffsetDec>
-    <PointerOffsetHex>0xa2e</PointerOffsetHex>
+    <PointerOffset>2606</PointerOffset>
     <JapaneseText>照れ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>151</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2615</PointerOffsetDec>
-    <PointerOffsetHex>0xa37</PointerOffsetHex>
+    <PointerOffset>2615</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>152</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2641</PointerOffsetDec>
-    <PointerOffsetHex>0xa51</PointerOffsetHex>
+    <PointerOffset>2641</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>153</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2663</PointerOffsetDec>
-    <PointerOffsetHex>0xa67</PointerOffsetHex>
+    <PointerOffset>2663</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>154</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2691</PointerOffsetDec>
-    <PointerOffsetHex>0xa83</PointerOffsetHex>
+    <PointerOffset>2691</PointerOffset>
     <JapaneseText>驚き。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>155</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2700</PointerOffsetDec>
-    <PointerOffsetHex>0xa8c</PointerOffsetHex>
+    <PointerOffset>2700</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>156</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2726</PointerOffsetDec>
-    <PointerOffsetHex>0xaa6</PointerOffsetHex>
+    <PointerOffset>2726</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>157</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2748</PointerOffsetDec>
-    <PointerOffsetHex>0xabc</PointerOffsetHex>
+    <PointerOffset>2748</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>158</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2776</PointerOffsetDec>
-    <PointerOffsetHex>0xad8</PointerOffsetHex>
+    <PointerOffset>2776</PointerOffset>
     <JapaneseText>がっくし。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>159</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2789</PointerOffsetDec>
-    <PointerOffsetHex>0xae5</PointerOffsetHex>
+    <PointerOffset>2789</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>160</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2815</PointerOffsetDec>
-    <PointerOffsetHex>0xaff</PointerOffsetHex>
+    <PointerOffset>2815</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>161</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2837</PointerOffsetDec>
-    <PointerOffsetHex>0xb15</PointerOffsetHex>
+    <PointerOffset>2837</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>162</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2865</PointerOffsetDec>
-    <PointerOffsetHex>0xb31</PointerOffsetHex>
+    <PointerOffset>2865</PointerOffset>
     <JapaneseText>痛っ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>163</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2874</PointerOffsetDec>
-    <PointerOffsetHex>0xb3a</PointerOffsetHex>
+    <PointerOffset>2874</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>164</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2900</PointerOffsetDec>
-    <PointerOffsetHex>0xb54</PointerOffsetHex>
+    <PointerOffset>2900</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>165</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2922</PointerOffsetDec>
-    <PointerOffsetHex>0xb6a</PointerOffsetHex>
+    <PointerOffset>2922</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>166</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2950</PointerOffsetDec>
-    <PointerOffsetHex>0xb86</PointerOffsetHex>
+    <PointerOffset>2950</PointerOffset>
     <JapaneseText>得意気。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>167</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2961</PointerOffsetDec>
-    <PointerOffsetHex>0xb91</PointerOffsetHex>
+    <PointerOffset>2961</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>168</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2987</PointerOffsetDec>
-    <PointerOffsetHex>0xbab</PointerOffsetHex>
+    <PointerOffset>2987</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>169</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3009</PointerOffsetDec>
-    <PointerOffsetHex>0xbc1</PointerOffsetHex>
+    <PointerOffset>3009</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>170</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3037</PointerOffsetDec>
-    <PointerOffsetHex>0xbdd</PointerOffsetHex>
+    <PointerOffset>3037</PointerOffset>
     <JapaneseText>おののく。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>171</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3050</PointerOffsetDec>
-    <PointerOffsetHex>0xbea</PointerOffsetHex>
+    <PointerOffset>3050</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>172</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3076</PointerOffsetDec>
-    <PointerOffsetHex>0xc04</PointerOffsetHex>
+    <PointerOffset>3076</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>173</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3098</PointerOffsetDec>
-    <PointerOffsetHex>0xc1a</PointerOffsetHex>
+    <PointerOffset>3098</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>174</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3126</PointerOffsetDec>
-    <PointerOffsetHex>0xc36</PointerOffsetHex>
+    <PointerOffset>3126</PointerOffset>
     <JapaneseText>通常。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>175</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3135</PointerOffsetDec>
-    <PointerOffsetHex>0xc3f</PointerOffsetHex>
+    <PointerOffset>3135</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>176</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3161</PointerOffsetDec>
-    <PointerOffsetHex>0xc59</PointerOffsetHex>
+    <PointerOffset>3161</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>177</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3183</PointerOffsetDec>
-    <PointerOffsetHex>0xc6f</PointerOffsetHex>
+    <PointerOffset>3183</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>178</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3211</PointerOffsetDec>
-    <PointerOffsetHex>0xc8b</PointerOffsetHex>
+    <PointerOffset>3211</PointerOffset>
     <JapaneseText>笑い。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>179</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3220</PointerOffsetDec>
-    <PointerOffsetHex>0xc94</PointerOffsetHex>
+    <PointerOffset>3220</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>180</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3246</PointerOffsetDec>
-    <PointerOffsetHex>0xcae</PointerOffsetHex>
+    <PointerOffset>3246</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>181</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3268</PointerOffsetDec>
-    <PointerOffsetHex>0xcc4</PointerOffsetHex>
+    <PointerOffset>3268</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>182</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3296</PointerOffsetDec>
-    <PointerOffsetHex>0xce0</PointerOffsetHex>
+    <PointerOffset>3296</PointerOffset>
     <JapaneseText>怒り。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>183</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3305</PointerOffsetDec>
-    <PointerOffsetHex>0xce9</PointerOffsetHex>
+    <PointerOffset>3305</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>184</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3331</PointerOffsetDec>
-    <PointerOffsetHex>0xd03</PointerOffsetHex>
+    <PointerOffset>3331</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>185</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3353</PointerOffsetDec>
-    <PointerOffsetHex>0xd19</PointerOffsetHex>
+    <PointerOffset>3353</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>186</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3381</PointerOffsetDec>
-    <PointerOffsetHex>0xd35</PointerOffsetHex>
+    <PointerOffset>3381</PointerOffset>
     <JapaneseText>悲しみ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>187</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3392</PointerOffsetDec>
-    <PointerOffsetHex>0xd40</PointerOffsetHex>
+    <PointerOffset>3392</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>188</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3418</PointerOffsetDec>
-    <PointerOffsetHex>0xd5a</PointerOffsetHex>
+    <PointerOffset>3418</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>189</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3440</PointerOffsetDec>
-    <PointerOffsetHex>0xd70</PointerOffsetHex>
+    <PointerOffset>3440</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>190</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3468</PointerOffsetDec>
-    <PointerOffsetHex>0xd8c</PointerOffsetHex>
+    <PointerOffset>3468</PointerOffset>
     <JapaneseText>照れ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>191</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3477</PointerOffsetDec>
-    <PointerOffsetHex>0xd95</PointerOffsetHex>
+    <PointerOffset>3477</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>192</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3503</PointerOffsetDec>
-    <PointerOffsetHex>0xdaf</PointerOffsetHex>
+    <PointerOffset>3503</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>193</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3525</PointerOffsetDec>
-    <PointerOffsetHex>0xdc5</PointerOffsetHex>
+    <PointerOffset>3525</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>194</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3553</PointerOffsetDec>
-    <PointerOffsetHex>0xde1</PointerOffsetHex>
+    <PointerOffset>3553</PointerOffset>
     <JapaneseText>驚き。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>195</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3562</PointerOffsetDec>
-    <PointerOffsetHex>0xdea</PointerOffsetHex>
+    <PointerOffset>3562</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>196</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3588</PointerOffsetDec>
-    <PointerOffsetHex>0xe04</PointerOffsetHex>
+    <PointerOffset>3588</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>197</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3610</PointerOffsetDec>
-    <PointerOffsetHex>0xe1a</PointerOffsetHex>
+    <PointerOffset>3610</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>198</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3638</PointerOffsetDec>
-    <PointerOffsetHex>0xe36</PointerOffsetHex>
+    <PointerOffset>3638</PointerOffset>
     <JapaneseText>がっくし。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>199</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3651</PointerOffsetDec>
-    <PointerOffsetHex>0xe43</PointerOffsetHex>
+    <PointerOffset>3651</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>200</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3677</PointerOffsetDec>
-    <PointerOffsetHex>0xe5d</PointerOffsetHex>
+    <PointerOffset>3677</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>201</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3699</PointerOffsetDec>
-    <PointerOffsetHex>0xe73</PointerOffsetHex>
+    <PointerOffset>3699</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>202</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3727</PointerOffsetDec>
-    <PointerOffsetHex>0xe8f</PointerOffsetHex>
+    <PointerOffset>3727</PointerOffset>
     <JapaneseText>痛っ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>203</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3736</PointerOffsetDec>
-    <PointerOffsetHex>0xe98</PointerOffsetHex>
+    <PointerOffset>3736</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>204</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3762</PointerOffsetDec>
-    <PointerOffsetHex>0xeb2</PointerOffsetHex>
+    <PointerOffset>3762</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>205</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3784</PointerOffsetDec>
-    <PointerOffsetHex>0xec8</PointerOffsetHex>
+    <PointerOffset>3784</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>206</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3812</PointerOffsetDec>
-    <PointerOffsetHex>0xee4</PointerOffsetHex>
+    <PointerOffset>3812</PointerOffset>
     <JapaneseText>得意気。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>207</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3823</PointerOffsetDec>
-    <PointerOffsetHex>0xeef</PointerOffsetHex>
+    <PointerOffset>3823</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>208</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3849</PointerOffsetDec>
-    <PointerOffsetHex>0xf09</PointerOffsetHex>
+    <PointerOffset>3849</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>209</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3871</PointerOffsetDec>
-    <PointerOffsetHex>0xf1f</PointerOffsetHex>
+    <PointerOffset>3871</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>210</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3899</PointerOffsetDec>
-    <PointerOffsetHex>0xf3b</PointerOffsetHex>
+    <PointerOffset>3899</PointerOffset>
     <JapaneseText>おののく。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>211</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3912</PointerOffsetDec>
-    <PointerOffsetHex>0xf48</PointerOffsetHex>
+    <PointerOffset>3912</PointerOffset>
     <JapaneseText>あめんぼ赤いなアイウエオ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>212</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3938</PointerOffsetDec>
-    <PointerOffsetHex>0xf62</PointerOffsetHex>
+    <PointerOffset>3938</PointerOffset>
     <JapaneseText>柿木栗の木カキクケコ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>213</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>3960</PointerOffsetDec>
-    <PointerOffsetHex>0xf78</PointerOffsetHex>
+    <PointerOffset>3960</PointerOffset>
     <JapaneseText>大角豆に酢をかけサシスセソ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>214</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

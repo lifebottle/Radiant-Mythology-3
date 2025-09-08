@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>76</PointerOffsetDec>
-    <PointerOffsetHex>0x4c</PointerOffsetHex>
+    <PointerOffset>76</PointerOffset>
     <JapaneseText>称号「アドリビドムの一員」を</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>106</PointerOffsetDec>
-    <PointerOffsetHex>0x6a</PointerOffsetHex>
+    <PointerOffset>106</PointerOffset>
     <JapaneseText>獲得しました</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>119</PointerOffsetDec>
-    <PointerOffsetHex>0x77</PointerOffsetHex>
+    <PointerOffset>119</PointerOffset>
     <JapaneseText>称号は、メニューのライブラリで</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>151</PointerOffsetDec>
-    <PointerOffsetHex>0x97</PointerOffsetHex>
+    <PointerOffset>151</PointerOffset>
     <JapaneseText>確認出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>164</PointerOffsetDec>
-    <PointerOffsetHex>0xa4</PointerOffsetHex>
+    <PointerOffset>164</PointerOffset>
     <JapaneseText>また、得られた称号をセットする事で</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>200</PointerOffsetDec>
-    <PointerOffsetHex>0xc8</PointerOffsetHex>
+    <PointerOffset>200</PointerOffset>
     <JapaneseText>様々な効果が得られます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

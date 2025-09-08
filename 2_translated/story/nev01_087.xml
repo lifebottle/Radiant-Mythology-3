@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>46</PointerOffsetDec>
-    <PointerOffsetHex>0x2e</PointerOffsetHex>
+    <PointerOffset>46</PointerOffset>
     <JapaneseText>ルミナシアに飛ばされて、困っていたら</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>3</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>84</PointerOffsetDec>
-    <PointerOffsetHex>0x54</PointerOffsetHex>
+    <PointerOffset>84</PointerOffset>
     <JapaneseText>友達を見つけて声をかけたんだけど。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>120</PointerOffsetDec>
-    <PointerOffsetHex>0x78</PointerOffsetHex>
+    <PointerOffset>120</PointerOffset>
     <JapaneseText>全くの別人で…、姿や名前は同じなのに</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>157</PointerOffsetDec>
-    <PointerOffsetHex>0x9d</PointerOffsetHex>
+    <PointerOffset>157</PointerOffset>
     <JapaneseText>誰かって？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>169</PointerOffsetDec>
-    <PointerOffsetHex>0xa9</PointerOffsetHex>
+    <PointerOffset>169</PointerOffset>
     <JapaneseText>闘技場のオーナーだよ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>193</PointerOffsetDec>
-    <PointerOffsetHex>0xc1</PointerOffsetHex>
+    <PointerOffset>193</PointerOffset>
     <JapaneseText>モルモ、っていう…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

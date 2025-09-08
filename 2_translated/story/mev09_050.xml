@@ -1,21 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>469</PointerOffsetDec>
-    <PointerOffsetHex>0x1d5</PointerOffsetHex>
+    <PointerOffset>469</PointerOffset>
     <JapaneseText>何度来ようと同じ事だ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>493</PointerOffsetDec>
-    <PointerOffsetHex>0x1ed</PointerOffsetHex>
+    <PointerOffset>493</PointerOffset>
     <JapaneseText>精霊を守るという俺の役目は変わらない…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>27</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

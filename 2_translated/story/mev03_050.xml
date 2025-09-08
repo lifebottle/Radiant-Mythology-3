@@ -1,120 +1,107 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>398</PointerOffsetDec>
-    <PointerOffsetHex>0x18e</PointerOffsetHex>
+    <PointerOffset>398</PointerOffset>
     <JapaneseText>今回、赤い煙が本当に現れたのは、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>432</PointerOffsetDec>
-    <PointerOffsetHex>0x1b0</PointerOffsetHex>
+    <PointerOffset>432</PointerOffset>
     <JapaneseText>収穫だったね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>445</PointerOffsetDec>
-    <PointerOffsetHex>0x1bd</PointerOffsetHex>
+    <PointerOffset>445</PointerOffset>
     <JapaneseText>あの場で生物変化は確認出来なかったが、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>485</PointerOffsetDec>
-    <PointerOffsetHex>0x1e5</PointerOffsetHex>
+    <PointerOffset>485</PointerOffset>
     <JapaneseText>現れたあの赤い煙…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>504</PointerOffsetDec>
-    <PointerOffsetHex>0x1f8</PointerOffsetHex>
+    <PointerOffset>504</PointerOffset>
     <JapaneseText>奇妙な事に、生きている虫にしか</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>536</PointerOffsetDec>
-    <PointerOffsetHex>0x218</PointerOffsetHex>
+    <PointerOffset>536</PointerOffset>
     <JapaneseText>まとわり付かなかった</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>557</PointerOffsetDec>
-    <PointerOffsetHex>0x22d</PointerOffsetHex>
+    <PointerOffset>557</PointerOffset>
     <JapaneseText>持ち帰った虫を調べてみたが、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>27</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>587</PointerOffsetDec>
-    <PointerOffsetHex>0x24b</PointerOffsetHex>
+    <PointerOffset>587</PointerOffset>
     <JapaneseText>取り立てて変化は無い</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>28</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>608</PointerOffsetDec>
-    <PointerOffsetHex>0x260</PointerOffsetHex>
+    <PointerOffset>608</PointerOffset>
     <JapaneseText>ほんのわずかだが餌も手に入れられた。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>29</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>646</PointerOffsetDec>
-    <PointerOffsetHex>0x286</PointerOffsetHex>
+    <PointerOffset>646</PointerOffset>
     <JapaneseText>しばらく飼育してみようと思う</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>30</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>675</PointerOffsetDec>
-    <PointerOffsetHex>0x2a3</PointerOffsetHex>
+    <PointerOffset>675</PointerOffset>
     <JapaneseText>はい。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>31</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>683</PointerOffsetDec>
-    <PointerOffsetHex>0x2ab</PointerOffsetHex>
+    <PointerOffset>683</PointerOffset>
     <JapaneseText>それじゃあ、管理はお願いします</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>32</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>714</PointerOffsetDec>
-    <PointerOffsetHex>0x2ca</PointerOffsetHex>
+    <PointerOffset>714</PointerOffset>
     <JapaneseText>優先行動（初級者編）が使えるようになりました！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>33</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

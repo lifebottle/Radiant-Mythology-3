@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>134</PointerOffsetDec>
-    <PointerOffsetHex>0x86</PointerOffsetHex>
+    <PointerOffset>134</PointerOffset>
     <JapaneseText>漲</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>262</PointerOffsetDec>
-    <PointerOffsetHex>0x106</PointerOffsetHex>
+    <PointerOffset>262</PointerOffset>
     <JapaneseText>えっと、ここからの道は…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>287</PointerOffsetDec>
-    <PointerOffsetHex>0x11f</PointerOffsetHex>
+    <PointerOffset>287</PointerOffset>
     <JapaneseText>いつもはこの道をまっすぐ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>313</PointerOffsetDec>
-    <PointerOffsetHex>0x139</PointerOffsetHex>
+    <PointerOffset>313</PointerOffset>
     <JapaneseText>行くんだけど</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>326</PointerOffsetDec>
-    <PointerOffsetHex>0x146</PointerOffsetHex>
+    <PointerOffset>326</PointerOffset>
     <JapaneseText>今回はそこのわき道を行くの。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>356</PointerOffsetDec>
-    <PointerOffsetHex>0x164</PointerOffsetHex>
+    <PointerOffset>356</PointerOffset>
     <JapaneseText>そこに、船が迎えに来てくれるんだ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

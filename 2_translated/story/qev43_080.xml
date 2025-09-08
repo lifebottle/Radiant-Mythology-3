@@ -1,48 +1,43 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>275</PointerOffsetDec>
-    <PointerOffsetHex>0x113</PointerOffsetHex>
+    <PointerOffset>275</PointerOffset>
     <JapaneseText>ぷぷぷ、負けて悔しいかパン！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>305</PointerOffsetDec>
-    <PointerOffsetHex>0x131</PointerOffsetHex>
+    <PointerOffset>305</PointerOffset>
     <JapaneseText>だからって、何度来てもムダパン！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>339</PointerOffsetDec>
-    <PointerOffsetHex>0x153</PointerOffsetHex>
+    <PointerOffset>339</PointerOffset>
     <JapaneseText>何回やっても、小生が勝つパン！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>370</PointerOffsetDec>
-    <PointerOffsetHex>0x172</PointerOffsetHex>
+    <PointerOffset>370</PointerOffset>
     <JapaneseText>ワンダーパン職人流パン術を、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>400</PointerOffsetDec>
-    <PointerOffsetHex>0x190</PointerOffsetHex>
+    <PointerOffset>400</PointerOffset>
     <JapaneseText>何度でも味合わせてやるパン！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

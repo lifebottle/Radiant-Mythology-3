@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>34</PointerOffsetDec>
-    <PointerOffsetHex>0x22</PointerOffsetHex>
+    <PointerOffset>34</PointerOffset>
     <JapaneseText>艦内見取り図で「ＥＶＥＮＴ」マークが</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>2</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>72</PointerOffsetDec>
-    <PointerOffsetHex>0x48</PointerOffsetHex>
+    <PointerOffset>72</PointerOffset>
     <JapaneseText>表示されている場所へ行くと、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>3</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>102</PointerOffsetDec>
-    <PointerOffsetHex>0x66</PointerOffsetHex>
+    <PointerOffset>102</PointerOffset>
     <JapaneseText>イベントが発生します</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>123</PointerOffsetDec>
-    <PointerOffsetHex>0x7b</PointerOffsetHex>
+    <PointerOffset>123</PointerOffset>
     <JapaneseText>なお、表示の切り替えを行う場合は、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>159</PointerOffsetDec>
-    <PointerOffsetHex>0x9f</PointerOffsetHex>
+    <PointerOffset>159</PointerOffset>
     <JapaneseText>方向キー上下でフロア切り替え。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>191</PointerOffsetDec>
-    <PointerOffsetHex>0xbf</PointerOffsetHex>
+    <PointerOffset>191</PointerOffset>
     <JapaneseText>方向キー左右で部屋切り替えになります</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

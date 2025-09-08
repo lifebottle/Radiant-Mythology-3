@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>202</PointerOffsetDec>
-    <PointerOffsetHex>0xca</PointerOffsetHex>
+    <PointerOffset>202</PointerOffset>
     <JapaneseText>（光…）</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>211</PointerOffsetDec>
-    <PointerOffsetHex>0xd3</PointerOffsetHex>
+    <PointerOffset>211</PointerOffset>
     <JapaneseText>（光マトイシ　モノ…）</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>234</PointerOffsetDec>
-    <PointerOffsetHex>0xea</PointerOffsetHex>
+    <PointerOffset>234</PointerOffset>
     <JapaneseText>（ワタシ　ハ　光　ヲ　待チイタリ…）</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>271</PointerOffsetDec>
-    <PointerOffsetHex>0x10f</PointerOffsetHex>
+    <PointerOffset>271</PointerOffset>
     <JapaneseText>（我ガ主　ディセンダー…。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>299</PointerOffsetDec>
-    <PointerOffsetHex>0x12b</PointerOffsetHex>
+    <PointerOffset>299</PointerOffset>
     <JapaneseText>　コレヨリ　アナタ　ノ　影　ニ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>331</PointerOffsetDec>
-    <PointerOffsetHex>0x14b</PointerOffsetHex>
+    <PointerOffset>331</PointerOffset>
     <JapaneseText>　ナリマショウ…）</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

@@ -1,30 +1,27 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>126</PointerOffsetDec>
-    <PointerOffsetHex>0x7e</PointerOffsetHex>
+    <PointerOffset>126</PointerOffset>
     <JapaneseText>ええと、この先へ進む為に橋を架けなきゃ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>173</PointerOffsetDec>
-    <PointerOffsetHex>0xad</PointerOffsetHex>
+    <PointerOffset>173</PointerOffset>
     <JapaneseText>ボタンを押してもらってもいいかな？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>209</PointerOffsetDec>
-    <PointerOffsetHex>0xd1</PointerOffsetHex>
+    <PointerOffset>209</PointerOffset>
     <JapaneseText>○ボタンで出来るよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

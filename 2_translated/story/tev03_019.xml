@@ -1,129 +1,115 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>228</PointerOffsetDec>
-    <PointerOffsetHex>0xe4</PointerOffsetHex>
+    <PointerOffset>228</PointerOffset>
     <JapaneseText>よろしくだキュ、○○！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>252</PointerOffsetDec>
-    <PointerOffsetHex>0xfc</PointerOffsetHex>
+    <PointerOffset>252</PointerOffset>
     <JapaneseText>武器屋担当のキュッポだキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>281</PointerOffsetDec>
-    <PointerOffsetHex>0x119</PointerOffsetHex>
+    <PointerOffset>281</PointerOffset>
     <JapaneseText>ここでは、アドリビトムのみんなの為の</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>319</PointerOffsetDec>
-    <PointerOffsetHex>0x13f</PointerOffsetHex>
+    <PointerOffset>319</PointerOffset>
     <JapaneseText>武器を取り扱ってるんだキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>348</PointerOffsetDec>
-    <PointerOffsetHex>0x15c</PointerOffsetHex>
+    <PointerOffset>348</PointerOffset>
     <JapaneseText>ここで買った武器は、メニューの「装備」で</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>390</PointerOffsetDec>
-    <PointerOffsetHex>0x186</PointerOffsetHex>
+    <PointerOffset>390</PointerOffset>
     <JapaneseText>装備出来るんだキュ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>409</PointerOffsetDec>
-    <PointerOffsetHex>0x199</PointerOffsetHex>
+    <PointerOffset>409</PointerOffset>
     <JapaneseText>強い武器、防具を手に入れたら、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>441</PointerOffsetDec>
-    <PointerOffsetHex>0x1b9</PointerOffsetHex>
+    <PointerOffset>441</PointerOffset>
     <JapaneseText>こまめに装備し直すといいキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>472</PointerOffsetDec>
-    <PointerOffsetHex>0x1d8</PointerOffsetHex>
+    <PointerOffset>472</PointerOffset>
     <JapaneseText>それから、これは大事な事だから覚えて</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>510</PointerOffsetDec>
-    <PointerOffsetHex>0x1fe</PointerOffsetHex>
+    <PointerOffset>510</PointerOffset>
     <JapaneseText>おくといいキュ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>525</PointerOffsetDec>
-    <PointerOffsetHex>0x20d</PointerOffsetHex>
+    <PointerOffset>525</PointerOffset>
     <JapaneseText>装備出来る武器、防具は職業によって</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>27</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>561</PointerOffsetDec>
-    <PointerOffsetHex>0x231</PointerOffsetHex>
+    <PointerOffset>561</PointerOffset>
     <JapaneseText>異なるんだキュ、覚えておくんだキュ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>28</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>596</PointerOffsetDec>
-    <PointerOffsetHex>0x254</PointerOffsetHex>
+    <PointerOffset>596</PointerOffset>
     <JapaneseText>これからもどんどん新商品を増やすキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>29</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>636</PointerOffsetDec>
-    <PointerOffsetHex>0x27c</PointerOffsetHex>
+    <PointerOffset>636</PointerOffset>
     <JapaneseText>ちょくちょく覗きに来て欲しいキュ！！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>30</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

@@ -1,192 +1,171 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>200</PointerOffsetDec>
-    <PointerOffsetHex>0xc8</PointerOffsetHex>
+    <PointerOffset>200</PointerOffset>
     <JapaneseText>やっと、気が付かれましたか…。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>232</PointerOffsetDec>
-    <PointerOffsetHex>0xe8</PointerOffsetHex>
+    <PointerOffset>232</PointerOffset>
     <JapaneseText>ああ、もぉ〜…。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>250</PointerOffsetDec>
-    <PointerOffsetHex>0xfa</PointerOffsetHex>
+    <PointerOffset>250</PointerOffset>
     <JapaneseText>クエストを受けないまま船を出るからですよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>291</PointerOffsetDec>
-    <PointerOffsetHex>0x123</PointerOffsetHex>
+    <PointerOffset>291</PointerOffset>
     <JapaneseText>クエストを受けずに、外で全滅したら</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>327</PointerOffsetDec>
-    <PointerOffsetHex>0x147</PointerOffsetHex>
+    <PointerOffset>327</PointerOffset>
     <JapaneseText>こんな風に救助が遅れてしまうんです。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>365</PointerOffsetDec>
-    <PointerOffsetHex>0x16d</PointerOffsetHex>
+    <PointerOffset>365</PointerOffset>
     <JapaneseText>そこは、気を付けていただかないと…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>400</PointerOffsetDec>
-    <PointerOffsetHex>0x190</PointerOffsetHex>
+    <PointerOffset>400</PointerOffset>
     <JapaneseText>あなただけではありません。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>428</PointerOffsetDec>
-    <PointerOffsetHex>0x1ac</PointerOffsetHex>
+    <PointerOffset>428</PointerOffset>
     <JapaneseText>パーティメンバーの皆さんも重傷を</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>462</PointerOffsetDec>
-    <PointerOffsetHex>0x1ce</PointerOffsetHex>
+    <PointerOffset>462</PointerOffset>
     <JapaneseText>負うのですよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>475</PointerOffsetDec>
-    <PointerOffsetHex>0x1db</PointerOffsetHex>
+    <PointerOffset>475</PointerOffset>
     <JapaneseText>自動的にパーティは解散となり、完治するまで</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>519</PointerOffsetDec>
-    <PointerOffsetHex>0x207</PointerOffsetHex>
+    <PointerOffset>519</PointerOffset>
     <JapaneseText>医務室を出られませんから、しばらく</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>555</PointerOffsetDec>
-    <PointerOffsetHex>0x22b</PointerOffsetHex>
+    <PointerOffset>555</PointerOffset>
     <JapaneseText>パーティに加える事も出来なくなるんです</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>594</PointerOffsetDec>
-    <PointerOffsetHex>0x252</PointerOffsetHex>
+    <PointerOffset>594</PointerOffset>
     <JapaneseText>クエストを受けずに外出するのが駄目という</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>636</PointerOffsetDec>
-    <PointerOffsetHex>0x27c</PointerOffsetHex>
+    <PointerOffset>636</PointerOffset>
     <JapaneseText>わけではありませんが…、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>662</PointerOffsetDec>
-    <PointerOffsetHex>0x296</PointerOffsetHex>
+    <PointerOffset>662</PointerOffset>
     <JapaneseText>今後は気を付ける様にして下さいね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>27</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>695</PointerOffsetDec>
-    <PointerOffsetHex>0x2b7</PointerOffsetHex>
+    <PointerOffset>695</PointerOffset>
     <JapaneseText>パーティを解散しました</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>28</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>718</PointerOffsetDec>
-    <PointerOffsetHex>0x2ce</PointerOffsetHex>
+    <PointerOffset>718</PointerOffset>
     <JapaneseText>怪我をしたテイルズキャラクターは、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>29</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>754</PointerOffsetDec>
-    <PointerOffsetHex>0x2f2</PointerOffsetHex>
+    <PointerOffset>754</PointerOffset>
     <JapaneseText>治療のため医務室に収容されます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>30</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>785</PointerOffsetDec>
-    <PointerOffsetHex>0x311</PointerOffsetHex>
+    <PointerOffset>785</PointerOffset>
     <JapaneseText>医務室に収容されたテイルズキャラクターは、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>31</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>829</PointerOffsetDec>
-    <PointerOffsetHex>0x33d</PointerOffsetHex>
+    <PointerOffset>829</PointerOffset>
     <JapaneseText>次のクエストでは一部のクエストを除き、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>32</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>869</PointerOffsetDec>
-    <PointerOffsetHex>0x365</PointerOffsetHex>
+    <PointerOffset>869</PointerOffset>
     <JapaneseText>パーティに加えることが出来ません</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>33</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

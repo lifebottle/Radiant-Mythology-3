@@ -1,21 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>152</PointerOffsetDec>
-    <PointerOffsetHex>0x98</PointerOffsetHex>
+    <PointerOffset>152</PointerOffset>
     <JapaneseText>あともう少しだよ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>171</PointerOffsetDec>
-    <PointerOffsetHex>0xab</PointerOffsetHex>
+    <PointerOffset>171</PointerOffset>
     <JapaneseText>さ、頑張ろう！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

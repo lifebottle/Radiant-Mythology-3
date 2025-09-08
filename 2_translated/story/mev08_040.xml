@@ -1,48 +1,43 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>186</PointerOffsetDec>
-    <PointerOffsetHex>0xba</PointerOffsetHex>
+    <PointerOffset>186</PointerOffset>
     <JapaneseText>銖</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>378</PointerOffsetDec>
-    <PointerOffsetHex>0x17a</PointerOffsetHex>
+    <PointerOffset>378</PointerOffset>
     <JapaneseText>性懲りもなく、また来たか！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>405</PointerOffsetDec>
-    <PointerOffsetHex>0x195</PointerOffsetHex>
+    <PointerOffset>405</PointerOffset>
     <JapaneseText>ディセンダー様を守り、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>429</PointerOffsetDec>
-    <PointerOffsetHex>0x1ad</PointerOffsetHex>
+    <PointerOffset>429</PointerOffset>
     <JapaneseText>付き従うのが我等「暁の従者」の使命！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>467</PointerOffsetDec>
-    <PointerOffsetHex>0x1d3</PointerOffsetHex>
+    <PointerOffset>467</PointerOffset>
     <JapaneseText>ここは何人たりとも通さんぞ！！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

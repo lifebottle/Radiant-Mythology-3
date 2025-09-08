@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>116</PointerOffsetDec>
-    <PointerOffsetHex>0x74</PointerOffsetHex>
+    <PointerOffset>116</PointerOffset>
     <JapaneseText>オルタータ火山……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>135</PointerOffsetDec>
-    <PointerOffsetHex>0x87</PointerOffsetHex>
+    <PointerOffset>135</PointerOffset>
     <JapaneseText>見事、ここで試練を乗り越え</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>163</PointerOffsetDec>
-    <PointerOffsetHex>0xa3</PointerOffsetHex>
+    <PointerOffset>163</PointerOffset>
     <JapaneseText>日頃の修行の成果を出す事が出来れば</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>199</PointerOffsetDec>
-    <PointerOffsetHex>0xc7</PointerOffsetHex>
+    <PointerOffset>199</PointerOffset>
     <JapaneseText>新たな力を会得出来ると言われています</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>236</PointerOffsetDec>
-    <PointerOffsetHex>0xec</PointerOffsetHex>
+    <PointerOffset>236</PointerOffset>
     <JapaneseText>○○さん、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>248</PointerOffsetDec>
-    <PointerOffsetHex>0xf8</PointerOffsetHex>
+    <PointerOffset>248</PointerOffset>
     <JapaneseText>行きましょう</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

@@ -1,75 +1,67 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>46</PointerOffsetDec>
-    <PointerOffsetHex>0x2e</PointerOffsetHex>
+    <PointerOffset>46</PointerOffset>
     <JapaneseText>クエストを達成すると、ダンジョンから</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>2</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>84</PointerOffsetDec>
-    <PointerOffsetHex>0x54</PointerOffsetHex>
+    <PointerOffset>84</PointerOffset>
     <JapaneseText>バンエルティア号へパッと戻る事が</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>3</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>118</PointerOffsetDec>
-    <PointerOffsetHex>0x76</PointerOffsetHex>
+    <PointerOffset>118</PointerOffset>
     <JapaneseText>出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>127</PointerOffsetDec>
-    <PointerOffsetHex>0x7f</PointerOffsetHex>
+    <PointerOffset>127</PointerOffset>
     <JapaneseText>ＳＴＡＲＴボタンを押して、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>155</PointerOffsetDec>
-    <PointerOffsetHex>0x9b</PointerOffsetHex>
+    <PointerOffset>155</PointerOffset>
     <JapaneseText>「バンエルティア号に戻りますか？」の</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>193</PointerOffsetDec>
-    <PointerOffsetHex>0xc1</PointerOffsetHex>
+    <PointerOffset>193</PointerOffset>
     <JapaneseText>メニューを呼び出し「はい」を選んで下さい</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>234</PointerOffsetDec>
-    <PointerOffsetHex>0xea</PointerOffsetHex>
+    <PointerOffset>234</PointerOffset>
     <JapaneseText>なお、このメニューは、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>258</PointerOffsetDec>
-    <PointerOffsetHex>0x102</PointerOffsetHex>
+    <PointerOffset>258</PointerOffset>
     <JapaneseText>クエストを達成するまで利用出来ません</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

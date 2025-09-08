@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>178</PointerOffsetDec>
-    <PointerOffsetHex>0xb2</PointerOffsetHex>
+    <PointerOffset>178</PointerOffset>
     <JapaneseText>枇</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>513</PointerOffsetDec>
-    <PointerOffsetHex>0x201</PointerOffsetHex>
+    <PointerOffset>513</PointerOffset>
     <JapaneseText>うひゃ〜…、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>33</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>527</PointerOffsetDec>
-    <PointerOffsetHex>0x20f</PointerOffsetHex>
+    <PointerOffset>527</PointerOffset>
     <JapaneseText>向こうはやる気満々じゃないの</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>34</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>556</PointerOffsetDec>
-    <PointerOffsetHex>0x22c</PointerOffsetHex>
+    <PointerOffset>556</PointerOffset>
     <JapaneseText>一気に片を付ける。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>35</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>576</PointerOffsetDec>
-    <PointerOffsetHex>0x240</PointerOffsetHex>
+    <PointerOffset>576</PointerOffset>
     <JapaneseText>前回の様にはならない！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>36</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>599</PointerOffsetDec>
-    <PointerOffsetHex>0x257</PointerOffsetHex>
+    <PointerOffset>599</PointerOffset>
     <JapaneseText>そのテンション、わけて欲しいわ〜</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>37</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

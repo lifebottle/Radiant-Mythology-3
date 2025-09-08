@@ -1,39 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>58</PointerOffsetDec>
-    <PointerOffsetHex>0x3a</PointerOffsetHex>
+    <PointerOffset>58</PointerOffset>
     <JapaneseText>「人物名鑑」が閲覧可能となりました</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>93</PointerOffsetDec>
-    <PointerOffsetHex>0x5d</PointerOffsetHex>
+    <PointerOffset>93</PointerOffset>
     <JapaneseText>閲覧する場合は、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>111</PointerOffsetDec>
-    <PointerOffsetHex>0x6f</PointerOffsetHex>
+    <PointerOffset>111</PointerOffset>
     <JapaneseText>メインメニュー、ライブラリの</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>141</PointerOffsetDec>
-    <PointerOffsetHex>0x8d</PointerOffsetHex>
+    <PointerOffset>141</PointerOffset>
     <JapaneseText>「人物名鑑」を選択して下さい</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

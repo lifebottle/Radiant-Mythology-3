@@ -1,147 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>224</PointerOffsetDec>
-    <PointerOffsetHex>0xe0</PointerOffsetHex>
+    <PointerOffset>224</PointerOffset>
     <JapaneseText>これは、アドリビトムの</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>248</PointerOffsetDec>
-    <PointerOffsetHex>0xf8</PointerOffsetHex>
+    <PointerOffset>248</PointerOffset>
     <JapaneseText>正式なメンバーになる為の、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>276</PointerOffsetDec>
-    <PointerOffsetHex>0x114</PointerOffsetHex>
+    <PointerOffset>276</PointerOffset>
     <JapaneseText>入隊試験用クエストよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>297</PointerOffsetDec>
-    <PointerOffsetHex>0x129</PointerOffsetHex>
+    <PointerOffset>297</PointerOffset>
     <JapaneseText>じゃあ、この</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>311</PointerOffsetDec>
-    <PointerOffsetHex>0x137</PointerOffsetHex>
+    <PointerOffset>311</PointerOffset>
     <JapaneseText>「退治のやり方」について</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>337</PointerOffsetDec>
-    <PointerOffsetHex>0x151</PointerOffsetHex>
+    <PointerOffset>337</PointerOffset>
     <JapaneseText>説明するね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>348</PointerOffsetDec>
-    <PointerOffsetHex>0x15c</PointerOffsetHex>
+    <PointerOffset>348</PointerOffset>
     <JapaneseText>あなたの仕事は、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>366</PointerOffsetDec>
-    <PointerOffsetHex>0x16e</PointerOffsetHex>
+    <PointerOffset>366</PointerOffset>
     <JapaneseText>コンフェイト大森林へ行って</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>394</PointerOffsetDec>
-    <PointerOffsetHex>0x18a</PointerOffsetHex>
+    <PointerOffset>394</PointerOffset>
     <JapaneseText>プチプリを１０体倒す事よ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>419</PointerOffsetDec>
-    <PointerOffsetHex>0x1a3</PointerOffsetHex>
+    <PointerOffset>419</PointerOffset>
     <JapaneseText>詳しい仕事の進め方は、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>443</PointerOffsetDec>
-    <PointerOffsetHex>0x1bb</PointerOffsetHex>
+    <PointerOffset>443</PointerOffset>
     <JapaneseText>カノンノが教えてくれるから</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>470</PointerOffsetDec>
-    <PointerOffsetHex>0x1d6</PointerOffsetHex>
+    <PointerOffset>470</PointerOffset>
     <JapaneseText>それから、こうやって受けたクエストは</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>27</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>508</PointerOffsetDec>
-    <PointerOffsetHex>0x1fc</PointerOffsetHex>
+    <PointerOffset>508</PointerOffset>
     <JapaneseText>メインメニューのクエストで</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>28</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>536</PointerOffsetDec>
-    <PointerOffsetHex>0x218</PointerOffsetHex>
+    <PointerOffset>536</PointerOffset>
     <JapaneseText>チェック出来るから、覚えておいてね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>29</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>571</PointerOffsetDec>
-    <PointerOffsetHex>0x23b</PointerOffsetHex>
+    <PointerOffset>571</PointerOffset>
     <JapaneseText>それじゃあ、頑張ってきてね！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>30</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>600</PointerOffsetDec>
-    <PointerOffsetHex>0x258</PointerOffsetHex>
+    <PointerOffset>600</PointerOffset>
     <JapaneseText>メニューの「ライブラリ」が使用可能になりました</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>31</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

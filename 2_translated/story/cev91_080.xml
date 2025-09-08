@@ -1,102 +1,91 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>142</PointerOffsetDec>
-    <PointerOffsetHex>0x8e</PointerOffsetHex>
+    <PointerOffset>142</PointerOffset>
     <JapaneseText>あんたがエラン・ヴィタールに行こうと</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>180</PointerOffsetDec>
-    <PointerOffsetHex>0xb4</PointerOffsetHex>
+    <PointerOffset>180</PointerOffset>
     <JapaneseText>している時、ニアタを改造したの覚えてる？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>222</PointerOffsetDec>
-    <PointerOffsetHex>0xde</PointerOffsetHex>
+    <PointerOffset>222</PointerOffset>
     <JapaneseText>その時にわかったんだけど</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>247</PointerOffsetDec>
-    <PointerOffsetHex>0xf7</PointerOffsetHex>
+    <PointerOffset>247</PointerOffset>
     <JapaneseText>ニアタって無機物なんだけど、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>277</PointerOffsetDec>
-    <PointerOffsetHex>0x115</PointerOffsetHex>
+    <PointerOffset>277</PointerOffset>
     <JapaneseText>構造物質自体に自己増殖や機能を拡張する</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>317</PointerOffsetDec>
-    <PointerOffsetHex>0x13d</PointerOffsetHex>
+    <PointerOffset>317</PointerOffset>
     <JapaneseText>性質を持っているみたいなのよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>346</PointerOffsetDec>
-    <PointerOffsetHex>0x15a</PointerOffsetHex>
+    <PointerOffset>346</PointerOffset>
     <JapaneseText>つまり…、生命体としての「機能」を</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>382</PointerOffsetDec>
-    <PointerOffsetHex>0x17e</PointerOffsetHex>
+    <PointerOffset>382</PointerOffset>
     <JapaneseText>備えているの。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>398</PointerOffsetDec>
-    <PointerOffsetHex>0x18e</PointerOffsetHex>
+    <PointerOffset>398</PointerOffset>
     <JapaneseText>機械の身体でありながらね…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>425</PointerOffsetDec>
-    <PointerOffsetHex>0x1a9</PointerOffsetHex>
+    <PointerOffset>425</PointerOffset>
     <JapaneseText>パスカの科学技術って、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>449</PointerOffsetDec>
-    <PointerOffsetHex>0x1c1</PointerOffsetHex>
+    <PointerOffset>449</PointerOffset>
     <JapaneseText>どんなものだったのかしら…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

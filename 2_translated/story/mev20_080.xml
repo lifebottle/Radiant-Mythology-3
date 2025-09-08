@@ -1,48 +1,43 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>218</PointerOffsetDec>
-    <PointerOffsetHex>0xda</PointerOffsetHex>
+    <PointerOffset>218</PointerOffset>
     <JapaneseText>ねえ、○○</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>229</PointerOffsetDec>
-    <PointerOffsetHex>0xe5</PointerOffsetHex>
+    <PointerOffset>229</PointerOffset>
     <JapaneseText>ディセンダーのドクメントを</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>257</PointerOffsetDec>
-    <PointerOffsetHex>0x101</PointerOffsetHex>
+    <PointerOffset>257</PointerOffset>
     <JapaneseText>転写させる実験の準備が出来たからって、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>297</PointerOffsetDec>
-    <PointerOffsetHex>0x129</PointerOffsetHex>
+    <PointerOffset>297</PointerOffset>
     <JapaneseText>ハロルドさんが呼んでるよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>322</PointerOffsetDec>
-    <PointerOffsetHex>0x142</PointerOffsetHex>
+    <PointerOffset>322</PointerOffset>
     <JapaneseText>研究室へ来てだって</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

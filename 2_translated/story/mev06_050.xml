@@ -1,30 +1,27 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>148</PointerOffsetDec>
-    <PointerOffsetHex>0x94</PointerOffsetHex>
+    <PointerOffset>148</PointerOffset>
     <JapaneseText>匙</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>363</PointerOffsetDec>
-    <PointerOffsetHex>0x16b</PointerOffsetHex>
+    <PointerOffset>363</PointerOffset>
     <JapaneseText>さあ、忍びの技って奴を</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>387</PointerOffsetDec>
-    <PointerOffsetHex>0x183</PointerOffsetHex>
+    <PointerOffset>387</PointerOffset>
     <JapaneseText>もっと見せなさい♪</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

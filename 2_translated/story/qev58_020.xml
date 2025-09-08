@@ -1,48 +1,43 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>151</PointerOffsetDec>
-    <PointerOffsetHex>0x97</PointerOffsetHex>
+    <PointerOffset>151</PointerOffset>
     <JapaneseText>コーダも早く食べたいぞ、しかし。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>185</PointerOffsetDec>
-    <PointerOffsetHex>0xb9</PointerOffsetHex>
+    <PointerOffset>185</PointerOffset>
     <JapaneseText>食べたい！　食べたい！　のだ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>214</PointerOffsetDec>
-    <PointerOffsetHex>0xd6</PointerOffsetHex>
+    <PointerOffset>214</PointerOffset>
     <JapaneseText>コーダの腹の虫はお喋りなのだ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>246</PointerOffsetDec>
-    <PointerOffsetHex>0xf6</PointerOffsetHex>
+    <PointerOffset>246</PointerOffset>
     <JapaneseText>黙らせたかったら、早くレシピを</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>278</PointerOffsetDec>
-    <PointerOffsetHex>0x116</PointerOffsetHex>
+    <PointerOffset>278</PointerOffset>
     <JapaneseText>取ってきて欲しいんだな、しかし</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

@@ -1,93 +1,83 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>162</PointerOffsetDec>
-    <PointerOffsetHex>0xa2</PointerOffsetHex>
+    <PointerOffset>162</PointerOffset>
     <JapaneseText>むう〜、あそこにも</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>182</PointerOffsetDec>
-    <PointerOffsetHex>0xb6</PointerOffsetHex>
+    <PointerOffset>182</PointerOffset>
     <JapaneseText>レシピが落ちてるはずだぞ、しかし</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>215</PointerOffsetDec>
-    <PointerOffsetHex>0xd7</PointerOffsetHex>
+    <PointerOffset>215</PointerOffset>
     <JapaneseText>熱くてハフハフ、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>233</PointerOffsetDec>
-    <PointerOffsetHex>0xe9</PointerOffsetHex>
+    <PointerOffset>233</PointerOffset>
     <JapaneseText>おなじみのあの料理なんだな、しかし</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>268</PointerOffsetDec>
-    <PointerOffsetHex>0x10c</PointerOffsetHex>
+    <PointerOffset>268</PointerOffset>
     <JapaneseText>前の夢も当たったから</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>290</PointerOffsetDec>
-    <PointerOffsetHex>0x122</PointerOffsetHex>
+    <PointerOffset>290</PointerOffset>
     <JapaneseText>今回も間違いないはずだぞ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>318</PointerOffsetDec>
-    <PointerOffsetHex>0x13e</PointerOffsetHex>
+    <PointerOffset>318</PointerOffset>
     <JapaneseText>早く行ってきて欲しいぞ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>341</PointerOffsetDec>
-    <PointerOffsetHex>0x155</PointerOffsetHex>
+    <PointerOffset>341</PointerOffset>
     <JapaneseText>クエスト「コーダのレシピ２」が</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>373</PointerOffsetDec>
-    <PointerOffsetHex>0x175</PointerOffsetHex>
+    <PointerOffset>373</PointerOffset>
     <JapaneseText>エントリーされました。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>397</PointerOffsetDec>
-    <PointerOffsetHex>0x18d</PointerOffsetHex>
+    <PointerOffset>397</PointerOffset>
     <JapaneseText>コーダから受ける事が出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

@@ -1,30 +1,27 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>48</PointerOffsetDec>
-    <PointerOffsetHex>0x30</PointerOffsetHex>
+    <PointerOffset>48</PointerOffset>
     <JapaneseText>戦闘中に使用する術や技は、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>3</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>76</PointerOffsetDec>
-    <PointerOffsetHex>0x4c</PointerOffsetHex>
+    <PointerOffset>76</PointerOffset>
     <JapaneseText>メニューの術・技で、確認や設定が出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>117</PointerOffsetDec>
-    <PointerOffsetHex>0x75</PointerOffsetHex>
+    <PointerOffset>117</PointerOffset>
     <JapaneseText>メニューの「術・技」が使用可能になりました</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

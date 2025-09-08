@@ -1,48 +1,43 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>258</PointerOffsetDec>
-    <PointerOffsetHex>0x102</PointerOffsetHex>
+    <PointerOffset>258</PointerOffset>
     <JapaneseText>懲りずにまた来たか……。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>284</PointerOffsetDec>
-    <PointerOffsetHex>0x11c</PointerOffsetHex>
+    <PointerOffset>284</PointerOffset>
     <JapaneseText>だが、何度来ても結果は同じだ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>313</PointerOffsetDec>
-    <PointerOffsetHex>0x139</PointerOffsetHex>
+    <PointerOffset>313</PointerOffset>
     <JapaneseText>実力の差というものを</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>335</PointerOffsetDec>
-    <PointerOffsetHex>0x14f</PointerOffsetHex>
+    <PointerOffset>335</PointerOffset>
     <JapaneseText>思い知らせてやる。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>355</PointerOffsetDec>
-    <PointerOffsetHex>0x163</PointerOffsetHex>
+    <PointerOffset>355</PointerOffset>
     <JapaneseText>来い！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

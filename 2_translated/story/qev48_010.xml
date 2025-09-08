@@ -1,111 +1,99 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>202</PointerOffsetDec>
-    <PointerOffsetHex>0xca</PointerOffsetHex>
+    <PointerOffset>202</PointerOffset>
     <JapaneseText>「純潔の装束」って知ってるキュ？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>235</PointerOffsetDec>
-    <PointerOffsetHex>0xeb</PointerOffsetHex>
+    <PointerOffset>235</PointerOffset>
     <JapaneseText>全ての発明家の憧れにして</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>261</PointerOffsetDec>
-    <PointerOffsetHex>0x105</PointerOffsetHex>
+    <PointerOffset>261</PointerOffset>
     <JapaneseText>マニア垂涎の幻のアイテムなんだキュ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>296</PointerOffsetDec>
-    <PointerOffsetHex>0x128</PointerOffsetHex>
+    <PointerOffset>296</PointerOffset>
     <JapaneseText>これで全てのアイテムが揃って</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>326</PointerOffsetDec>
-    <PointerOffsetHex>0x146</PointerOffsetHex>
+    <PointerOffset>326</PointerOffset>
     <JapaneseText>最後の強化に挑戦出来るキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>355</PointerOffsetDec>
-    <PointerOffsetHex>0x163</PointerOffsetHex>
+    <PointerOffset>355</PointerOffset>
     <JapaneseText>幻というくらいだキュ、もしかしたら</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>391</PointerOffsetDec>
-    <PointerOffsetHex>0x187</PointerOffsetHex>
+    <PointerOffset>391</PointerOffset>
     <JapaneseText>見つけるのはちょっと大変かもだキュ……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>430</PointerOffsetDec>
-    <PointerOffsetHex>0x1ae</PointerOffsetHex>
+    <PointerOffset>430</PointerOffset>
     <JapaneseText>でも、皆さんを信じてるキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>460</PointerOffsetDec>
-    <PointerOffsetHex>0x1cc</PointerOffsetHex>
+    <PointerOffset>460</PointerOffset>
     <JapaneseText>気を付けて、探しに行ってきて欲しいキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>501</PointerOffsetDec>
-    <PointerOffsetHex>0x1f5</PointerOffsetHex>
+    <PointerOffset>501</PointerOffset>
     <JapaneseText>クエスト「純潔の装束を探せ！」が</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>535</PointerOffsetDec>
-    <PointerOffsetHex>0x217</PointerOffsetHex>
+    <PointerOffset>535</PointerOffset>
     <JapaneseText>エントリーされました。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>559</PointerOffsetDec>
-    <PointerOffsetHex>0x22f</PointerOffsetHex>
+    <PointerOffset>559</PointerOffset>
     <JapaneseText>ポッポから受ける事が出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

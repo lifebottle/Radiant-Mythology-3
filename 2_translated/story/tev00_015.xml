@@ -1,228 +1,203 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>324</PointerOffsetDec>
-    <PointerOffsetHex>0x144</PointerOffsetHex>
+    <PointerOffset>324</PointerOffset>
     <JapaneseText>そうそう「料理」について</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>350</PointerOffsetDec>
-    <PointerOffsetHex>0x15e</PointerOffsetHex>
+    <PointerOffset>350</PointerOffset>
     <JapaneseText>お教えしますね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>365</PointerOffsetDec>
-    <PointerOffsetHex>0x16d</PointerOffsetHex>
+    <PointerOffset>365</PointerOffset>
     <JapaneseText>料理はレシピを入手し、かつ料理に必要な</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>27</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>405</PointerOffsetDec>
-    <PointerOffsetHex>0x195</PointerOffsetHex>
+    <PointerOffset>405</PointerOffset>
     <JapaneseText>食材があれば、「生産」によって作る事が</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>28</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>445</PointerOffsetDec>
-    <PointerOffsetHex>0x1bd</PointerOffsetHex>
+    <PointerOffset>445</PointerOffset>
     <JapaneseText>出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>29</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>454</PointerOffsetDec>
-    <PointerOffsetHex>0x1c6</PointerOffsetHex>
+    <PointerOffset>454</PointerOffset>
     <JapaneseText>ただ、料理を作る事が出来るのは、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>30</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>488</PointerOffsetDec>
-    <PointerOffsetHex>0x1e8</PointerOffsetHex>
+    <PointerOffset>488</PointerOffset>
     <JapaneseText>ダンジョンの中、しかもメニューを</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>31</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>522</PointerOffsetDec>
-    <PointerOffsetHex>0x20a</PointerOffsetHex>
+    <PointerOffset>522</PointerOffset>
     <JapaneseText>開く事が出来るタイミングだけです</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>32</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>555</PointerOffsetDec>
-    <PointerOffsetHex>0x22b</PointerOffsetHex>
+    <PointerOffset>555</PointerOffset>
     <JapaneseText>こうして出来た料理を食べる事によって、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>33</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>595</PointerOffsetDec>
-    <PointerOffsetHex>0x253</PointerOffsetHex>
+    <PointerOffset>595</PointerOffset>
     <JapaneseText>パーティ全員には様々な効果をもたらします</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>34</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>636</PointerOffsetDec>
-    <PointerOffsetHex>0x27c</PointerOffsetHex>
+    <PointerOffset>636</PointerOffset>
     <JapaneseText>例えば最大ＨＰやＴＰの増加、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>35</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>666</PointerOffsetDec>
-    <PointerOffsetHex>0x29a</PointerOffsetHex>
+    <PointerOffset>666</PointerOffset>
     <JapaneseText>パラメータの上昇など、様々な効果があります</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>36</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>709</PointerOffsetDec>
-    <PointerOffsetHex>0x2c5</PointerOffsetHex>
+    <PointerOffset>709</PointerOffset>
     <JapaneseText>この効果は、ダンジョンにいる間継続します。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>37</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>753</PointerOffsetDec>
-    <PointerOffsetHex>0x2f1</PointerOffsetHex>
+    <PointerOffset>753</PointerOffset>
     <JapaneseText>ただし…、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>38</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>764</PointerOffsetDec>
-    <PointerOffsetHex>0x2fc</PointerOffsetHex>
+    <PointerOffset>764</PointerOffset>
     <JapaneseText>ダンジョンから出たり、パーティが全滅して</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>39</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>806</PointerOffsetDec>
-    <PointerOffsetHex>0x326</PointerOffsetHex>
+    <PointerOffset>806</PointerOffset>
     <JapaneseText>しまった場合は解除されます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>40</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>833</PointerOffsetDec>
-    <PointerOffsetHex>0x341</PointerOffsetHex>
+    <PointerOffset>833</PointerOffset>
     <JapaneseText>ちなみに効果継続中に、また新しい料理を</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>41</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>873</PointerOffsetDec>
-    <PointerOffsetHex>0x369</PointerOffsetHex>
+    <PointerOffset>873</PointerOffset>
     <JapaneseText>作って食べた場合、今までの効果は無効と</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>42</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>913</PointerOffsetDec>
-    <PointerOffsetHex>0x391</PointerOffsetHex>
+    <PointerOffset>913</PointerOffset>
     <JapaneseText>なります</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>43</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>922</PointerOffsetDec>
-    <PointerOffsetHex>0x39a</PointerOffsetHex>
+    <PointerOffset>922</PointerOffset>
     <JapaneseText>その代わり、新たに食べた料理の効果を</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>44</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>960</PointerOffsetDec>
-    <PointerOffsetHex>0x3c0</PointerOffsetHex>
+    <PointerOffset>960</PointerOffset>
     <JapaneseText>得られる、という事です</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>45</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>983</PointerOffsetDec>
-    <PointerOffsetHex>0x3d7</PointerOffsetHex>
+    <PointerOffset>983</PointerOffset>
     <JapaneseText>ですので、ダンジョン内の状況によって</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>46</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1021</PointerOffsetDec>
-    <PointerOffsetHex>0x3fd</PointerOffsetHex>
+    <PointerOffset>1021</PointerOffset>
     <JapaneseText>作る料理の献立を決めるといいと思いますよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>47</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1062</PointerOffsetDec>
-    <PointerOffsetHex>0x426</PointerOffsetHex>
+    <PointerOffset>1062</PointerOffset>
     <JapaneseText>以上、せん越ながら</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>48</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1082</PointerOffsetDec>
-    <PointerOffsetHex>0x43a</PointerOffsetHex>
+    <PointerOffset>1082</PointerOffset>
     <JapaneseText>説明させていただきました</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>49</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

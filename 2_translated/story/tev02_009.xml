@@ -1,39 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>34</PointerOffsetDec>
-    <PointerOffsetHex>0x22</PointerOffsetHex>
+    <PointerOffset>34</PointerOffset>
     <JapaneseText>バンエルティア号の艦内では、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>2</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>64</PointerOffsetDec>
-    <PointerOffsetHex>0x40</PointerOffsetHex>
+    <PointerOffset>64</PointerOffset>
     <JapaneseText>ダンジョン内と違い、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>3</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>86</PointerOffsetDec>
-    <PointerOffsetHex>0x56</PointerOffsetHex>
+    <PointerOffset>86</PointerOffset>
     <JapaneseText>どこでもセーブが出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>111</PointerOffsetDec>
-    <PointerOffsetHex>0x6f</PointerOffsetHex>
+    <PointerOffset>111</PointerOffset>
     <JapaneseText>セーブはメニューから行って下さい</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

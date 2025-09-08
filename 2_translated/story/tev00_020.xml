@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>66</PointerOffsetDec>
-    <PointerOffsetHex>0x42</PointerOffsetHex>
+    <PointerOffset>66</PointerOffset>
     <JapaneseText>リミッツゲージが満タンの時、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>96</PointerOffsetDec>
-    <PointerOffsetHex>0x60</PointerOffsetHex>
+    <PointerOffset>96</PointerOffset>
     <JapaneseText>Ｌボタンを押しながらＲボタンを押すと</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>134</PointerOffsetDec>
-    <PointerOffsetHex>0x86</PointerOffsetHex>
+    <PointerOffset>134</PointerOffset>
     <JapaneseText>「オーバーリミッツ」を発動！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>163</PointerOffsetDec>
-    <PointerOffsetHex>0xa3</PointerOffsetHex>
+    <PointerOffset>163</PointerOffset>
     <JapaneseText>リミッツゲージが満タンの時、Ｌボタンと</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>203</PointerOffsetDec>
-    <PointerOffsetHex>0xcb</PointerOffsetHex>
+    <PointerOffset>203</PointerOffset>
     <JapaneseText>方向キー下を押しながらＲボタンを押すと</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>243</PointerOffsetDec>
-    <PointerOffsetHex>0xf3</PointerOffsetHex>
+    <PointerOffset>243</PointerOffset>
     <JapaneseText>「レディアント・ドライヴ」を発動！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

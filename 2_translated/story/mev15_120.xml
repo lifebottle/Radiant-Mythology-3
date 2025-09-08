@@ -1,138 +1,123 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>54</PointerOffsetDec>
-    <PointerOffsetHex>0x36</PointerOffsetHex>
+    <PointerOffset>54</PointerOffset>
     <JapaneseText>奩</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>2</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>388</PointerOffsetDec>
-    <PointerOffsetHex>0x184</PointerOffsetHex>
+    <PointerOffset>388</PointerOffset>
     <JapaneseText>アンジュ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>400</PointerOffsetDec>
-    <PointerOffsetHex>0x190</PointerOffsetHex>
+    <PointerOffset>400</PointerOffset>
     <JapaneseText>一つ、依頼を出したい</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>421</PointerOffsetDec>
-    <PointerOffsetHex>0x1a5</PointerOffsetHex>
+    <PointerOffset>421</PointerOffset>
     <JapaneseText>はい、何かしら？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>438</PointerOffsetDec>
-    <PointerOffsetHex>0x1b6</PointerOffsetHex>
+    <PointerOffset>438</PointerOffset>
     <JapaneseText>これから、ツリガネトンボ草が辿った</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>474</PointerOffsetDec>
-    <PointerOffsetHex>0x1da</PointerOffsetHex>
+    <PointerOffset>474</PointerOffset>
     <JapaneseText>進化種を集めたい</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>27</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>491</PointerOffsetDec>
-    <PointerOffsetHex>0x1eb</PointerOffsetHex>
+    <PointerOffset>491</PointerOffset>
     <JapaneseText>進化種を？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>28</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>502</PointerOffsetDec>
-    <PointerOffsetHex>0x1f6</PointerOffsetHex>
+    <PointerOffset>502</PointerOffset>
     <JapaneseText>本来絶滅しているツリガネトンボ草だけど、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>29</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>544</PointerOffsetDec>
-    <PointerOffsetHex>0x220</PointerOffsetHex>
+    <PointerOffset>544</PointerOffset>
     <JapaneseText>もしかしたら、進化種に受け継がれた</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>30</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>580</PointerOffsetDec>
-    <PointerOffsetHex>0x244</PointerOffsetHex>
+    <PointerOffset>580</PointerOffset>
     <JapaneseText>ドクメントで補完出来るかもしれないのよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>31</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>619</PointerOffsetDec>
-    <PointerOffsetHex>0x26b</PointerOffsetHex>
+    <PointerOffset>619</PointerOffset>
     <JapaneseText>なるほど！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>32</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>631</PointerOffsetDec>
-    <PointerOffsetHex>0x277</PointerOffsetHex>
+    <PointerOffset>631</PointerOffset>
     <JapaneseText>絶滅したサーベルタイガーのルーツを</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>33</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>667</PointerOffsetDec>
-    <PointerOffsetHex>0x29b</PointerOffsetHex>
+    <PointerOffset>667</PointerOffset>
     <JapaneseText>トラやライオンに求める様なものね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>34</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>700</PointerOffsetDec>
-    <PointerOffsetHex>0x2bc</PointerOffsetHex>
+    <PointerOffset>700</PointerOffset>
     <JapaneseText>それじゃ、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>35</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>712</PointerOffsetDec>
-    <PointerOffsetHex>0x2c8</PointerOffsetHex>
+    <PointerOffset>712</PointerOffset>
     <JapaneseText>早速この依頼を登録しなくっちゃ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>36</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

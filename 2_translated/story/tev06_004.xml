@@ -1,147 +1,131 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>286</PointerOffsetDec>
-    <PointerOffsetHex>0x11e</PointerOffsetHex>
+    <PointerOffset>286</PointerOffset>
     <JapaneseText>○○の格好、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>300</PointerOffsetDec>
-    <PointerOffsetHex>0x12c</PointerOffsetHex>
+    <PointerOffset>300</PointerOffset>
     <JapaneseText>よく似合ってるよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>317</PointerOffsetDec>
-    <PointerOffsetHex>0x13d</PointerOffsetHex>
+    <PointerOffset>317</PointerOffset>
     <JapaneseText>キャラメイクはどうだった？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>344</PointerOffsetDec>
-    <PointerOffsetHex>0x158</PointerOffsetHex>
+    <PointerOffset>344</PointerOffset>
     <JapaneseText>そうそう、今回はキャラメイクが</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>376</PointerOffsetDec>
-    <PointerOffsetHex>0x178</PointerOffsetHex>
+    <PointerOffset>376</PointerOffset>
     <JapaneseText>さらにパワーアップしてるのよね。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>410</PointerOffsetDec>
-    <PointerOffsetHex>0x19a</PointerOffsetHex>
+    <PointerOffset>410</PointerOffset>
     <JapaneseText>く〜っ、ウラヤマしいな〜ったく！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>443</PointerOffsetDec>
-    <PointerOffsetHex>0x1bb</PointerOffsetHex>
+    <PointerOffset>443</PointerOffset>
     <JapaneseText>キャラメイクのパーツはさらに増加してるし、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>27</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>487</PointerOffsetDec>
-    <PointerOffsetHex>0x1e7</PointerOffsetHex>
+    <PointerOffset>487</PointerOffset>
     <JapaneseText>身長の変更も可能になったらしいな</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>28</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>520</PointerOffsetDec>
-    <PointerOffsetHex>0x208</PointerOffsetHex>
+    <PointerOffset>520</PointerOffset>
     <JapaneseText>よりバリエーション豊かにキャラクターが</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>29</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>560</PointerOffsetDec>
-    <PointerOffsetHex>0x230</PointerOffsetHex>
+    <PointerOffset>560</PointerOffset>
     <JapaneseText>作成出来るぞ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>30</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>573</PointerOffsetDec>
-    <PointerOffsetHex>0x23d</PointerOffsetHex>
+    <PointerOffset>573</PointerOffset>
     <JapaneseText>それと、装備のパーツ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>31</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>597</PointerOffsetDec>
-    <PointerOffsetHex>0x255</PointerOffsetHex>
+    <PointerOffset>597</PointerOffset>
     <JapaneseText>ココ、重要じゃない？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>32</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>618</PointerOffsetDec>
-    <PointerOffsetHex>0x26a</PointerOffsetHex>
+    <PointerOffset>618</PointerOffset>
     <JapaneseText>シリーズを通じて使用してきた装備も</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>33</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>654</PointerOffsetDec>
-    <PointerOffsetHex>0x28e</PointerOffsetHex>
+    <PointerOffset>654</PointerOffset>
     <JapaneseText>リファインされているそうだ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>34</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>681</PointerOffsetDec>
-    <PointerOffsetHex>0x2a9</PointerOffsetHex>
+    <PointerOffset>681</PointerOffset>
     <JapaneseText>今まで遊んでくれたユーザーにも、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>35</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>715</PointerOffsetDec>
-    <PointerOffsetHex>0x2cb</PointerOffsetHex>
+    <PointerOffset>715</PointerOffset>
     <JapaneseText>新鮮な気持ちで楽しんでもらえると思うぜ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>36</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

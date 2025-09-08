@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>234</PointerOffsetDec>
-    <PointerOffsetHex>0xea</PointerOffsetHex>
+    <PointerOffset>234</PointerOffset>
     <JapaneseText>…ッ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>241</PointerOffsetDec>
-    <PointerOffsetHex>0xf1</PointerOffsetHex>
+    <PointerOffset>241</PointerOffset>
     <JapaneseText>何だ、ここ…は。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>259</PointerOffsetDec>
-    <PointerOffsetHex>0x103</PointerOffsetHex>
+    <PointerOffset>259</PointerOffset>
     <JapaneseText>目が痛む…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>270</PointerOffsetDec>
-    <PointerOffsetHex>0x10e</PointerOffsetHex>
+    <PointerOffset>270</PointerOffset>
     <JapaneseText>喉にも刺激が…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>285</PointerOffsetDec>
-    <PointerOffsetHex>0x11d</PointerOffsetHex>
+    <PointerOffset>285</PointerOffset>
     <JapaneseText>ん？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>291</PointerOffsetDec>
-    <PointerOffsetHex>0x123</PointerOffsetHex>
+    <PointerOffset>291</PointerOffset>
     <JapaneseText>向こうに何かいるぞ！？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

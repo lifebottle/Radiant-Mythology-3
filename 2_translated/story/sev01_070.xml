@@ -1,111 +1,99 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>953</PointerOffsetDec>
-    <PointerOffsetHex>0x3b9</PointerOffsetHex>
+    <PointerOffset>953</PointerOffset>
     <JapaneseText>ここがリングスポットだ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>50</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>984</PointerOffsetDec>
-    <PointerOffsetHex>0x3d8</PointerOffsetHex>
+    <PointerOffset>984</PointerOffset>
     <JapaneseText>はめているソーサラーリングを</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>52</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1014</PointerOffsetDec>
-    <PointerOffsetHex>0x3f6</PointerOffsetHex>
+    <PointerOffset>1014</PointerOffset>
     <JapaneseText>あの台にかざしてみろ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>53</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1048</PointerOffsetDec>
-    <PointerOffsetHex>0x418</PointerOffsetHex>
+    <PointerOffset>1048</PointerOffset>
     <JapaneseText>これで、ソーサラーリングに</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>54</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1076</PointerOffsetDec>
-    <PointerOffsetHex>0x434</PointerOffsetHex>
+    <PointerOffset>1076</PointerOffset>
     <JapaneseText>自然界の息吹が宿った</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>55</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1097</PointerOffsetDec>
-    <PointerOffsetHex>0x449</PointerOffsetHex>
+    <PointerOffset>1097</PointerOffset>
     <JapaneseText>扉が閉まってしまいましたよ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>56</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1126</PointerOffsetDec>
-    <PointerOffsetHex>0x466</PointerOffsetHex>
+    <PointerOffset>1126</PointerOffset>
     <JapaneseText>大体の仕掛けはわかっている</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>57</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1153</PointerOffsetDec>
-    <PointerOffsetHex>0x481</PointerOffsetHex>
+    <PointerOffset>1153</PointerOffset>
     <JapaneseText>後に、ソーサラーリング用の</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>58</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1181</PointerOffsetDec>
-    <PointerOffsetHex>0x49d</PointerOffsetHex>
+    <PointerOffset>1181</PointerOffset>
     <JapaneseText>スイッチがある。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>59</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1199</PointerOffsetDec>
-    <PointerOffsetHex>0x4af</PointerOffsetHex>
+    <PointerOffset>1199</PointerOffset>
     <JapaneseText>○○、あれを撃ってみろ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>60</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1222</PointerOffsetDec>
-    <PointerOffsetHex>0x4c6</PointerOffsetHex>
+    <PointerOffset>1222</PointerOffset>
     <JapaneseText>ソーサラーリングは、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>61</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1244</PointerOffsetDec>
-    <PointerOffsetHex>0x4dc</PointerOffsetHex>
+    <PointerOffset>1244</PointerOffset>
     <JapaneseText>□ボタンで撃つ事が出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>62</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

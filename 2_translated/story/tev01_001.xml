@@ -1,30 +1,27 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>118</PointerOffsetDec>
-    <PointerOffsetHex>0x76</PointerOffsetHex>
+    <PointerOffset>118</PointerOffset>
     <JapaneseText>これは、「光の幾何学場」だよ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>150</PointerOffsetDec>
-    <PointerOffsetHex>0x96</PointerOffsetHex>
+    <PointerOffset>150</PointerOffset>
     <JapaneseText>自分についての記録をセーブ出来るの</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>185</PointerOffsetDec>
-    <PointerOffsetHex>0xb9</PointerOffsetHex>
+    <PointerOffset>185</PointerOffset>
     <JapaneseText>セーブを行うには、○ボタンを押してね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

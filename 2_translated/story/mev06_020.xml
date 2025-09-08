@@ -1,192 +1,171 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>366</PointerOffsetDec>
-    <PointerOffsetHex>0x16e</PointerOffsetHex>
+    <PointerOffset>366</PointerOffset>
     <JapaneseText>ねえ、クラトス。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>29</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>384</PointerOffsetDec>
-    <PointerOffsetHex>0x180</PointerOffsetHex>
+    <PointerOffset>384</PointerOffset>
     <JapaneseText>そのミブナの里って、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>30</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>406</PointerOffsetDec>
-    <PointerOffsetHex>0x196</PointerOffsetHex>
+    <PointerOffset>406</PointerOffset>
     <JapaneseText>ここを通らないと行けないわけ？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>31</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>437</PointerOffsetDec>
-    <PointerOffsetHex>0x1b5</PointerOffsetHex>
+    <PointerOffset>437</PointerOffset>
     <JapaneseText>ミブナの里は、忍びの者が住む里だ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>32</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>473</PointerOffsetDec>
-    <PointerOffsetHex>0x1d9</PointerOffsetHex>
+    <PointerOffset>473</PointerOffset>
     <JapaneseText>一般の者には見つかりづらい場所にある</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>33</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>510</PointerOffsetDec>
-    <PointerOffsetHex>0x1fe</PointerOffsetHex>
+    <PointerOffset>510</PointerOffset>
     <JapaneseText>この坑道が、そこへ繋がる唯一の道だ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>34</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>545</PointerOffsetDec>
-    <PointerOffsetHex>0x221</PointerOffsetHex>
+    <PointerOffset>545</PointerOffset>
     <JapaneseText>なるほど、忍びねえ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>35</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>564</PointerOffsetDec>
-    <PointerOffsetHex>0x234</PointerOffsetHex>
+    <PointerOffset>564</PointerOffset>
     <JapaneseText>隠密行動しないといけないなら</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>36</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>594</PointerOffsetDec>
-    <PointerOffsetHex>0x252</PointerOffsetHex>
+    <PointerOffset>594</PointerOffset>
     <JapaneseText>外部に知られてはまずいわね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>37</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>621</PointerOffsetDec>
-    <PointerOffsetHex>0x26d</PointerOffsetHex>
+    <PointerOffset>621</PointerOffset>
     <JapaneseText>それもある</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>38</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>632</PointerOffsetDec>
-    <PointerOffsetHex>0x278</PointerOffsetHex>
+    <PointerOffset>632</PointerOffset>
     <JapaneseText>だが、ウリズン帝国がミブナの星晶を狙って</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>39</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>674</PointerOffsetDec>
-    <PointerOffsetHex>0x2a2</PointerOffsetHex>
+    <PointerOffset>674</PointerOffset>
     <JapaneseText>いるという話もあるのでな</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>40</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>699</PointerOffsetDec>
-    <PointerOffsetHex>0x2bb</PointerOffsetHex>
+    <PointerOffset>699</PointerOffset>
     <JapaneseText>ああ…、ヴェイグの故郷の星晶を採り尽くした</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>41</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>743</PointerOffsetDec>
-    <PointerOffsetHex>0x2e7</PointerOffsetHex>
+    <PointerOffset>743</PointerOffset>
     <JapaneseText>サレって奴がいる国…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>42</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>764</PointerOffsetDec>
-    <PointerOffsetHex>0x2fc</PointerOffsetHex>
+    <PointerOffset>764</PointerOffset>
     <JapaneseText>だから、外部の者には</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>43</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>786</PointerOffsetDec>
-    <PointerOffsetHex>0x312</PointerOffsetHex>
+    <PointerOffset>786</PointerOffset>
     <JapaneseText>並々ならぬ警戒を抱いているはずだ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>44</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>819</PointerOffsetDec>
-    <PointerOffsetHex>0x333</PointerOffsetHex>
+    <PointerOffset>819</PointerOffset>
     <JapaneseText>でも、何であんたは道を知ってるの？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>45</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>854</PointerOffsetDec>
-    <PointerOffsetHex>0x356</PointerOffsetHex>
+    <PointerOffset>854</PointerOffset>
     <JapaneseText>ミブナの里の近くに、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>46</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>876</PointerOffsetDec>
-    <PointerOffsetHex>0x36c</PointerOffsetHex>
+    <PointerOffset>876</PointerOffset>
     <JapaneseText>唯一忍びと交流のある村がある。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>47</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>908</PointerOffsetDec>
-    <PointerOffsetHex>0x38c</PointerOffsetHex>
+    <PointerOffset>908</PointerOffset>
     <JapaneseText>私はそこから来た</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>48</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>925</PointerOffsetDec>
-    <PointerOffsetHex>0x39d</PointerOffsetHex>
+    <PointerOffset>925</PointerOffset>
     <JapaneseText>ふ〜ん、そりゃまた珍しいわね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>49</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

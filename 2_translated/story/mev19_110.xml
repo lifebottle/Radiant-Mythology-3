@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>615</PointerOffsetDec>
-    <PointerOffsetHex>0x267</PointerOffsetHex>
+    <PointerOffset>615</PointerOffset>
     <JapaneseText>何だか、まだクラクラするなぁ…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>40</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>646</PointerOffsetDec>
-    <PointerOffsetHex>0x286</PointerOffsetHex>
+    <PointerOffset>646</PointerOffset>
     <JapaneseText>肉体と精神がまだ、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>41</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>666</PointerOffsetDec>
-    <PointerOffsetHex>0x29a</PointerOffsetHex>
+    <PointerOffset>666</PointerOffset>
     <JapaneseText>同期していないのではないか？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>42</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>695</PointerOffsetDec>
-    <PointerOffsetHex>0x2b7</PointerOffsetHex>
+    <PointerOffset>695</PointerOffset>
     <JapaneseText>うん、ちょっと変な感じがする。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>43</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>727</PointerOffsetDec>
-    <PointerOffsetHex>0x2d7</PointerOffsetHex>
+    <PointerOffset>727</PointerOffset>
     <JapaneseText>ヴァンさんに教えてもらったあの方法で、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>44</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>767</PointerOffsetDec>
-    <PointerOffsetHex>0x2ff</PointerOffsetHex>
+    <PointerOffset>767</PointerOffset>
     <JapaneseText>また戻ると思うから</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>45</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

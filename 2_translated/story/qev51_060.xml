@@ -1,48 +1,43 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>172</PointerOffsetDec>
-    <PointerOffsetHex>0xac</PointerOffsetHex>
+    <PointerOffset>172</PointerOffset>
     <JapaneseText>おー、やっぱりあったんだな〜。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>204</PointerOffsetDec>
-    <PointerOffsetHex>0xcc</PointerOffsetHex>
+    <PointerOffset>204</PointerOffset>
     <JapaneseText>早く作って、食べてみたいぞ〜</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>233</PointerOffsetDec>
-    <PointerOffsetHex>0xe9</PointerOffsetHex>
+    <PointerOffset>233</PointerOffset>
     <JapaneseText>コーダは猛烈に</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>249</PointerOffsetDec>
-    <PointerOffsetHex>0xf9</PointerOffsetHex>
+    <PointerOffset>249</PointerOffset>
     <JapaneseText>腹が減っているんだぞ、しかし！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>280</PointerOffsetDec>
-    <PointerOffsetHex>0x118</PointerOffsetHex>
+    <PointerOffset>280</PointerOffset>
     <JapaneseText>マーボーパイのレシピを覚えた！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

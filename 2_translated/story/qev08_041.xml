@@ -1,192 +1,171 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>258</PointerOffsetDec>
-    <PointerOffsetHex>0x102</PointerOffsetHex>
+    <PointerOffset>258</PointerOffset>
     <JapaneseText>ユグドラシルとは、と尋ねる</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>285</PointerOffsetDec>
-    <PointerOffsetHex>0x11d</PointerOffsetHex>
+    <PointerOffset>285</PointerOffset>
     <JapaneseText>コレットの様な、羽を持つ「天使」という</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>325</PointerOffsetDec>
-    <PointerOffsetHex>0x145</PointerOffsetHex>
+    <PointerOffset>325</PointerOffset>
     <JapaneseText>種族を集めている者。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>347</PointerOffsetDec>
-    <PointerOffsetHex>0x15b</PointerOffsetHex>
+    <PointerOffset>347</PointerOffset>
     <JapaneseText>そして、奴もまた天使だ…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>372</PointerOffsetDec>
-    <PointerOffsetHex>0x174</PointerOffsetHex>
+    <PointerOffset>372</PointerOffset>
     <JapaneseText>彼はコレットやロイドの住む村を襲い、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>410</PointerOffsetDec>
-    <PointerOffsetHex>0x19a</PointerOffsetHex>
+    <PointerOffset>410</PointerOffset>
     <JapaneseText>天使を捕まえようとした</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>433</PointerOffsetDec>
-    <PointerOffsetHex>0x1b1</PointerOffsetHex>
+    <PointerOffset>433</PointerOffset>
     <JapaneseText>私やロイドは、村の者を守る為に</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>465</PointerOffsetDec>
-    <PointerOffsetHex>0x1d1</PointerOffsetHex>
+    <PointerOffset>465</PointerOffset>
     <JapaneseText>ユグドラシルを倒したはずだった</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>26</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>496</PointerOffsetDec>
-    <PointerOffsetHex>0x1f0</PointerOffsetHex>
+    <PointerOffset>496</PointerOffset>
     <JapaneseText>だが、奴が生きているとすると</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>27</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>526</PointerOffsetDec>
-    <PointerOffsetHex>0x20e</PointerOffsetHex>
+    <PointerOffset>526</PointerOffset>
     <JapaneseText>また天使を探し出す為に村を襲うだろう</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>28</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>563</PointerOffsetDec>
-    <PointerOffsetHex>0x233</PointerOffsetHex>
+    <PointerOffset>563</PointerOffset>
     <JapaneseText>なぜ村ごと襲う必要があるのか、と尋ねる</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>29</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>602</PointerOffsetDec>
-    <PointerOffsetHex>0x25a</PointerOffsetHex>
+    <PointerOffset>602</PointerOffset>
     <JapaneseText>天使には羽があるものだが、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>30</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>630</PointerOffsetDec>
-    <PointerOffsetHex>0x276</PointerOffsetHex>
+    <PointerOffset>630</PointerOffset>
     <JapaneseText>ほとんどそれが現れないまま</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>31</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>658</PointerOffsetDec>
-    <PointerOffsetHex>0x292</PointerOffsetHex>
+    <PointerOffset>658</PointerOffset>
     <JapaneseText>自分が天使と気付かない者もいる</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>32</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>689</PointerOffsetDec>
-    <PointerOffsetHex>0x2b1</PointerOffsetHex>
+    <PointerOffset>689</PointerOffset>
     <JapaneseText>だが、あるきっかけで羽を現す事があるのだ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>33</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>730</PointerOffsetDec>
-    <PointerOffsetHex>0x2da</PointerOffsetHex>
+    <PointerOffset>730</PointerOffset>
     <JapaneseText>そして、そのきっかけとは、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>34</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>758</PointerOffsetDec>
-    <PointerOffsetHex>0x2f6</PointerOffsetHex>
+    <PointerOffset>758</PointerOffset>
     <JapaneseText>肉体的にも精神的にも</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>35</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>780</PointerOffsetDec>
-    <PointerOffsetHex>0x30c</PointerOffsetHex>
+    <PointerOffset>780</PointerOffset>
     <JapaneseText>「苦痛を与えられる」事と言われている</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>36</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>817</PointerOffsetDec>
-    <PointerOffsetHex>0x331</PointerOffsetHex>
+    <PointerOffset>817</PointerOffset>
     <JapaneseText>だから、ユグドラシルにとって</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>37</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>847</PointerOffsetDec>
-    <PointerOffsetHex>0x34f</PointerOffsetHex>
+    <PointerOffset>847</PointerOffset>
     <JapaneseText>村を襲うという方法が</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>38</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>869</PointerOffsetDec>
-    <PointerOffsetHex>0x365</PointerOffsetHex>
+    <PointerOffset>869</PointerOffset>
     <JapaneseText>天使を見つけ出すのに最適だっただけだ…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>39</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

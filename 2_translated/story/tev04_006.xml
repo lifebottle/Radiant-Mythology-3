@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>142</PointerOffsetDec>
-    <PointerOffsetHex>0x8e</PointerOffsetHex>
+    <PointerOffset>142</PointerOffset>
     <JapaneseText>それじゃあ、今回の目的をもう一度ね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>177</PointerOffsetDec>
-    <PointerOffsetHex>0xb1</PointerOffsetHex>
+    <PointerOffset>177</PointerOffset>
     <JapaneseText>ここブラウニー坑道にて</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>201</PointerOffsetDec>
-    <PointerOffsetHex>0xc9</PointerOffsetHex>
+    <PointerOffset>201</PointerOffset>
     <JapaneseText>「銅」を３個「採掘」する事！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>230</PointerOffsetDec>
-    <PointerOffsetHex>0xe6</PointerOffsetHex>
+    <PointerOffset>230</PointerOffset>
     <JapaneseText>まずは、採掘をする場所である</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>260</PointerOffsetDec>
-    <PointerOffsetHex>0x104</PointerOffsetHex>
+    <PointerOffset>260</PointerOffset>
     <JapaneseText>「採掘ポイント」を探さなくっちゃ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>293</PointerOffsetDec>
-    <PointerOffsetHex>0x125</PointerOffsetHex>
+    <PointerOffset>293</PointerOffset>
     <JapaneseText>それじゃあ、進もう！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

@@ -1,66 +1,59 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>226</PointerOffsetDec>
-    <PointerOffsetHex>0xe2</PointerOffsetHex>
+    <PointerOffset>226</PointerOffset>
     <JapaneseText>ああ、今使ったのはソーサラーリングだ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>263</PointerOffsetDec>
-    <PointerOffsetHex>0x107</PointerOffsetHex>
+    <PointerOffset>263</PointerOffset>
     <JapaneseText>今回からは、シリーズ本編でおなじみの</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>301</PointerOffsetDec>
-    <PointerOffsetHex>0x12d</PointerOffsetHex>
+    <PointerOffset>301</PointerOffset>
     <JapaneseText>このソーサラーリングが、色んな所で</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>337</PointerOffsetDec>
-    <PointerOffsetHex>0x151</PointerOffsetHex>
+    <PointerOffset>337</PointerOffset>
     <JapaneseText>使えるみたいだぞ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>354</PointerOffsetDec>
-    <PointerOffsetHex>0x162</PointerOffsetHex>
+    <PointerOffset>354</PointerOffset>
     <JapaneseText>という事は、このダンジョンの</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>384</PointerOffsetDec>
-    <PointerOffsetHex>0x180</PointerOffsetHex>
+    <PointerOffset>384</PointerOffset>
     <JapaneseText>どこかで使えるという事だな？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>413</PointerOffsetDec>
-    <PointerOffsetHex>0x19d</PointerOffsetHex>
+    <PointerOffset>413</PointerOffset>
     <JapaneseText>ああ、楽しみにしてろよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

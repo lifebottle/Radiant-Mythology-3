@@ -1,57 +1,51 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>188</PointerOffsetDec>
-    <PointerOffsetHex>0xbc</PointerOffsetHex>
+    <PointerOffset>188</PointerOffset>
     <JapaneseText>奩</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>257</PointerOffsetDec>
-    <PointerOffsetHex>0x101</PointerOffsetHex>
+    <PointerOffset>257</PointerOffset>
     <JapaneseText>ウズマキフスベのドクメントが</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>287</PointerOffsetDec>
-    <PointerOffsetHex>0x11f</PointerOffsetHex>
+    <PointerOffset>287</PointerOffset>
     <JapaneseText>全て埋まったわ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>302</PointerOffsetDec>
-    <PointerOffsetHex>0x12e</PointerOffsetHex>
+    <PointerOffset>302</PointerOffset>
     <JapaneseText>任務完了か。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>316</PointerOffsetDec>
-    <PointerOffsetHex>0x13c</PointerOffsetHex>
+    <PointerOffset>316</PointerOffset>
     <JapaneseText>それじゃ、船に戻ろう</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>337</PointerOffsetDec>
-    <PointerOffsetHex>0x151</PointerOffsetHex>
+    <PointerOffset>337</PointerOffset>
     <JapaneseText>ええ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

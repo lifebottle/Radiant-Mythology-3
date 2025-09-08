@@ -1,48 +1,43 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>134</PointerOffsetDec>
-    <PointerOffsetHex>0x86</PointerOffsetHex>
+    <PointerOffset>134</PointerOffset>
     <JapaneseText>この火山で落ち合う事に</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>158</PointerOffsetDec>
-    <PointerOffsetHex>0x9e</PointerOffsetHex>
+    <PointerOffset>158</PointerOffset>
     <JapaneseText>なっているのだが……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>188</PointerOffsetDec>
-    <PointerOffsetHex>0xbc</PointerOffsetHex>
+    <PointerOffset>188</PointerOffset>
     <JapaneseText>とりあえず、奥を目指そう。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>216</PointerOffsetDec>
-    <PointerOffsetHex>0xd8</PointerOffsetHex>
+    <PointerOffset>216</PointerOffset>
     <JapaneseText>足場が悪い上に魔物も出る。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>244</PointerOffsetDec>
-    <PointerOffsetHex>0xf4</PointerOffsetHex>
+    <PointerOffset>244</PointerOffset>
     <JapaneseText>気を付けて登るんだ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

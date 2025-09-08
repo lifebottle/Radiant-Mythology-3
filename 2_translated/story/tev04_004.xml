@@ -1,39 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>58</PointerOffsetDec>
-    <PointerOffsetHex>0x3a</PointerOffsetHex>
+    <PointerOffset>58</PointerOffset>
     <JapaneseText>ワールドマップでも、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>80</PointerOffsetDec>
-    <PointerOffsetHex>0x50</PointerOffsetHex>
+    <PointerOffset>80</PointerOffset>
     <JapaneseText>△ボタンでメニューの起動が可能です</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>115</PointerOffsetDec>
-    <PointerOffsetHex>0x73</PointerOffsetHex>
+    <PointerOffset>115</PointerOffset>
     <JapaneseText>メニューからのセーブも可能ですので、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>153</PointerOffsetDec>
-    <PointerOffsetHex>0x99</PointerOffsetHex>
+    <PointerOffset>153</PointerOffset>
     <JapaneseText>有効に利用しましょう</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

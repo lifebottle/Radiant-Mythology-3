@@ -1,75 +1,67 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>150</PointerOffsetDec>
-    <PointerOffsetHex>0x96</PointerOffsetHex>
+    <PointerOffset>150</PointerOffset>
     <JapaneseText>さあ、いよいよ最後の入隊試験ね。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>184</PointerOffsetDec>
-    <PointerOffsetHex>0xb8</PointerOffsetHex>
+    <PointerOffset>184</PointerOffset>
     <JapaneseText>まずは説明をよく聞いてちょうだい</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>217</PointerOffsetDec>
-    <PointerOffsetHex>0xd9</PointerOffsetHex>
+    <PointerOffset>217</PointerOffset>
     <JapaneseText>今回行ってもらうのは、ルバーブ連山。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>255</PointerOffsetDec>
-    <PointerOffsetHex>0xff</PointerOffsetHex>
+    <PointerOffset>255</PointerOffset>
     <JapaneseText>そこにいる「ガルーダ」を</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>281</PointerOffsetDec>
-    <PointerOffsetHex>0x119</PointerOffsetHex>
+    <PointerOffset>281</PointerOffset>
     <JapaneseText>倒してきてもらいます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>302</PointerOffsetDec>
-    <PointerOffsetHex>0x12e</PointerOffsetHex>
+    <PointerOffset>302</PointerOffset>
     <JapaneseText>これが終われば、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>320</PointerOffsetDec>
-    <PointerOffsetHex>0x140</PointerOffsetHex>
+    <PointerOffset>320</PointerOffset>
     <JapaneseText>あなたは正式なアドリビトムの一員よ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>355</PointerOffsetDec>
-    <PointerOffsetHex>0x163</PointerOffsetHex>
+    <PointerOffset>355</PointerOffset>
     <JapaneseText>それじゃ、頑張ってきてね！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

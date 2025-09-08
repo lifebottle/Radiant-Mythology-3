@@ -1,39 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>58</PointerOffsetDec>
-    <PointerOffsetHex>0x3a</PointerOffsetHex>
+    <PointerOffset>58</PointerOffset>
     <JapaneseText>目的地への移動は、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>78</PointerOffsetDec>
-    <PointerOffsetHex>0x4e</PointerOffsetHex>
+    <PointerOffset>78</PointerOffset>
     <JapaneseText>この「ワールドマップ」で行います</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>111</PointerOffsetDec>
-    <PointerOffsetHex>0x6f</PointerOffsetHex>
+    <PointerOffset>111</PointerOffset>
     <JapaneseText>移動したい場所を選択して、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>139</PointerOffsetDec>
-    <PointerOffsetHex>0x8b</PointerOffsetHex>
+    <PointerOffset>139</PointerOffset>
     <JapaneseText>○ボタンで決定です</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

@@ -1,39 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>66</PointerOffsetDec>
-    <PointerOffsetHex>0x42</PointerOffsetHex>
+    <PointerOffset>66</PointerOffset>
     <JapaneseText>×ボタンを押すと、ミニマップを表示し、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>4</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>106</PointerOffsetDec>
-    <PointerOffsetHex>0x6a</PointerOffsetHex>
+    <PointerOffset>106</PointerOffset>
     <JapaneseText>周囲を確認出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>5</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>125</PointerOffsetDec>
-    <PointerOffsetHex>0x7d</PointerOffsetHex>
+    <PointerOffset>125</PointerOffset>
     <JapaneseText>再び非表示にするには、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>6</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>149</PointerOffsetDec>
-    <PointerOffsetHex>0x95</PointerOffsetHex>
+    <PointerOffset>149</PointerOffset>
     <JapaneseText>×ボタンを押して下さい</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

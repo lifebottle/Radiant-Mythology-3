@@ -1,102 +1,91 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>168</PointerOffsetDec>
-    <PointerOffsetHex>0xa8</PointerOffsetHex>
+    <PointerOffset>168</PointerOffset>
     <JapaneseText>今回の仕事では、コンフェイト大森林に</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>206</PointerOffsetDec>
-    <PointerOffsetHex>0xce</PointerOffsetHex>
+    <PointerOffset>206</PointerOffset>
     <JapaneseText>行ってもらうね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>221</PointerOffsetDec>
-    <PointerOffsetHex>0xdd</PointerOffsetHex>
+    <PointerOffset>221</PointerOffset>
     <JapaneseText>あそこにいるケイブレックスという魔物が</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>261</PointerOffsetDec>
-    <PointerOffsetHex>0x105</PointerOffsetHex>
+    <PointerOffset>261</PointerOffset>
     <JapaneseText>ウズマキフスベを食べていたって</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>293</PointerOffsetDec>
-    <PointerOffsetHex>0x125</PointerOffsetHex>
+    <PointerOffset>293</PointerOffset>
     <JapaneseText>記録があったらしいの</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>314</PointerOffsetDec>
-    <PointerOffsetHex>0x13a</PointerOffsetHex>
+    <PointerOffset>314</PointerOffset>
     <JapaneseText>それで、ケイブレックスに</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>340</PointerOffsetDec>
-    <PointerOffsetHex>0x154</PointerOffsetHex>
+    <PointerOffset>340</PointerOffset>
     <JapaneseText>ウズマキフスベのドクメントがあるかも</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>378</PointerOffsetDec>
-    <PointerOffsetHex>0x17a</PointerOffsetHex>
+    <PointerOffset>378</PointerOffset>
     <JapaneseText>しれないって事で、今回行ってもらうわけ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>417</PointerOffsetDec>
-    <PointerOffsetHex>0x1a1</PointerOffsetHex>
+    <PointerOffset>417</PointerOffset>
     <JapaneseText>同行者は、セネル君とティア</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>444</PointerOffsetDec>
-    <PointerOffsetHex>0x1bc</PointerOffsetHex>
+    <PointerOffset>444</PointerOffset>
     <JapaneseText>ゴツーイ魔物を相手にしなきゃいけないから</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>486</PointerOffsetDec>
-    <PointerOffsetHex>0x1e6</PointerOffsetHex>
+    <PointerOffset>486</PointerOffset>
     <JapaneseText>大変だろうけど、お願いね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

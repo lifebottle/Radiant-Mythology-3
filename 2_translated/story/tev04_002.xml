@@ -1,30 +1,27 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>90</PointerOffsetDec>
-    <PointerOffsetHex>0x5a</PointerOffsetHex>
+    <PointerOffset>90</PointerOffset>
     <JapaneseText>クエストを受けたら、早く目的地に向かう！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>132</PointerOffsetDec>
-    <PointerOffsetHex>0x84</PointerOffsetHex>
+    <PointerOffset>132</PointerOffset>
     <JapaneseText>これはギルドメンバーとしての努めよ？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>169</PointerOffsetDec>
-    <PointerOffsetHex>0xa9</PointerOffsetHex>
+    <PointerOffset>169</PointerOffset>
     <JapaneseText>さあ、早く取り掛かりなさい</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

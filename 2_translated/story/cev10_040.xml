@@ -1,372 +1,331 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>1280</PointerOffsetDec>
-    <PointerOffsetHex>0x500</PointerOffsetHex>
+    <PointerOffset>1280</PointerOffset>
     <JapaneseText>ウッドロウ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>90</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1294</PointerOffsetDec>
-    <PointerOffsetHex>0x50e</PointerOffsetHex>
+    <PointerOffset>1294</PointerOffset>
     <JapaneseText>世界のお話、また聞かせて</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>91</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1319</PointerOffsetDec>
-    <PointerOffsetHex>0x527</PointerOffsetHex>
+    <PointerOffset>1319</PointerOffset>
     <JapaneseText>いいだろう</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>92</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1330</PointerOffsetDec>
-    <PointerOffsetHex>0x532</PointerOffsetHex>
+    <PointerOffset>1330</PointerOffset>
     <JapaneseText>さて……今日はどんな国について</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>93</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1362</PointerOffsetDec>
-    <PointerOffsetHex>0x552</PointerOffsetHex>
+    <PointerOffset>1362</PointerOffset>
     <JapaneseText>話をしようか？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>94</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1377</PointerOffsetDec>
-    <PointerOffsetHex>0x561</PointerOffsetHex>
+    <PointerOffset>1377</PointerOffset>
     <JapaneseText>えっとね……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>95</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1390</PointerOffsetDec>
-    <PointerOffsetHex>0x56e</PointerOffsetHex>
+    <PointerOffset>1390</PointerOffset>
     <JapaneseText>ソフィ？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>96</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1400</PointerOffsetDec>
-    <PointerOffsetHex>0x578</PointerOffsetHex>
+    <PointerOffset>1400</PointerOffset>
     <JapaneseText>そろそろ買い出しに行く時間……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>97</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1431</PointerOffsetDec>
-    <PointerOffsetHex>0x597</PointerOffsetHex>
+    <PointerOffset>1431</PointerOffset>
     <JapaneseText>……っ！？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>98</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1442</PointerOffsetDec>
-    <PointerOffsetHex>0x5a2</PointerOffsetHex>
+    <PointerOffset>1442</PointerOffset>
     <JapaneseText>アスベル</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>99</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1451</PointerOffsetDec>
-    <PointerOffsetHex>0x5ab</PointerOffsetHex>
+    <PointerOffset>1451</PointerOffset>
     <JapaneseText>し……失礼をしまして、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>100</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1475</PointerOffsetDec>
-    <PointerOffsetHex>0x5c3</PointerOffsetHex>
+    <PointerOffset>1475</PointerOffset>
     <JapaneseText>申し訳ありませんでした！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>101</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1500</PointerOffsetDec>
-    <PointerOffsetHex>0x5dc</PointerOffsetHex>
+    <PointerOffset>1500</PointerOffset>
     <JapaneseText>立場もわきまえず、多々ご無礼を</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>102</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1532</PointerOffsetDec>
-    <PointerOffsetHex>0x5fc</PointerOffsetHex>
+    <PointerOffset>1532</PointerOffset>
     <JapaneseText>働いた事と思いますが……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>103</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1557</PointerOffsetDec>
-    <PointerOffsetHex>0x615</PointerOffsetHex>
+    <PointerOffset>1557</PointerOffset>
     <JapaneseText>ああ、アスベル君。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>104</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1577</PointerOffsetDec>
-    <PointerOffsetHex>0x629</PointerOffsetHex>
+    <PointerOffset>1577</PointerOffset>
     <JapaneseText>いいんだよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>105</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1588</PointerOffsetDec>
-    <PointerOffsetHex>0x634</PointerOffsetHex>
+    <PointerOffset>1588</PointerOffset>
     <JapaneseText>ソフィ君とは、世間話をしていただけだ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>106</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1628</PointerOffsetDec>
-    <PointerOffsetHex>0x65c</PointerOffsetHex>
+    <PointerOffset>1628</PointerOffset>
     <JapaneseText>そう堅くならないでくれたまえ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>107</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1657</PointerOffsetDec>
-    <PointerOffsetHex>0x679</PointerOffsetHex>
+    <PointerOffset>1657</PointerOffset>
     <JapaneseText>しかし……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>108</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1668</PointerOffsetDec>
-    <PointerOffsetHex>0x684</PointerOffsetHex>
+    <PointerOffset>1668</PointerOffset>
     <JapaneseText>アスベル。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>109</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1680</PointerOffsetDec>
-    <PointerOffsetHex>0x690</PointerOffsetHex>
+    <PointerOffset>1680</PointerOffset>
     <JapaneseText>ウッドロウはね、この世界の色んな所を</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>110</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1718</PointerOffsetDec>
-    <PointerOffsetHex>0x6b6</PointerOffsetHex>
+    <PointerOffset>1718</PointerOffset>
     <JapaneseText>旅してて色んな事を知ってるんだよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>111</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1751</PointerOffsetDec>
-    <PointerOffsetHex>0x6d7</PointerOffsetHex>
+    <PointerOffset>1751</PointerOffset>
     <JapaneseText>ウッドロウって……ソフィ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>112</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1778</PointerOffsetDec>
-    <PointerOffsetHex>0x6f2</PointerOffsetHex>
+    <PointerOffset>1778</PointerOffset>
     <JapaneseText>この方は……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>113</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1791</PointerOffsetDec>
-    <PointerOffsetHex>0x6ff</PointerOffsetHex>
+    <PointerOffset>1791</PointerOffset>
     <JapaneseText>ふふ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>114</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1799</PointerOffsetDec>
-    <PointerOffsetHex>0x707</PointerOffsetHex>
+    <PointerOffset>1799</PointerOffset>
     <JapaneseText>構わないよ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>115</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1813</PointerOffsetDec>
-    <PointerOffsetHex>0x715</PointerOffsetHex>
+    <PointerOffset>1813</PointerOffset>
     <JapaneseText>ここでは私も、ただの異国人なのだ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>116</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1846</PointerOffsetDec>
-    <PointerOffsetHex>0x736</PointerOffsetHex>
+    <PointerOffset>1846</PointerOffset>
     <JapaneseText>ウッドロウと気楽に呼んでくれ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>117</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1875</PointerOffsetDec>
-    <PointerOffsetHex>0x753</PointerOffsetHex>
+    <PointerOffset>1875</PointerOffset>
     <JapaneseText>ですが……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>118</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1886</PointerOffsetDec>
-    <PointerOffsetHex>0x75e</PointerOffsetHex>
+    <PointerOffset>1886</PointerOffset>
     <JapaneseText>アスベル？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>119</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1898</PointerOffsetDec>
-    <PointerOffsetHex>0x76a</PointerOffsetHex>
+    <PointerOffset>1898</PointerOffset>
     <JapaneseText>……ウッドロウの事、ウッドロウって</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>120</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1934</PointerOffsetDec>
-    <PointerOffsetHex>0x78e</PointerOffsetHex>
+    <PointerOffset>1934</PointerOffset>
     <JapaneseText>呼んだらいけないの？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>121</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1955</PointerOffsetDec>
-    <PointerOffsetHex>0x7a3</PointerOffsetHex>
+    <PointerOffset>1955</PointerOffset>
     <JapaneseText>そんな事はないよ、ソフィ君。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>122</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>1985</PointerOffsetDec>
-    <PointerOffsetHex>0x7c1</PointerOffsetHex>
+    <PointerOffset>1985</PointerOffset>
     <JapaneseText>いつも通り、接してくれて構わない</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>123</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2018</PointerOffsetDec>
-    <PointerOffsetHex>0x7e2</PointerOffsetHex>
+    <PointerOffset>2018</PointerOffset>
     <JapaneseText>もちろん、アスベル君もね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>124</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2043</PointerOffsetDec>
-    <PointerOffsetHex>0x7fb</PointerOffsetHex>
+    <PointerOffset>2043</PointerOffset>
     <JapaneseText>……ありがとうございます。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>125</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2071</PointerOffsetDec>
-    <PointerOffsetHex>0x817</PointerOffsetHex>
+    <PointerOffset>2071</PointerOffset>
     <JapaneseText>……その……</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>126</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2084</PointerOffsetDec>
-    <PointerOffsetHex>0x824</PointerOffsetHex>
+    <PointerOffset>2084</PointerOffset>
     <JapaneseText>……ウッドロウ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>127</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2099</PointerOffsetDec>
-    <PointerOffsetHex>0x833</PointerOffsetHex>
+    <PointerOffset>2099</PointerOffset>
     <JapaneseText>なに、礼を言われる様な事は</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>128</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2127</PointerOffsetDec>
-    <PointerOffsetHex>0x84f</PointerOffsetHex>
+    <PointerOffset>2127</PointerOffset>
     <JapaneseText>何もしていないよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>129</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>2144</PointerOffsetDec>
-    <PointerOffsetHex>0x860</PointerOffsetHex>
+    <PointerOffset>2144</PointerOffset>
     <JapaneseText>これからも、気軽に話をして欲しい</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>130</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

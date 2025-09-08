@@ -1,75 +1,67 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>306</PointerOffsetDec>
-    <PointerOffsetHex>0x132</PointerOffsetHex>
+    <PointerOffset>306</PointerOffset>
     <JapaneseText>カノンノの状態、もう大丈夫よ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>335</PointerOffsetDec>
-    <PointerOffsetHex>0x14f</PointerOffsetHex>
+    <PointerOffset>335</PointerOffset>
     <JapaneseText>アニーも、もう大丈夫って言ってたし</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>371</PointerOffsetDec>
-    <PointerOffsetHex>0x173</PointerOffsetHex>
+    <PointerOffset>371</PointerOffset>
     <JapaneseText>試しに行ってもらいたいの</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>396</PointerOffsetDec>
-    <PointerOffsetHex>0x18c</PointerOffsetHex>
+    <PointerOffset>396</PointerOffset>
     <JapaneseText>今からアンジュに依頼として届けるけど、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>436</PointerOffsetDec>
-    <PointerOffsetHex>0x1b4</PointerOffsetHex>
+    <PointerOffset>436</PointerOffset>
     <JapaneseText>あんたが行くの。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>454</PointerOffsetDec>
-    <PointerOffsetHex>0x1c6</PointerOffsetHex>
+    <PointerOffset>454</PointerOffset>
     <JapaneseText>わかった？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>465</PointerOffsetDec>
-    <PointerOffsetHex>0x1d1</PointerOffsetHex>
+    <PointerOffset>465</PointerOffset>
     <JapaneseText>じゃあ、あとは頼んだから</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>490</PointerOffsetDec>
-    <PointerOffsetHex>0x1ea</PointerOffsetHex>
+    <PointerOffset>490</PointerOffset>
     <JapaneseText>カノンノの治療が終了しました</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

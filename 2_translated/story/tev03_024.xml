@@ -1,66 +1,59 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>130</PointerOffsetDec>
-    <PointerOffsetHex>0x82</PointerOffsetHex>
+    <PointerOffset>130</PointerOffset>
     <JapaneseText>…ん？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>137</PointerOffsetDec>
-    <PointerOffsetHex>0x89</PointerOffsetHex>
+    <PointerOffset>137</PointerOffset>
     <JapaneseText>ねえ、アンジュさんが呼んでるみたい。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>175</PointerOffsetDec>
-    <PointerOffsetHex>0xaf</PointerOffsetHex>
+    <PointerOffset>175</PointerOffset>
     <JapaneseText>ちょっとホールへ行ってみようよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>206</PointerOffsetDec>
-    <PointerOffsetHex>0xce</PointerOffsetHex>
+    <PointerOffset>206</PointerOffset>
     <JapaneseText>入手した装備の情報は、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>230</PointerOffsetDec>
-    <PointerOffsetHex>0xe6</PointerOffsetHex>
+    <PointerOffset>230</PointerOffset>
     <JapaneseText>「装備図鑑」で確認出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>12</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>257</PointerOffsetDec>
-    <PointerOffsetHex>0x101</PointerOffsetHex>
+    <PointerOffset>257</PointerOffset>
     <JapaneseText>メニューのライブラリから</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>283</PointerOffsetDec>
-    <PointerOffsetHex>0x11b</PointerOffsetHex>
+    <PointerOffset>283</PointerOffset>
     <JapaneseText>「装備図鑑」を選択して下さい</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

@@ -1,111 +1,99 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>176</PointerOffsetDec>
-    <PointerOffsetHex>0xb0</PointerOffsetHex>
+    <PointerOffset>176</PointerOffset>
     <JapaneseText>今回のクエストでは</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>13</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>196</PointerOffsetDec>
-    <PointerOffsetHex>0xc4</PointerOffsetHex>
+    <PointerOffset>196</PointerOffset>
     <JapaneseText>「採掘のやり方」について</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>222</PointerOffsetDec>
-    <PointerOffsetHex>0xde</PointerOffsetHex>
+    <PointerOffset>222</PointerOffset>
     <JapaneseText>学んでもらうけども…</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>243</PointerOffsetDec>
-    <PointerOffsetHex>0xf3</PointerOffsetHex>
+    <PointerOffset>243</PointerOffset>
     <JapaneseText>その前に、「採掘クエスト」が何かを</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>279</PointerOffsetDec>
-    <PointerOffsetHex>0x117</PointerOffsetHex>
+    <PointerOffset>279</PointerOffset>
     <JapaneseText>教えておかなきゃね</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>298</PointerOffsetDec>
-    <PointerOffsetHex>0x12a</PointerOffsetHex>
+    <PointerOffset>298</PointerOffset>
     <JapaneseText>「採掘クエスト」というのは、ダンジョンに</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>340</PointerOffsetDec>
-    <PointerOffsetHex>0x154</PointerOffsetHex>
+    <PointerOffset>340</PointerOffset>
     <JapaneseText>存在する採掘ポイントで、目標のアイテムを</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>382</PointerOffsetDec>
-    <PointerOffsetHex>0x17e</PointerOffsetHex>
+    <PointerOffset>382</PointerOffset>
     <JapaneseText>入手する事なの</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>397</PointerOffsetDec>
-    <PointerOffsetHex>0x18d</PointerOffsetHex>
+    <PointerOffset>397</PointerOffset>
     <JapaneseText>で、今回はブラウニー坑道へ行って、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>433</PointerOffsetDec>
-    <PointerOffsetHex>0x1b1</PointerOffsetHex>
+    <PointerOffset>433</PointerOffset>
     <JapaneseText>「銅」を３個「採掘」するのがあなたの仕事</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>474</PointerOffsetDec>
-    <PointerOffsetHex>0x1da</PointerOffsetHex>
+    <PointerOffset>474</PointerOffset>
     <JapaneseText>それじゃあ、しっかり「採掘」について</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>512</PointerOffsetDec>
-    <PointerOffsetHex>0x200</PointerOffsetHex>
+    <PointerOffset>512</PointerOffset>
     <JapaneseText>学んできてね！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

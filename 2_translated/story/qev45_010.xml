@@ -1,111 +1,99 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>194</PointerOffsetDec>
-    <PointerOffsetHex>0xc2</PointerOffsetHex>
+    <PointerOffset>194</PointerOffset>
     <JapaneseText>「黄金の鎚」って知ってるキュ？</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>14</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>225</PointerOffsetDec>
-    <PointerOffsetHex>0xe1</PointerOffsetHex>
+    <PointerOffset>225</PointerOffset>
     <JapaneseText>そのアイテムがあれば、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>15</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>249</PointerOffsetDec>
-    <PointerOffsetHex>0xf9</PointerOffsetHex>
+    <PointerOffset>249</PointerOffset>
     <JapaneseText>装備品の強化が出来るんだキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>16</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>280</PointerOffsetDec>
-    <PointerOffsetHex>0x118</PointerOffsetHex>
+    <PointerOffset>280</PointerOffset>
     <JapaneseText>強化をすれば、今以上に</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>17</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>304</PointerOffsetDec>
-    <PointerOffsetHex>0x130</PointerOffsetHex>
+    <PointerOffset>304</PointerOffset>
     <JapaneseText>皆さんはもっと強くなれるキュ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>18</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>333</PointerOffsetDec>
-    <PointerOffsetHex>0x14d</PointerOffsetHex>
+    <PointerOffset>333</PointerOffset>
     <JapaneseText>間違いないキュ。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>19</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>351</PointerOffsetDec>
-    <PointerOffsetHex>0x15f</PointerOffsetHex>
+    <PointerOffset>351</PointerOffset>
     <JapaneseText>大シャコ貝に入った気でいるキュ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>20</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>382</PointerOffsetDec>
-    <PointerOffsetHex>0x17e</PointerOffsetHex>
+    <PointerOffset>382</PointerOffset>
     <JapaneseText>お願いだキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>21</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>398</PointerOffsetDec>
-    <PointerOffsetHex>0x18e</PointerOffsetHex>
+    <PointerOffset>398</PointerOffset>
     <JapaneseText>探しに行ってきて欲しいキュ！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>22</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>427</PointerOffsetDec>
-    <PointerOffsetHex>0x1ab</PointerOffsetHex>
+    <PointerOffset>427</PointerOffset>
     <JapaneseText>クエスト「黄金の槌を探せ！」が</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>23</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>459</PointerOffsetDec>
-    <PointerOffsetHex>0x1cb</PointerOffsetHex>
+    <PointerOffset>459</PointerOffset>
     <JapaneseText>エントリーされました。</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>24</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>483</PointerOffsetDec>
-    <PointerOffsetHex>0x1e3</PointerOffsetHex>
+    <PointerOffset>483</PointerOffset>
     <JapaneseText>ポッポから受ける事が出来ます</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>25</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>

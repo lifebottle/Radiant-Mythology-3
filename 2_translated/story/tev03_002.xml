@@ -1,48 +1,43 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" ?>
 <Entries>
   <Entry>
-    <PointerOffsetDec>96</PointerOffsetDec>
-    <PointerOffsetHex>0x60</PointerOffsetHex>
+    <PointerOffset>96</PointerOffset>
     <JapaneseText>クエストを受ける時は、</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>7</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>120</PointerOffsetDec>
-    <PointerOffsetHex>0x78</PointerOffsetHex>
+    <PointerOffset>120</PointerOffset>
     <JapaneseText>ここ「クエストカウンタ」で</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>8</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>148</PointerOffsetDec>
-    <PointerOffsetHex>0x94</PointerOffsetHex>
+    <PointerOffset>148</PointerOffset>
     <JapaneseText>受けるクエストを選択するのよ</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>9</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>177</PointerOffsetDec>
-    <PointerOffsetHex>0xb1</PointerOffsetHex>
+    <PointerOffset>177</PointerOffset>
     <JapaneseText>今回、あなたには「退治のやり方」を</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>10</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
   <Entry>
-    <PointerOffsetDec>213</PointerOffsetDec>
-    <PointerOffsetHex>0xd5</PointerOffsetHex>
+    <PointerOffset>213</PointerOffset>
     <JapaneseText>受けてもらうね！</JapaneseText>
     <EnglishText></EnglishText>
-    <Notes />
+    <Notes/>
     <Id>11</Id>
-    <Status />
+    <Status>To Do</Status>
   </Entry>
 </Entries>
