@@ -1,155 +1,159 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>346</PointerOffset>
-    <JapaneseText>「あわれみ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>25</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>362</PointerOffset>
-    <JapaneseText>　それは、自分の死につながるものと知れ」</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>26</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>403</PointerOffset>
-    <JapaneseText>「笑い……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>27</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>415</PointerOffset>
-    <JapaneseText>　それは、心のスキを見せるものと知れ」</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>28</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>454</PointerOffset>
-    <JapaneseText>「答えは一つにあらず。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>29</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>478</PointerOffset>
-    <JapaneseText>　己の心の思うまま、それが答えなり」</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>30</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>524</PointerOffset>
-    <JapaneseText>忍者は非情でなくては務まりません。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>32</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>560</PointerOffset>
-    <JapaneseText>ですが……時々、あのギルドで</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>33</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>590</PointerOffset>
-    <JapaneseText>皆さんと一緒にいると</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>34</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>611</PointerOffset>
-    <JapaneseText>わからなくなる事が……あるのです</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>35</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>644</PointerOffset>
-    <JapaneseText>心が動く事や……、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>36</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>664</PointerOffset>
-    <JapaneseText>感情を表に出す事……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>37</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>685</PointerOffset>
-    <JapaneseText>それは本当に、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>38</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>701</PointerOffset>
-    <JapaneseText>いけない事なのでしょうか……？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>39</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>732</PointerOffset>
-    <JapaneseText>……すみません、考え込んでいても</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>40</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>766</PointerOffset>
-    <JapaneseText>仕方がないのに……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>41</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>785</PointerOffset>
-    <JapaneseText>もう大丈夫です。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>42</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>803</PointerOffset>
-    <JapaneseText>試練の場まで、あともう少しのはず</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>43</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>836</PointerOffset>
-    <JapaneseText>気を抜かずに行きましょう</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>44</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>346</PointerOffset>
+      <JapaneseText>「あわれみ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>362</PointerOffset>
+      <JapaneseText>　それは、自分の死につながるものと知れ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>403</PointerOffset>
+      <JapaneseText>「笑い……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>415</PointerOffset>
+      <JapaneseText>　それは、心のスキを見せるものと知れ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>454</PointerOffset>
+      <JapaneseText>「答えは一つにあらず。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>478</PointerOffset>
+      <JapaneseText>　己の心の思うまま、それが答えなり」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>524</PointerOffset>
+      <JapaneseText>忍者は非情でなくては務まりません。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>560</PointerOffset>
+      <JapaneseText>ですが……時々、あのギルドで</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>590</PointerOffset>
+      <JapaneseText>皆さんと一緒にいると</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>611</PointerOffset>
+      <JapaneseText>わからなくなる事が……あるのです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>644</PointerOffset>
+      <JapaneseText>心が動く事や……、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>664</PointerOffset>
+      <JapaneseText>感情を表に出す事……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>685</PointerOffset>
+      <JapaneseText>それは本当に、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>701</PointerOffset>
+      <JapaneseText>いけない事なのでしょうか……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>732</PointerOffset>
+      <JapaneseText>……すみません、考え込んでいても</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>766</PointerOffset>
+      <JapaneseText>仕方がないのに……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>785</PointerOffset>
+      <JapaneseText>もう大丈夫です。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>803</PointerOffset>
+      <JapaneseText>試練の場まで、あともう少しのはず</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>836</PointerOffset>
+      <JapaneseText>気を抜かずに行きましょう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

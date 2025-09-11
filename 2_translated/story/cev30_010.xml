@@ -1,163 +1,167 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>222</PointerOffset>
-    <JapaneseText>傲</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>19</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>340</PointerOffset>
-    <JapaneseText>クラトスは、その忍びの里ってとこに</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>26</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>376</PointerOffset>
-    <JapaneseText>行った事があるのよね？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>27</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>399</PointerOffset>
-    <JapaneseText>ねえねえ、どんなトコだったの？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>28</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>430</PointerOffset>
-    <JapaneseText>その質問には答えられん。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>29</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>456</PointerOffset>
-    <JapaneseText>忍びの里とは文字通り、世間と一線を引き</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>30</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>496</PointerOffset>
-    <JapaneseText>忍びながら生きるものの地</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>31</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>521</PointerOffset>
-    <JapaneseText>本来であれば、その存在すら</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>32</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>549</PointerOffset>
-    <JapaneseText>他言無用にすべき隠れ里なのだ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>33</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>578</PointerOffset>
-    <JapaneseText>でも、私達は今その里へ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>34</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>602</PointerOffset>
-    <JapaneseText>向かってるワケでしょ？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>35</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>625</PointerOffset>
-    <JapaneseText>遅かれ早かれ知る事になるなら、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>36</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>657</PointerOffset>
-    <JapaneseText>別に今だって……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>37</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>674</PointerOffset>
-    <JapaneseText>遅かれ早かれ知る事になるのだ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>38</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>706</PointerOffset>
-    <JapaneseText>焦る事はなかろう</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>39</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>723</PointerOffset>
-    <JapaneseText>何よそれ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>40</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>735</PointerOffset>
-    <JapaneseText>そんな我慢が出来るなら</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>41</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>759</PointerOffset>
-    <JapaneseText>初めから聞いたりなんかしてないわよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>42</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>794</PointerOffset>
-    <JapaneseText>ま、いいわ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>43</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>809</PointerOffset>
-    <JapaneseText>絶対、あきらめないから∀</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>44</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>222</PointerOffset>
+      <JapaneseText>傲</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>340</PointerOffset>
+      <JapaneseText>クラトスは、その忍びの里ってとこに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>376</PointerOffset>
+      <JapaneseText>行った事があるのよね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>399</PointerOffset>
+      <JapaneseText>ねえねえ、どんなトコだったの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>430</PointerOffset>
+      <JapaneseText>その質問には答えられん。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>456</PointerOffset>
+      <JapaneseText>忍びの里とは文字通り、世間と一線を引き</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>496</PointerOffset>
+      <JapaneseText>忍びながら生きるものの地</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>521</PointerOffset>
+      <JapaneseText>本来であれば、その存在すら</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>549</PointerOffset>
+      <JapaneseText>他言無用にすべき隠れ里なのだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>578</PointerOffset>
+      <JapaneseText>でも、私達は今その里へ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>602</PointerOffset>
+      <JapaneseText>向かってるワケでしょ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>625</PointerOffset>
+      <JapaneseText>遅かれ早かれ知る事になるなら、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>657</PointerOffset>
+      <JapaneseText>別に今だって……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>674</PointerOffset>
+      <JapaneseText>遅かれ早かれ知る事になるのだ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>706</PointerOffset>
+      <JapaneseText>焦る事はなかろう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>723</PointerOffset>
+      <JapaneseText>何よそれ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>735</PointerOffset>
+      <JapaneseText>そんな我慢が出来るなら</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>759</PointerOffset>
+      <JapaneseText>初めから聞いたりなんかしてないわよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>794</PointerOffset>
+      <JapaneseText>ま、いいわ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>809</PointerOffset>
+      <JapaneseText>絶対、あきらめないから∀</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

@@ -1,115 +1,119 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>222</PointerOffset>
-    <JapaneseText>お願いだキュ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>16</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>238</PointerOffset>
-    <JapaneseText>ポッポを探しに行って欲しいキュ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>17</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>271</PointerOffset>
-    <JapaneseText>鍛冶屋のオープン準備で</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>18</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>295</PointerOffset>
-    <JapaneseText>出かけたまま、まだ帰ってこないんだキュ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>19</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>337</PointerOffset>
-    <JapaneseText>心配だキュ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>20</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>352</PointerOffset>
-    <JapaneseText>ポッポがいれば、ここで</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>21</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>376</PointerOffset>
-    <JapaneseText>装備の強化が出来る様になるキュ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>22</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>409</PointerOffset>
-    <JapaneseText>「合成」も「強化」もお手の物だキュ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>23</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>447</PointerOffset>
-    <JapaneseText>きっとみんな喜ぶキュ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>24</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>470</PointerOffset>
-    <JapaneseText>お願いだキュ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>25</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>486</PointerOffset>
-    <JapaneseText>探してきて欲しいキュ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>26</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>509</PointerOffset>
-    <JapaneseText>クエスト「ポッポを探してくれキュ！」が</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>27</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>549</PointerOffset>
-    <JapaneseText>エントリーされました。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>28</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>573</PointerOffset>
-    <JapaneseText>キュッポから受ける事が出来ます</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>29</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>222</PointerOffset>
+      <JapaneseText>お願いだキュ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>238</PointerOffset>
+      <JapaneseText>ポッポを探しに行って欲しいキュ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>271</PointerOffset>
+      <JapaneseText>鍛冶屋のオープン準備で</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>295</PointerOffset>
+      <JapaneseText>出かけたまま、まだ帰ってこないんだキュ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>337</PointerOffset>
+      <JapaneseText>心配だキュ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>352</PointerOffset>
+      <JapaneseText>ポッポがいれば、ここで</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>376</PointerOffset>
+      <JapaneseText>装備の強化が出来る様になるキュ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>409</PointerOffset>
+      <JapaneseText>「合成」も「強化」もお手の物だキュ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>447</PointerOffset>
+      <JapaneseText>きっとみんな喜ぶキュ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>470</PointerOffset>
+      <JapaneseText>お願いだキュ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>486</PointerOffset>
+      <JapaneseText>探してきて欲しいキュ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>509</PointerOffset>
+      <JapaneseText>クエスト「ポッポを探してくれキュ！」が</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>549</PointerOffset>
+      <JapaneseText>エントリーされました。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>573</PointerOffset>
+      <JapaneseText>キュッポから受ける事が出来ます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

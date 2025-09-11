@@ -1,155 +1,159 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>481</PointerOffset>
-    <JapaneseText>なぁ……。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>33</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>493</PointerOffset>
-    <JapaneseText>ジュディスのその頭だけどよ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>34</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>523</PointerOffset>
-    <JapaneseText>それって、髪の毛なのか？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>35</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>548</PointerOffset>
-    <JapaneseText>ええ、もちろん。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>36</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>566</PointerOffset>
-    <JapaneseText>髪を結っているだけよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>37</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>587</PointerOffset>
-    <JapaneseText>へぇ〜。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>38</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>597</PointerOffset>
-    <JapaneseText>じゃあ、結構な長さだな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>39</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>620</PointerOffset>
-    <JapaneseText>んで、ほどくとどれくらいになるんだ？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>40</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>657</PointerOffset>
-    <JapaneseText>あら。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>41</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>665</PointerOffset>
-    <JapaneseText>そんな事が知りたいの？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>42</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>688</PointerOffset>
-    <JapaneseText>教えてあげてもいいけれど……。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>43</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>720</PointerOffset>
-    <JapaneseText>そうだわ、お風呂に入ろうと思ってたから、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>44</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>762</PointerOffset>
-    <JapaneseText>一緒に行って確かめてみる？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>45</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>789</PointerOffset>
-    <JapaneseText>ば！　</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>46</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>797</PointerOffset>
-    <JapaneseText>いや！！　</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>47</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>809</PointerOffset>
-    <JapaneseText>ちょ！！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>48</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>820</PointerOffset>
-    <JapaneseText>コ……、コハクのとこ行かねえと！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>49</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>853</PointerOffset>
-    <JapaneseText>うふふ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>50</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>863</PointerOffset>
-    <JapaneseText>何を想像したのかしら？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>51</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>481</PointerOffset>
+      <JapaneseText>なぁ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>493</PointerOffset>
+      <JapaneseText>ジュディスのその頭だけどよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>523</PointerOffset>
+      <JapaneseText>それって、髪の毛なのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>548</PointerOffset>
+      <JapaneseText>ええ、もちろん。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>566</PointerOffset>
+      <JapaneseText>髪を結っているだけよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>587</PointerOffset>
+      <JapaneseText>へぇ〜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>597</PointerOffset>
+      <JapaneseText>じゃあ、結構な長さだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>620</PointerOffset>
+      <JapaneseText>んで、ほどくとどれくらいになるんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>657</PointerOffset>
+      <JapaneseText>あら。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>665</PointerOffset>
+      <JapaneseText>そんな事が知りたいの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>688</PointerOffset>
+      <JapaneseText>教えてあげてもいいけれど……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>720</PointerOffset>
+      <JapaneseText>そうだわ、お風呂に入ろうと思ってたから、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>762</PointerOffset>
+      <JapaneseText>一緒に行って確かめてみる？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>789</PointerOffset>
+      <JapaneseText>ば！　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>797</PointerOffset>
+      <JapaneseText>いや！！　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>809</PointerOffset>
+      <JapaneseText>ちょ！！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>820</PointerOffset>
+      <JapaneseText>コ……、コハクのとこ行かねえと！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>853</PointerOffset>
+      <JapaneseText>うふふ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>863</PointerOffset>
+      <JapaneseText>何を想像したのかしら？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

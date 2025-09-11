@@ -1,139 +1,143 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>925</PointerOffset>
-    <JapaneseText>えっと…、この壁の向こうに</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>63</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>953</PointerOffset>
-    <JapaneseText>赤のオアシスがあるんだね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>64</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>978</PointerOffset>
-    <JapaneseText>キールが持たせてくれた爆弾で</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>65</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1008</PointerOffset>
-    <JapaneseText>壁を壊すんだね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>66</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1023</PointerOffset>
-    <JapaneseText>じゃあ、爆弾を早く仕掛けよう</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>67</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1060</PointerOffset>
-    <JapaneseText>私もお手伝いするね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>69</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1079</PointerOffset>
-    <JapaneseText>あ、あれ…？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>70</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1092</PointerOffset>
-    <JapaneseText>ごめんね、倒れちゃったみたい…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>71</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1123</PointerOffset>
-    <JapaneseText>あ、謝る事はないんじゃないかな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>72</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1154</PointerOffset>
-    <JapaneseText>でも、大昔からあった、誰も通さない壁が</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>73</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1194</PointerOffset>
-    <JapaneseText>あっさり倒れちゃうなんて</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>74</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1219</PointerOffset>
-    <JapaneseText>あ、そっか。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>75</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1233</PointerOffset>
-    <JapaneseText>もう爆弾で壊さなくても</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>76</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1257</PointerOffset>
-    <JapaneseText>向こうに行けるんだね！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>77</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1280</PointerOffset>
-    <JapaneseText>でも、つまずく様な所なかったよね…？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>78</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1318</PointerOffset>
-    <JapaneseText>どうやって転んだの？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>79</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1339</PointerOffset>
-    <JapaneseText>…わかんない</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>80</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>925</PointerOffset>
+      <JapaneseText>えっと…、この壁の向こうに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>953</PointerOffset>
+      <JapaneseText>赤のオアシスがあるんだね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>978</PointerOffset>
+      <JapaneseText>キールが持たせてくれた爆弾で</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1008</PointerOffset>
+      <JapaneseText>壁を壊すんだね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1023</PointerOffset>
+      <JapaneseText>じゃあ、爆弾を早く仕掛けよう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1060</PointerOffset>
+      <JapaneseText>私もお手伝いするね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1079</PointerOffset>
+      <JapaneseText>あ、あれ…？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1092</PointerOffset>
+      <JapaneseText>ごめんね、倒れちゃったみたい…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1123</PointerOffset>
+      <JapaneseText>あ、謝る事はないんじゃないかな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1154</PointerOffset>
+      <JapaneseText>でも、大昔からあった、誰も通さない壁が</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1194</PointerOffset>
+      <JapaneseText>あっさり倒れちゃうなんて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1219</PointerOffset>
+      <JapaneseText>あ、そっか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1233</PointerOffset>
+      <JapaneseText>もう爆弾で壊さなくても</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1257</PointerOffset>
+      <JapaneseText>向こうに行けるんだね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1280</PointerOffset>
+      <JapaneseText>でも、つまずく様な所なかったよね…？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1318</PointerOffset>
+      <JapaneseText>どうやって転んだの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1339</PointerOffset>
+      <JapaneseText>…わかんない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

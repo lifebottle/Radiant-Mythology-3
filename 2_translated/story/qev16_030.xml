@@ -1,99 +1,103 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>306</PointerOffset>
-    <JapaneseText>く〜〜っ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>22</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>318</PointerOffset>
-    <JapaneseText>何だか燃えて来たぁ！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>23</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>341</PointerOffset>
-    <JapaneseText>燃えるのはいいけど、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>24</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>363</PointerOffset>
-    <JapaneseText>あまり先走らない様にね？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>25</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>388</PointerOffset>
-    <JapaneseText>そうそう。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>26</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>400</PointerOffset>
-    <JapaneseText>今はとにかく、確実にお宝を</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>27</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>428</PointerOffset>
-    <JapaneseText>手に入れる事を考えましょ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>28</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>453</PointerOffset>
-    <JapaneseText>お宝ざっくざく……。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>29</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>475</PointerOffset>
-    <JapaneseText>ガルドの海で泳げちゃうかも∀</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>30</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>504</PointerOffset>
-    <JapaneseText>も〜〜〜、たまら〜〜〜ん！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>31</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>533</PointerOffset>
-    <JapaneseText>って、全然聞いてないわね。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>32</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>561</PointerOffset>
-    <JapaneseText>この子……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>33</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>306</PointerOffset>
+      <JapaneseText>く〜〜っ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>318</PointerOffset>
+      <JapaneseText>何だか燃えて来たぁ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>341</PointerOffset>
+      <JapaneseText>燃えるのはいいけど、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>363</PointerOffset>
+      <JapaneseText>あまり先走らない様にね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>388</PointerOffset>
+      <JapaneseText>そうそう。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>400</PointerOffset>
+      <JapaneseText>今はとにかく、確実にお宝を</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>428</PointerOffset>
+      <JapaneseText>手に入れる事を考えましょ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>453</PointerOffset>
+      <JapaneseText>お宝ざっくざく……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>475</PointerOffset>
+      <JapaneseText>ガルドの海で泳げちゃうかも∀</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>504</PointerOffset>
+      <JapaneseText>も〜〜〜、たまら〜〜〜ん！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>533</PointerOffset>
+      <JapaneseText>って、全然聞いてないわね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>561</PointerOffset>
+      <JapaneseText>この子……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

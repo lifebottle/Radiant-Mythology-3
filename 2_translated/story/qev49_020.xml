@@ -1,43 +1,47 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>151</PointerOffset>
-    <JapaneseText>やっぱり、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>10</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>163</PointerOffset>
-    <JapaneseText>行ってくれると思ったぞ、しかし</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>11</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>194</PointerOffset>
-    <JapaneseText>コーダ、お腹すいてるぞ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>12</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>220</PointerOffset>
-    <JapaneseText>しっかり取って来い。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>13</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>242</PointerOffset>
-    <JapaneseText>待ってるぞ、しかし</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>14</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>151</PointerOffset>
+      <JapaneseText>やっぱり、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>163</PointerOffset>
+      <JapaneseText>行ってくれると思ったぞ、しかし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>194</PointerOffset>
+      <JapaneseText>コーダ、お腹すいてるぞ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>220</PointerOffset>
+      <JapaneseText>しっかり取って来い。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>242</PointerOffset>
+      <JapaneseText>待ってるぞ、しかし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

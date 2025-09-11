@@ -1,163 +1,167 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>50</PointerOffset>
-    <JapaneseText>哈</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>3</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>482</PointerOffset>
-    <JapaneseText>哈</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>29</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>847</PointerOffset>
-    <JapaneseText>すごく、大きな力を感じる…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>49</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>874</PointerOffset>
-    <JapaneseText>ううん、これは意志。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>50</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>896</PointerOffset>
-    <JapaneseText>生きたいという、意志…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>51</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>919</PointerOffset>
-    <JapaneseText>敵意と、羨望…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>52</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>934</PointerOffset>
-    <JapaneseText>不思議だ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>53</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>946</PointerOffset>
-    <JapaneseText>どうしてわかるんだろう…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>54</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>971</PointerOffset>
-    <JapaneseText>奴は、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>55</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>979</PointerOffset>
-    <JapaneseText>そなたの生命力を欲している</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>56</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1006</PointerOffset>
-    <JapaneseText>○○、構えろ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>57</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1022</PointerOffset>
-    <JapaneseText>来るぞ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>58</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1031</PointerOffset>
-    <JapaneseText>生命の場が近い証拠なのか…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>59</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1058</PointerOffset>
-    <JapaneseText>奴から、わずかに生命の鼓動を感じる。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>60</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1096</PointerOffset>
-    <JapaneseText>擬似的だった生命が、より完全な生命へ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>61</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1134</PointerOffset>
-    <JapaneseText>なろうとしているのだな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>62</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1157</PointerOffset>
-    <JapaneseText>奴は、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>63</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1165</PointerOffset>
-    <JapaneseText>そなたの生命力を欲している</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>64</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1192</PointerOffset>
-    <JapaneseText>○○、構えろ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>65</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1208</PointerOffset>
-    <JapaneseText>来るぞ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>66</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>50</PointerOffset>
+      <JapaneseText>哈</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>482</PointerOffset>
+      <JapaneseText>哈</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>847</PointerOffset>
+      <JapaneseText>すごく、大きな力を感じる…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>874</PointerOffset>
+      <JapaneseText>ううん、これは意志。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>896</PointerOffset>
+      <JapaneseText>生きたいという、意志…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>919</PointerOffset>
+      <JapaneseText>敵意と、羨望…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>934</PointerOffset>
+      <JapaneseText>不思議だ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>946</PointerOffset>
+      <JapaneseText>どうしてわかるんだろう…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>971</PointerOffset>
+      <JapaneseText>奴は、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>979</PointerOffset>
+      <JapaneseText>そなたの生命力を欲している</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1006</PointerOffset>
+      <JapaneseText>○○、構えろ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1022</PointerOffset>
+      <JapaneseText>来るぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1031</PointerOffset>
+      <JapaneseText>生命の場が近い証拠なのか…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1058</PointerOffset>
+      <JapaneseText>奴から、わずかに生命の鼓動を感じる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1096</PointerOffset>
+      <JapaneseText>擬似的だった生命が、より完全な生命へ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1134</PointerOffset>
+      <JapaneseText>なろうとしているのだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1157</PointerOffset>
+      <JapaneseText>奴は、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1165</PointerOffset>
+      <JapaneseText>そなたの生命力を欲している</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1192</PointerOffset>
+      <JapaneseText>○○、構えろ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1208</PointerOffset>
+      <JapaneseText>来るぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

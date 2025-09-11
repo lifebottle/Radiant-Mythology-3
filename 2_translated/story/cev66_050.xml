@@ -1,115 +1,119 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>463</PointerOffset>
-    <JapaneseText>ねー、ジュディス。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>31</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>483</PointerOffset>
-    <JapaneseText>「ボクの」指、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>32</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>499</PointerOffset>
-    <JapaneseText>どれでもいいから握ってみて！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>33</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>528</PointerOffset>
-    <JapaneseText>あら。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>34</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>536</PointerOffset>
-    <JapaneseText>何かのテストかしら？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>35</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>557</PointerOffset>
-    <JapaneseText>うん！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>36</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>565</PointerOffset>
-    <JapaneseText>ちょっとした心理テストなんだ♪</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>37</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>596</PointerOffset>
-    <JapaneseText>それなら、はい、ココ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>38</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>617</PointerOffset>
-    <JapaneseText>ひょ、ひょっと！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>39</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>635</PointerOffset>
-    <JapaneseText>ひょれは、ボキュの鼻ぢゃヨ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>40</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>664</PointerOffset>
-    <JapaneseText>うふふ、そうだったかしら？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>41</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>691</PointerOffset>
-    <JapaneseText>そんなに慌てて……。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>42</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>713</PointerOffset>
-    <JapaneseText>かわいいカウンセラーさんね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>43</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>740</PointerOffset>
-    <JapaneseText>も、もうーーー！！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>44</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>463</PointerOffset>
+      <JapaneseText>ねー、ジュディス。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>483</PointerOffset>
+      <JapaneseText>「ボクの」指、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>499</PointerOffset>
+      <JapaneseText>どれでもいいから握ってみて！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>528</PointerOffset>
+      <JapaneseText>あら。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>536</PointerOffset>
+      <JapaneseText>何かのテストかしら？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>557</PointerOffset>
+      <JapaneseText>うん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>565</PointerOffset>
+      <JapaneseText>ちょっとした心理テストなんだ♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>596</PointerOffset>
+      <JapaneseText>それなら、はい、ココ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>617</PointerOffset>
+      <JapaneseText>ひょ、ひょっと！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>635</PointerOffset>
+      <JapaneseText>ひょれは、ボキュの鼻ぢゃヨ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>664</PointerOffset>
+      <JapaneseText>うふふ、そうだったかしら？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>691</PointerOffset>
+      <JapaneseText>そんなに慌てて……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>713</PointerOffset>
+      <JapaneseText>かわいいカウンセラーさんね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>740</PointerOffset>
+      <JapaneseText>も、もうーーー！！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

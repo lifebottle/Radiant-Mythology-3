@@ -1,163 +1,167 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>512</PointerOffset>
-    <JapaneseText>痛ったたた……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>37</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>527</PointerOffset>
-    <JapaneseText>あともう少し、我慢して下さいね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>38</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>558</PointerOffset>
-    <JapaneseText>きちんと殺菌消毒をしないと</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>39</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>586</PointerOffset>
-    <JapaneseText>傷口が化膿してしまいますから……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>40</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>619</PointerOffset>
-    <JapaneseText>うん、大丈夫。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>41</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>635</PointerOffset>
-    <JapaneseText>わかってるよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>42</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>648</PointerOffset>
-    <JapaneseText>……何か、ごめんね。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>43</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>670</PointerOffset>
-    <JapaneseText>アニーには、いつも心配させて</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>44</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>700</PointerOffset>
-    <JapaneseText>迷惑ばっかりかけちゃってるね……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>45</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>733</PointerOffset>
-    <JapaneseText>何言ってるんですか。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>46</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>755</PointerOffset>
-    <JapaneseText>そんな事ないですよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>47</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>774</PointerOffset>
-    <JapaneseText>そうかな？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>48</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>785</PointerOffset>
-    <JapaneseText>そうですよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>49</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>796</PointerOffset>
-    <JapaneseText>迷惑だと思っていたら、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>50</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>820</PointerOffset>
-    <JapaneseText>もっと染みる消毒液を使っています</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>51</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>853</PointerOffset>
-    <JapaneseText>えッ！？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>52</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>862</PointerOffset>
-    <JapaneseText>……なんて。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>53</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>876</PointerOffset>
-    <JapaneseText>冗談です</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>54</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>885</PointerOffset>
-    <JapaneseText>今、目が笑ってなかった</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>55</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>909</PointerOffset>
-    <JapaneseText>気がするけど……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>56</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>512</PointerOffset>
+      <JapaneseText>痛ったたた……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>527</PointerOffset>
+      <JapaneseText>あともう少し、我慢して下さいね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>558</PointerOffset>
+      <JapaneseText>きちんと殺菌消毒をしないと</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>586</PointerOffset>
+      <JapaneseText>傷口が化膿してしまいますから……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>619</PointerOffset>
+      <JapaneseText>うん、大丈夫。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>635</PointerOffset>
+      <JapaneseText>わかってるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>648</PointerOffset>
+      <JapaneseText>……何か、ごめんね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>670</PointerOffset>
+      <JapaneseText>アニーには、いつも心配させて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>700</PointerOffset>
+      <JapaneseText>迷惑ばっかりかけちゃってるね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>733</PointerOffset>
+      <JapaneseText>何言ってるんですか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>755</PointerOffset>
+      <JapaneseText>そんな事ないですよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>774</PointerOffset>
+      <JapaneseText>そうかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>785</PointerOffset>
+      <JapaneseText>そうですよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>796</PointerOffset>
+      <JapaneseText>迷惑だと思っていたら、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>820</PointerOffset>
+      <JapaneseText>もっと染みる消毒液を使っています</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>853</PointerOffset>
+      <JapaneseText>えッ！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>862</PointerOffset>
+      <JapaneseText>……なんて。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>876</PointerOffset>
+      <JapaneseText>冗談です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>885</PointerOffset>
+      <JapaneseText>今、目が笑ってなかった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>909</PointerOffset>
+      <JapaneseText>気がするけど……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

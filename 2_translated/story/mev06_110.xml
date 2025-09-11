@@ -1,115 +1,119 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>504</PointerOffset>
-    <JapaneseText>光気丹術経、ざっと目を通してみたけど。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>29</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>544</PointerOffset>
-    <JapaneseText>やっぱり、これはソウルアルケミーの</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>30</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>580</PointerOffset>
-    <JapaneseText>技術の一端よ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>31</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>593</PointerOffset>
-    <JapaneseText>こないだが聞いた、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>32</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>613</PointerOffset>
-    <JapaneseText>魔術の曙な技術だな！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>33</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>634</PointerOffset>
-    <JapaneseText>でも、それは一体どういうものなの？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>34</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>669</PointerOffset>
-    <JapaneseText>根底にある理論として、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>35</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>693</PointerOffset>
-    <JapaneseText>まず全ての物質は「ドクメント」を</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>36</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>727</PointerOffset>
-    <JapaneseText>持ってる、って事よ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>37</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>746</PointerOffset>
-    <JapaneseText>ドクメント？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>38</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>759</PointerOffset>
-    <JapaneseText>見せた方が早いんじゃない？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>39</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>786</PointerOffset>
-    <JapaneseText>そうね、じゃあメルディ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>40</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>812</PointerOffset>
-    <JapaneseText>ちょっと協力して</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>41</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>829</PointerOffset>
-    <JapaneseText>はいな！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>42</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>504</PointerOffset>
+      <JapaneseText>光気丹術経、ざっと目を通してみたけど。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>544</PointerOffset>
+      <JapaneseText>やっぱり、これはソウルアルケミーの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>580</PointerOffset>
+      <JapaneseText>技術の一端よ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>593</PointerOffset>
+      <JapaneseText>こないだが聞いた、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>613</PointerOffset>
+      <JapaneseText>魔術の曙な技術だな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>634</PointerOffset>
+      <JapaneseText>でも、それは一体どういうものなの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>669</PointerOffset>
+      <JapaneseText>根底にある理論として、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>693</PointerOffset>
+      <JapaneseText>まず全ての物質は「ドクメント」を</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>727</PointerOffset>
+      <JapaneseText>持ってる、って事よ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>746</PointerOffset>
+      <JapaneseText>ドクメント？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>759</PointerOffset>
+      <JapaneseText>見せた方が早いんじゃない？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>786</PointerOffset>
+      <JapaneseText>そうね、じゃあメルディ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>812</PointerOffset>
+      <JapaneseText>ちょっと協力して</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>829</PointerOffset>
+      <JapaneseText>はいな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

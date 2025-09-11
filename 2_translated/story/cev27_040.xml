@@ -1,115 +1,119 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>22</PointerOffset>
-    <JapaneseText>傲</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>2</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>470</PointerOffset>
-    <JapaneseText>シャボン液が毒って……。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>37</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>496</PointerOffset>
-    <JapaneseText>まさかとは思ったけど、本当だったのね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>38</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>533</PointerOffset>
-    <JapaneseText>言われてみれば、確かに</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>39</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>557</PointerOffset>
-    <JapaneseText>それしかつじつまが合わないんだけど……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>40</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>596</PointerOffset>
-    <JapaneseText>でも、一歩間違えたら</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>41</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>618</PointerOffset>
-    <JapaneseText>毒の液体を吸い込んじゃうかも</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>42</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>648</PointerOffset>
-    <JapaneseText>しれないのに……無茶するよなぁ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>43</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>679</PointerOffset>
-    <JapaneseText>ねえねえ、二人とも！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>44</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>700</PointerOffset>
-    <JapaneseText>ノーマがね、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>45</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>714</PointerOffset>
-    <JapaneseText>シャボン玉の液を作ってくれたの</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>46</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>745</PointerOffset>
-    <JapaneseText>みんなで一緒に、シャボン玉しよ？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>47</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>778</PointerOffset>
-    <JapaneseText>エミル・マルタ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>48</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>793</PointerOffset>
-    <JapaneseText>ちょっと待てええ〜〜〜いっっ！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>49</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>22</PointerOffset>
+      <JapaneseText>傲</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>470</PointerOffset>
+      <JapaneseText>シャボン液が毒って……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>496</PointerOffset>
+      <JapaneseText>まさかとは思ったけど、本当だったのね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>533</PointerOffset>
+      <JapaneseText>言われてみれば、確かに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>557</PointerOffset>
+      <JapaneseText>それしかつじつまが合わないんだけど……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>596</PointerOffset>
+      <JapaneseText>でも、一歩間違えたら</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>618</PointerOffset>
+      <JapaneseText>毒の液体を吸い込んじゃうかも</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>648</PointerOffset>
+      <JapaneseText>しれないのに……無茶するよなぁ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>679</PointerOffset>
+      <JapaneseText>ねえねえ、二人とも！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>700</PointerOffset>
+      <JapaneseText>ノーマがね、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>714</PointerOffset>
+      <JapaneseText>シャボン玉の液を作ってくれたの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>745</PointerOffset>
+      <JapaneseText>みんなで一緒に、シャボン玉しよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>778</PointerOffset>
+      <JapaneseText>エミル・マルタ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>793</PointerOffset>
+      <JapaneseText>ちょっと待てええ〜〜〜いっっ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

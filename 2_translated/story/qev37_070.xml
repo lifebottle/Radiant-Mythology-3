@@ -1,51 +1,55 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>46</PointerOffset>
-    <JapaneseText>撩</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>2</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>315</PointerOffset>
-    <JapaneseText>いたわね…。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>18</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>329</PointerOffset>
-    <JapaneseText>輝ける光器、レディアント…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>19</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>356</PointerOffset>
-    <JapaneseText>どう？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>20</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>364</PointerOffset>
-    <JapaneseText>もちろん挑むんでしょう？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>21</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>389</PointerOffset>
-    <JapaneseText>それじゃ、行きましょう</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>22</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>46</PointerOffset>
+      <JapaneseText>撩</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>315</PointerOffset>
+      <JapaneseText>いたわね…。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>329</PointerOffset>
+      <JapaneseText>輝ける光器、レディアント…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>356</PointerOffset>
+      <JapaneseText>どう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>364</PointerOffset>
+      <JapaneseText>もちろん挑むんでしょう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>389</PointerOffset>
+      <JapaneseText>それじゃ、行きましょう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

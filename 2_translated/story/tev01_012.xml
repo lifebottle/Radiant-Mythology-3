@@ -1,27 +1,31 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>42</PointerOffset>
-    <JapaneseText>ダンジョンを移動する</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>3</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>64</PointerOffset>
-    <JapaneseText>モンスターシンボルと接触すると、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>4</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>98</PointerOffset>
-    <JapaneseText>戦闘開始となります</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>5</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>42</PointerOffset>
+      <JapaneseText>ダンジョンを移動する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>64</PointerOffset>
+      <JapaneseText>モンスターシンボルと接触すると、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>98</PointerOffset>
+      <JapaneseText>戦闘開始となります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

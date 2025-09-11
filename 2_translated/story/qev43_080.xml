@@ -1,43 +1,47 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>275</PointerOffset>
-    <JapaneseText>ぷぷぷ、負けて悔しいかパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>14</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>305</PointerOffset>
-    <JapaneseText>だからって、何度来てもムダパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>15</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>339</PointerOffset>
-    <JapaneseText>何回やっても、小生が勝つパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>16</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>370</PointerOffset>
-    <JapaneseText>ワンダーパン職人流パン術を、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>17</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>400</PointerOffset>
-    <JapaneseText>何度でも味合わせてやるパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>18</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>275</PointerOffset>
+      <JapaneseText>ぷぷぷ、負けて悔しいかパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>305</PointerOffset>
+      <JapaneseText>だからって、何度来てもムダパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>339</PointerOffset>
+      <JapaneseText>何回やっても、小生が勝つパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>370</PointerOffset>
+      <JapaneseText>ワンダーパン職人流パン術を、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>400</PointerOffset>
+      <JapaneseText>何度でも味合わせてやるパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

@@ -1,155 +1,159 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>354</PointerOffset>
-    <JapaneseText>ところで、今回の</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>26</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>372</PointerOffset>
-    <JapaneseText>レディアント　マイソロジーは</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>27</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>402</PointerOffset>
-    <JapaneseText>三作目になるらしいが…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>28</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>425</PointerOffset>
-    <JapaneseText>そうそう、だけど、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>29</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>445</PointerOffset>
-    <JapaneseText>あたしとベルベルは</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>30</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>465</PointerOffset>
-    <JapaneseText>今回からの参加だしー</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>31</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>486</PointerOffset>
-    <JapaneseText>ベ、ベルベル？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>32</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>501</PointerOffset>
-    <JapaneseText>そ！　あんたはベルベル！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>33</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>526</PointerOffset>
-    <JapaneseText>それはこっちに置いといて。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>34</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>554</PointerOffset>
-    <JapaneseText>ねえねえ、前作からガツンとパワーアップ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>35</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>594</PointerOffset>
-    <JapaneseText>したとこ、一杯あるんでしょ〜？？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>36</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>627</PointerOffset>
-    <JapaneseText>そういうの、教えてよ〜〜！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>37</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>654</PointerOffset>
-    <JapaneseText>そうだな。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>38</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>666</PointerOffset>
-    <JapaneseText>お前があだ名を付けなきゃなんねえ奴が</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>39</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>704</PointerOffset>
-    <JapaneseText>前作より大勢いるって事だな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>40</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>731</PointerOffset>
-    <JapaneseText>マジ！？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>41</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>741</PointerOffset>
-    <JapaneseText>前作よりすっごい、一杯…？？？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>42</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>772</PointerOffset>
-    <JapaneseText>ああ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>43</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>780</PointerOffset>
-    <JapaneseText>そんだけオレ達の仲間が増えるって事だ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>44</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>354</PointerOffset>
+      <JapaneseText>ところで、今回の</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>372</PointerOffset>
+      <JapaneseText>レディアント　マイソロジーは</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>402</PointerOffset>
+      <JapaneseText>三作目になるらしいが…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>425</PointerOffset>
+      <JapaneseText>そうそう、だけど、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>445</PointerOffset>
+      <JapaneseText>あたしとベルベルは</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>465</PointerOffset>
+      <JapaneseText>今回からの参加だしー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>486</PointerOffset>
+      <JapaneseText>ベ、ベルベル？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>501</PointerOffset>
+      <JapaneseText>そ！　あんたはベルベル！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>526</PointerOffset>
+      <JapaneseText>それはこっちに置いといて。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>554</PointerOffset>
+      <JapaneseText>ねえねえ、前作からガツンとパワーアップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>594</PointerOffset>
+      <JapaneseText>したとこ、一杯あるんでしょ〜？？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>627</PointerOffset>
+      <JapaneseText>そういうの、教えてよ〜〜！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>654</PointerOffset>
+      <JapaneseText>そうだな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>666</PointerOffset>
+      <JapaneseText>お前があだ名を付けなきゃなんねえ奴が</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>704</PointerOffset>
+      <JapaneseText>前作より大勢いるって事だな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>731</PointerOffset>
+      <JapaneseText>マジ！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>741</PointerOffset>
+      <JapaneseText>前作よりすっごい、一杯…？？？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>772</PointerOffset>
+      <JapaneseText>ああ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>780</PointerOffset>
+      <JapaneseText>そんだけオレ達の仲間が増えるって事だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

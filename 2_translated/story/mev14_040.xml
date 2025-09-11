@@ -1,147 +1,151 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>492</PointerOffset>
-    <JapaneseText>奩</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>34</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>747</PointerOffset>
-    <JapaneseText>すごい！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>47</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>757</PointerOffset>
-    <JapaneseText>ここが世界文化遺産の「生命讃歌の間」…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>48</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>796</PointerOffset>
-    <JapaneseText>色んな化石がある</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>49</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>813</PointerOffset>
-    <JapaneseText>これらの化石は自然の調和、絡み合いを</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>50</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>851</PointerOffset>
-    <JapaneseText>表しているものらしいわよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>51</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>876</PointerOffset>
-    <JapaneseText>様々な植物、生き物、ヒト…、世界樹…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>52</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>913</PointerOffset>
-    <JapaneseText>いつから、ヒトは</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>53</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>931</PointerOffset>
-    <JapaneseText>調和を見失ったんだろうね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>54</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>956</PointerOffset>
-    <JapaneseText>ええと、渡された資料によると</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>55</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>985</PointerOffset>
-    <JapaneseText>どうやら、これの様ね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>56</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1006</PointerOffset>
-    <JapaneseText>（…スルーされたっ…）</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>57</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1029</PointerOffset>
-    <JapaneseText>でも、ま、不満ばっかり言ってもね…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>58</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1064</PointerOffset>
-    <JapaneseText>えっ…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>59</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1071</PointerOffset>
-    <JapaneseText>先へ進まなきゃ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>60</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1089</PointerOffset>
-    <JapaneseText>昔は昔、今は今でしょ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>61</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1110</PointerOffset>
-    <JapaneseText>さあ、化石も手に入れられたし</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>62</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1140</PointerOffset>
-    <JapaneseText>ここを出るわよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>63</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>492</PointerOffset>
+      <JapaneseText>奩</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>747</PointerOffset>
+      <JapaneseText>すごい！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>757</PointerOffset>
+      <JapaneseText>ここが世界文化遺産の「生命讃歌の間」…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>796</PointerOffset>
+      <JapaneseText>色んな化石がある</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>813</PointerOffset>
+      <JapaneseText>これらの化石は自然の調和、絡み合いを</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>851</PointerOffset>
+      <JapaneseText>表しているものらしいわよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>876</PointerOffset>
+      <JapaneseText>様々な植物、生き物、ヒト…、世界樹…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>913</PointerOffset>
+      <JapaneseText>いつから、ヒトは</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>931</PointerOffset>
+      <JapaneseText>調和を見失ったんだろうね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>956</PointerOffset>
+      <JapaneseText>ええと、渡された資料によると</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>985</PointerOffset>
+      <JapaneseText>どうやら、これの様ね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1006</PointerOffset>
+      <JapaneseText>（…スルーされたっ…）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1029</PointerOffset>
+      <JapaneseText>でも、ま、不満ばっかり言ってもね…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1064</PointerOffset>
+      <JapaneseText>えっ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1071</PointerOffset>
+      <JapaneseText>先へ進まなきゃ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1089</PointerOffset>
+      <JapaneseText>昔は昔、今は今でしょ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1110</PointerOffset>
+      <JapaneseText>さあ、化石も手に入れられたし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1140</PointerOffset>
+      <JapaneseText>ここを出るわよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

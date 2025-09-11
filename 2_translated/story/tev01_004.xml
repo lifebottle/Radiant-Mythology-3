@@ -1,27 +1,31 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>126</PointerOffset>
-    <JapaneseText>ええと、この先へ進む為に橋を架けなきゃ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>8</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>173</PointerOffset>
-    <JapaneseText>ボタンを押してもらってもいいかな？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>10</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>209</PointerOffset>
-    <JapaneseText>○ボタンで出来るよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>11</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>126</PointerOffset>
+      <JapaneseText>ええと、この先へ進む為に橋を架けなきゃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>173</PointerOffset>
+      <JapaneseText>ボタンを押してもらってもいいかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>209</PointerOffset>
+      <JapaneseText>○ボタンで出来るよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

@@ -1,43 +1,47 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>172</PointerOffset>
-    <JapaneseText>んー、んまそうだなー、しかし。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>10</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>204</PointerOffset>
-    <JapaneseText>しかし、楽しみだな！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>11</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>225</PointerOffset>
-    <JapaneseText>よし、○○。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>12</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>239</PointerOffset>
-    <JapaneseText>一緒に食うぞー！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>13</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>256</PointerOffset>
-    <JapaneseText>薬膳チャンプルーのレシピを覚えた！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>14</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>172</PointerOffset>
+      <JapaneseText>んー、んまそうだなー、しかし。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>204</PointerOffset>
+      <JapaneseText>しかし、楽しみだな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>225</PointerOffset>
+      <JapaneseText>よし、○○。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>239</PointerOffset>
+      <JapaneseText>一緒に食うぞー！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>256</PointerOffset>
+      <JapaneseText>薬膳チャンプルーのレシピを覚えた！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

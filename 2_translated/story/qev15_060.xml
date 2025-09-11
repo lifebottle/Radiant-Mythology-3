@@ -1,147 +1,151 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>386</PointerOffset>
-    <JapaneseText>傲</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>28</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>546</PointerOffset>
-    <JapaneseText>リヒターさん、ありがとうございました</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>38</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>583</PointerOffset>
-    <JapaneseText>礼なら</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>39</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>591</PointerOffset>
-    <JapaneseText>○○に言っておけ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>40</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>608</PointerOffset>
-    <JapaneseText>お前のフォローの為に、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>41</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>632</PointerOffset>
-    <JapaneseText>わざわざ時間を割いてくれたのだからな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>42</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>669</PointerOffset>
-    <JapaneseText>あ……、そうか</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>43</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>684</PointerOffset>
-    <JapaneseText>ありがとう、○○</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>44</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>701</PointerOffset>
-    <JapaneseText>あっ、リヒターさん！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>45</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>722</PointerOffset>
-    <JapaneseText>今度は何だ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>46</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>733</PointerOffset>
-    <JapaneseText>その……。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>47</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>745</PointerOffset>
-    <JapaneseText>ま、また、一緒に行ってくれますか？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>48</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>780</PointerOffset>
-    <JapaneseText>もう教える事はない</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>49</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>799</PointerOffset>
-    <JapaneseText>えっ……。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>50</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>811</PointerOffset>
-    <JapaneseText>それってどういう……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>51</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>832</PointerOffset>
-    <JapaneseText>……行っちゃった</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>52</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>849</PointerOffset>
-    <JapaneseText>リヒターさんって……、何だか</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>53</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>879</PointerOffset>
-    <JapaneseText>不思議な人だなぁ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>54</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>386</PointerOffset>
+      <JapaneseText>傲</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>546</PointerOffset>
+      <JapaneseText>リヒターさん、ありがとうございました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>583</PointerOffset>
+      <JapaneseText>礼なら</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>591</PointerOffset>
+      <JapaneseText>○○に言っておけ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>608</PointerOffset>
+      <JapaneseText>お前のフォローの為に、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>632</PointerOffset>
+      <JapaneseText>わざわざ時間を割いてくれたのだからな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>669</PointerOffset>
+      <JapaneseText>あ……、そうか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>684</PointerOffset>
+      <JapaneseText>ありがとう、○○</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>701</PointerOffset>
+      <JapaneseText>あっ、リヒターさん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>722</PointerOffset>
+      <JapaneseText>今度は何だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>733</PointerOffset>
+      <JapaneseText>その……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>745</PointerOffset>
+      <JapaneseText>ま、また、一緒に行ってくれますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>780</PointerOffset>
+      <JapaneseText>もう教える事はない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>799</PointerOffset>
+      <JapaneseText>えっ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>811</PointerOffset>
+      <JapaneseText>それってどういう……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>832</PointerOffset>
+      <JapaneseText>……行っちゃった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>849</PointerOffset>
+      <JapaneseText>リヒターさんって……、何だか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>879</PointerOffset>
+      <JapaneseText>不思議な人だなぁ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

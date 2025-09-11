@@ -1,35 +1,39 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>328</PointerOffset>
-    <JapaneseText>…こっちか。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>19</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>342</PointerOffset>
-    <JapaneseText>セルシウスの言う通り、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>20</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>366</PointerOffset>
-    <JapaneseText>通れる様になっているな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>21</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>389</PointerOffset>
-    <JapaneseText>んじゃ、行こうぜ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>22</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>328</PointerOffset>
+      <JapaneseText>…こっちか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>342</PointerOffset>
+      <JapaneseText>セルシウスの言う通り、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>366</PointerOffset>
+      <JapaneseText>通れる様になっているな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>389</PointerOffset>
+      <JapaneseText>んじゃ、行こうぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

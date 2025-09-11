@@ -1,155 +1,159 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>476</PointerOffset>
-    <JapaneseText>傲</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>35</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>619</PointerOffset>
-    <JapaneseText>あらあら、相変わらず</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>44</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>641</PointerOffset>
-    <JapaneseText>ニヒルに決めちゃってるねぇ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>45</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>668</PointerOffset>
-    <JapaneseText>そういう寡黙なところに</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>46</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>692</PointerOffset>
-    <JapaneseText>女子は惹かれちゃうのかな？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>47</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>719</PointerOffset>
-    <JapaneseText>おっさんも、そーんな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>48</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>741</PointerOffset>
-    <JapaneseText>クールな流し目出来たら</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>49</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>765</PointerOffset>
-    <JapaneseText>みーんなイチコロになっちゃうかしら？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>50</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>811</PointerOffset>
-    <JapaneseText>ねぇねぇ〜。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>52</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>825</PointerOffset>
-    <JapaneseText>おっさんにも、ニヒルになるコツ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>53</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>857</PointerOffset>
-    <JapaneseText>教えてちょうだいよ〜。　つんつん</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>54</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>890</PointerOffset>
-    <JapaneseText>おっさんも、モテたいぞー！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>55</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>917</PointerOffset>
-    <JapaneseText>下世話な事ばかり言ってんじゃねぇ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>56</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>953</PointerOffset>
-    <JapaneseText>お前と話す事は何もない！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>57</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>978</PointerOffset>
-    <JapaneseText>まーったく。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>58</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>992</PointerOffset>
-    <JapaneseText>あんなにツンツンしてちゃ、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>59</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1020</PointerOffset>
-    <JapaneseText>疲れるだろうに</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>60</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1035</PointerOffset>
-    <JapaneseText>もっと気楽にやんないとさ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>61</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1063</PointerOffset>
-    <JapaneseText>ねぇ？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>62</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>476</PointerOffset>
+      <JapaneseText>傲</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>619</PointerOffset>
+      <JapaneseText>あらあら、相変わらず</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>641</PointerOffset>
+      <JapaneseText>ニヒルに決めちゃってるねぇ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>668</PointerOffset>
+      <JapaneseText>そういう寡黙なところに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>692</PointerOffset>
+      <JapaneseText>女子は惹かれちゃうのかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>719</PointerOffset>
+      <JapaneseText>おっさんも、そーんな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>741</PointerOffset>
+      <JapaneseText>クールな流し目出来たら</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>765</PointerOffset>
+      <JapaneseText>みーんなイチコロになっちゃうかしら？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>811</PointerOffset>
+      <JapaneseText>ねぇねぇ〜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>825</PointerOffset>
+      <JapaneseText>おっさんにも、ニヒルになるコツ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>857</PointerOffset>
+      <JapaneseText>教えてちょうだいよ〜。　つんつん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>890</PointerOffset>
+      <JapaneseText>おっさんも、モテたいぞー！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>917</PointerOffset>
+      <JapaneseText>下世話な事ばかり言ってんじゃねぇ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>953</PointerOffset>
+      <JapaneseText>お前と話す事は何もない！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>978</PointerOffset>
+      <JapaneseText>まーったく。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>992</PointerOffset>
+      <JapaneseText>あんなにツンツンしてちゃ、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1020</PointerOffset>
+      <JapaneseText>疲れるだろうに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1035</PointerOffset>
+      <JapaneseText>もっと気楽にやんないとさ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1063</PointerOffset>
+      <JapaneseText>ねぇ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

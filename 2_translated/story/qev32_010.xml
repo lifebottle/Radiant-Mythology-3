@@ -1,83 +1,87 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>268</PointerOffset>
-    <JapaneseText>ああ、○○でしたか</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>17</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>287</PointerOffset>
-    <JapaneseText>いえ、実はあなたにぴったりの</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>18</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>317</PointerOffset>
-    <JapaneseText>頼み事が出来そうでして</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>19</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>340</PointerOffset>
-    <JapaneseText>後で、また来て頂けますよね？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>20</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>378</PointerOffset>
-    <JapaneseText>もちろん、無理にとは言いません。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>22</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>412</PointerOffset>
-    <JapaneseText>時間に都合の付く時で構いませんし</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>23</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>445</PointerOffset>
-    <JapaneseText>頼りにしていますよ、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>24</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>472</PointerOffset>
-    <JapaneseText>クエスト「お金大好き∀」が</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>26</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>500</PointerOffset>
-    <JapaneseText>エントリーされました。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>27</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>524</PointerOffset>
-    <JapaneseText>ジェイドから受ける事が出来ます</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>28</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>268</PointerOffset>
+      <JapaneseText>ああ、○○でしたか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>287</PointerOffset>
+      <JapaneseText>いえ、実はあなたにぴったりの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>317</PointerOffset>
+      <JapaneseText>頼み事が出来そうでして</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>340</PointerOffset>
+      <JapaneseText>後で、また来て頂けますよね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>378</PointerOffset>
+      <JapaneseText>もちろん、無理にとは言いません。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>412</PointerOffset>
+      <JapaneseText>時間に都合の付く時で構いませんし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>445</PointerOffset>
+      <JapaneseText>頼りにしていますよ、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>472</PointerOffset>
+      <JapaneseText>クエスト「お金大好き∀」が</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>500</PointerOffset>
+      <JapaneseText>エントリーされました。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>524</PointerOffset>
+      <JapaneseText>ジェイドから受ける事が出来ます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

@@ -1,123 +1,127 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>737</PointerOffset>
-    <JapaneseText>よっと……、こうして……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>52</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>762</PointerOffset>
-    <JapaneseText>お〜、出来た！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>53</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>778</PointerOffset>
-    <JapaneseText>自作扇風機の完成だぜ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>54</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>801</PointerOffset>
-    <JapaneseText>早速、動かしてみるか</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>55</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>822</PointerOffset>
-    <JapaneseText>お〜、こりゃ涼しいねぇ〜。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>56</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>850</PointerOffset>
-    <JapaneseText>我ながらほれぼれするデキだ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>57</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>879</PointerOffset>
-    <JapaneseText>あ〜〜〜〜〜〜〜〜〜〜〜〜〜〜。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>58</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>913</PointerOffset>
-    <JapaneseText>あ〜〜〜〜〜〜〜〜〜〜〜〜〜〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>59</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>944</PointerOffset>
-    <JapaneseText>「わ〜れ〜わ〜れ〜は〜……」</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>60</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>973</PointerOffset>
-    <JapaneseText>何をしている？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>61</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>988</PointerOffset>
-    <JapaneseText>お〜〜、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>62</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>998</PointerOffset>
-    <JapaneseText>いっ〜しょに〜、や〜る〜か〜？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>63</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1029</PointerOffset>
-    <JapaneseText>ふ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>64</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1036</PointerOffset>
-    <JapaneseText>そう言えば、幼少の頃も、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>65</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1062</PointerOffset>
-    <JapaneseText>同じ事をしていたな……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>66</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>737</PointerOffset>
+      <JapaneseText>よっと……、こうして……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>762</PointerOffset>
+      <JapaneseText>お〜、出来た！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>778</PointerOffset>
+      <JapaneseText>自作扇風機の完成だぜ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>801</PointerOffset>
+      <JapaneseText>早速、動かしてみるか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>822</PointerOffset>
+      <JapaneseText>お〜、こりゃ涼しいねぇ〜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>850</PointerOffset>
+      <JapaneseText>我ながらほれぼれするデキだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>879</PointerOffset>
+      <JapaneseText>あ〜〜〜〜〜〜〜〜〜〜〜〜〜〜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>913</PointerOffset>
+      <JapaneseText>あ〜〜〜〜〜〜〜〜〜〜〜〜〜〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>944</PointerOffset>
+      <JapaneseText>「わ〜れ〜わ〜れ〜は〜……」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>973</PointerOffset>
+      <JapaneseText>何をしている？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>988</PointerOffset>
+      <JapaneseText>お〜〜、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>998</PointerOffset>
+      <JapaneseText>いっ〜しょに〜、や〜る〜か〜？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1029</PointerOffset>
+      <JapaneseText>ふ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1036</PointerOffset>
+      <JapaneseText>そう言えば、幼少の頃も、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1062</PointerOffset>
+      <JapaneseText>同じ事をしていたな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

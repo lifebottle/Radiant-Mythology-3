@@ -1,35 +1,39 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>72</PointerOffset>
-    <JapaneseText>陜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>3</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>399</PointerOffset>
-    <JapaneseText>倒さねば、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>25</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>411</PointerOffset>
-    <JapaneseText>仕事は完了しないからな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>26</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>434</PointerOffset>
-    <JapaneseText>行くぞ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>27</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>72</PointerOffset>
+      <JapaneseText>陜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>399</PointerOffset>
+      <JapaneseText>倒さねば、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>411</PointerOffset>
+      <JapaneseText>仕事は完了しないからな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>434</PointerOffset>
+      <JapaneseText>行くぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

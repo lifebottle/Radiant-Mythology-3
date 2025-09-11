@@ -1,123 +1,127 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>158</PointerOffset>
-    <JapaneseText>筐</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>7</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>819</PointerOffset>
-    <JapaneseText>どうしたんですか、お嬢様。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>54</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>847</PointerOffset>
-    <JapaneseText>具合でも悪いんですか…？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>55</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>872</PointerOffset>
-    <JapaneseText>ううん。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>56</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>882</PointerOffset>
-    <JapaneseText>私…、命を食べてるんだなぁって</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>57</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>913</PointerOffset>
-    <JapaneseText>そうですよ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>58</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>927</PointerOffset>
-    <JapaneseText>食べるのは命を頂く事なんです</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>59</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>956</PointerOffset>
-    <JapaneseText>みんな、命をもらってるんです</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>60</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>985</PointerOffset>
-    <JapaneseText>だからいつも言いますよね？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>61</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1013</PointerOffset>
-    <JapaneseText>いただきます、ごちそうさま、って</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>62</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1046</PointerOffset>
-    <JapaneseText>うん…。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>63</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1056</PointerOffset>
-    <JapaneseText>いただきます</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>64</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1069</PointerOffset>
-    <JapaneseText>…いただきます</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>65</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1084</PointerOffset>
-    <JapaneseText>（繋がっていくんだ。　命は…）</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>66</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1115</PointerOffset>
-    <JapaneseText>（命を…ありがとう）</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>67</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>158</PointerOffset>
+      <JapaneseText>筐</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>819</PointerOffset>
+      <JapaneseText>どうしたんですか、お嬢様。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>847</PointerOffset>
+      <JapaneseText>具合でも悪いんですか…？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>872</PointerOffset>
+      <JapaneseText>ううん。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>882</PointerOffset>
+      <JapaneseText>私…、命を食べてるんだなぁって</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>913</PointerOffset>
+      <JapaneseText>そうですよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>927</PointerOffset>
+      <JapaneseText>食べるのは命を頂く事なんです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>956</PointerOffset>
+      <JapaneseText>みんな、命をもらってるんです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>985</PointerOffset>
+      <JapaneseText>だからいつも言いますよね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1013</PointerOffset>
+      <JapaneseText>いただきます、ごちそうさま、って</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1046</PointerOffset>
+      <JapaneseText>うん…。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1056</PointerOffset>
+      <JapaneseText>いただきます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1069</PointerOffset>
+      <JapaneseText>…いただきます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1084</PointerOffset>
+      <JapaneseText>（繋がっていくんだ。　命は…）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1115</PointerOffset>
+      <JapaneseText>（命を…ありがとう）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

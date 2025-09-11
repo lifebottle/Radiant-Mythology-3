@@ -1,99 +1,103 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>34</PointerOffset>
-    <JapaneseText>奩</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>2</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>316</PointerOffset>
-    <JapaneseText>アンジュ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>20</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>328</PointerOffset>
-    <JapaneseText>準備が整ったわ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>21</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>343</PointerOffset>
-    <JapaneseText>ええ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>22</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>351</PointerOffset>
-    <JapaneseText>それじゃあ、依頼として登録するね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>23</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>384</PointerOffset>
-    <JapaneseText>私も行っていい？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>24</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>401</PointerOffset>
-    <JapaneseText>いいわよ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>25</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>413</PointerOffset>
-    <JapaneseText>でも、念の為にもう一人、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>26</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>439</PointerOffset>
-    <JapaneseText>募集した方がいいかな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>27</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>460</PointerOffset>
-    <JapaneseText>そうね。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>28</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>470</PointerOffset>
-    <JapaneseText>腕に自信のありそうな奴</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>29</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>494</PointerOffset>
-    <JapaneseText>募集しといて</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>30</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>34</PointerOffset>
+      <JapaneseText>奩</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>316</PointerOffset>
+      <JapaneseText>アンジュ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>328</PointerOffset>
+      <JapaneseText>準備が整ったわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>343</PointerOffset>
+      <JapaneseText>ええ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>351</PointerOffset>
+      <JapaneseText>それじゃあ、依頼として登録するね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>384</PointerOffset>
+      <JapaneseText>私も行っていい？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>401</PointerOffset>
+      <JapaneseText>いいわよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>413</PointerOffset>
+      <JapaneseText>でも、念の為にもう一人、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>439</PointerOffset>
+      <JapaneseText>募集した方がいいかな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>460</PointerOffset>
+      <JapaneseText>そうね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>470</PointerOffset>
+      <JapaneseText>腕に自信のありそうな奴</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>494</PointerOffset>
+      <JapaneseText>募集しといて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

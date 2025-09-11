@@ -1,59 +1,63 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>226</PointerOffset>
-    <JapaneseText>ああ、今使ったのはソーサラーリングだ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>17</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>263</PointerOffset>
-    <JapaneseText>今回からは、シリーズ本編でおなじみの</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>18</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>301</PointerOffset>
-    <JapaneseText>このソーサラーリングが、色んな所で</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>19</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>337</PointerOffset>
-    <JapaneseText>使えるみたいだぞ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>20</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>354</PointerOffset>
-    <JapaneseText>という事は、このダンジョンの</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>21</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>384</PointerOffset>
-    <JapaneseText>どこかで使えるという事だな？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>22</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>413</PointerOffset>
-    <JapaneseText>ああ、楽しみにしてろよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>23</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>226</PointerOffset>
+      <JapaneseText>ああ、今使ったのはソーサラーリングだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263</PointerOffset>
+      <JapaneseText>今回からは、シリーズ本編でおなじみの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>301</PointerOffset>
+      <JapaneseText>このソーサラーリングが、色んな所で</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>337</PointerOffset>
+      <JapaneseText>使えるみたいだぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>354</PointerOffset>
+      <JapaneseText>という事は、このダンジョンの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>384</PointerOffset>
+      <JapaneseText>どこかで使えるという事だな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>413</PointerOffset>
+      <JapaneseText>ああ、楽しみにしてろよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

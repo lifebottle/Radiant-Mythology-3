@@ -1,27 +1,31 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>28</PointerOffset>
-    <JapaneseText>ここには金で買えないものがあるんだな、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>2</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>68</PointerOffset>
-    <JapaneseText>正味の話が。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>3</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>82</PointerOffset>
-    <JapaneseText>さー、正味の話が何を交換するんだ？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>4</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>28</PointerOffset>
+      <JapaneseText>ここには金で買えないものがあるんだな、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68</PointerOffset>
+      <JapaneseText>正味の話が。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>82</PointerOffset>
+      <JapaneseText>さー、正味の話が何を交換するんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

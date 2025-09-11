@@ -1,19 +1,23 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>64</PointerOffset>
-    <JapaneseText>入隊試験を済ませた事、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>5</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>88</PointerOffset>
-    <JapaneseText>アンジュさんに早く報告しなきゃね！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>6</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>64</PointerOffset>
+      <JapaneseText>入隊試験を済ませた事、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>88</PointerOffset>
+      <JapaneseText>アンジュさんに早く報告しなきゃね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

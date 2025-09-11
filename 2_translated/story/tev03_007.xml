@@ -1,35 +1,39 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>58</PointerOffset>
-    <JapaneseText>目的地への移動は、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>4</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>78</PointerOffset>
-    <JapaneseText>この「ワールドマップ」で行います</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>5</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>111</PointerOffset>
-    <JapaneseText>移動したい場所を選択して、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>6</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>139</PointerOffset>
-    <JapaneseText>○ボタンで決定です</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>7</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>58</PointerOffset>
+      <JapaneseText>目的地への移動は、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>78</PointerOffset>
+      <JapaneseText>この「ワールドマップ」で行います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>111</PointerOffset>
+      <JapaneseText>移動したい場所を選択して、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>139</PointerOffset>
+      <JapaneseText>○ボタンで決定です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

@@ -1,67 +1,71 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>134</PointerOffset>
-    <JapaneseText>先生によれば、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>10</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>150</PointerOffset>
-    <JapaneseText>彼女の行き先で心当たりがあるのは</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>11</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>184</PointerOffset>
-    <JapaneseText>この山だという事だ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>12</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>203</PointerOffset>
-    <JapaneseText>以前、先生と共に</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>13</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>221</PointerOffset>
-    <JapaneseText>この山を越えた事が</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>14</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>241</PointerOffset>
-    <JapaneseText>あったらしいのだが……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>15</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>273</PointerOffset>
-    <JapaneseText>ひとまず、順番に</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>17</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>291</PointerOffset>
-    <JapaneseText>道を辿っていくとしよう</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>18</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>134</PointerOffset>
+      <JapaneseText>先生によれば、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>150</PointerOffset>
+      <JapaneseText>彼女の行き先で心当たりがあるのは</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>184</PointerOffset>
+      <JapaneseText>この山だという事だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>203</PointerOffset>
+      <JapaneseText>以前、先生と共に</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>221</PointerOffset>
+      <JapaneseText>この山を越えた事が</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>241</PointerOffset>
+      <JapaneseText>あったらしいのだが……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273</PointerOffset>
+      <JapaneseText>ひとまず、順番に</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>291</PointerOffset>
+      <JapaneseText>道を辿っていくとしよう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

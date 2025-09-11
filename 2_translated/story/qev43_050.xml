@@ -1,139 +1,143 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>793</PointerOffset>
-    <JapaneseText>うう、ひどいパン……。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>52</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>817</PointerOffset>
-    <JapaneseText>は、話が違うパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>53</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>836</PointerOffset>
-    <JapaneseText>何がだよ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>54</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>848</PointerOffset>
-    <JapaneseText>決闘だって言ったのは、そっちだろ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>55</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>881</PointerOffset>
-    <JapaneseText>女子を相手に、本気なんてずるいパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>56</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>919</PointerOffset>
-    <JapaneseText>手加減をするべきパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>57</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>942</PointerOffset>
-    <JapaneseText>戦う以上は、本気に決まってるだろ？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>58</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>978</PointerOffset>
-    <JapaneseText>全く……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>59</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>987</PointerOffset>
-    <JapaneseText>く、悔しいパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>60</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1005</PointerOffset>
-    <JapaneseText>でも、負けてしまった以上、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>61</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1033</PointerOffset>
-    <JapaneseText>レシピはあげるパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>62</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1054</PointerOffset>
-    <JapaneseText>マーボーカレーパンのレシピを覚えた！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>63</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1091</PointerOffset>
-    <JapaneseText>そこは、律儀なんだな……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>64</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1116</PointerOffset>
-    <JapaneseText>けど、今度は必ず勝つパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>65</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1144</PointerOffset>
-    <JapaneseText>覚えておくがいいパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>66</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1167</PointerOffset>
-    <JapaneseText>いだいだパン……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>67</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1184</PointerOffset>
-    <JapaneseText>今度があるのかよ……？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>68</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>793</PointerOffset>
+      <JapaneseText>うう、ひどいパン……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>817</PointerOffset>
+      <JapaneseText>は、話が違うパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>836</PointerOffset>
+      <JapaneseText>何がだよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>848</PointerOffset>
+      <JapaneseText>決闘だって言ったのは、そっちだろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>881</PointerOffset>
+      <JapaneseText>女子を相手に、本気なんてずるいパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>919</PointerOffset>
+      <JapaneseText>手加減をするべきパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>942</PointerOffset>
+      <JapaneseText>戦う以上は、本気に決まってるだろ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>978</PointerOffset>
+      <JapaneseText>全く……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>987</PointerOffset>
+      <JapaneseText>く、悔しいパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1005</PointerOffset>
+      <JapaneseText>でも、負けてしまった以上、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1033</PointerOffset>
+      <JapaneseText>レシピはあげるパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1054</PointerOffset>
+      <JapaneseText>マーボーカレーパンのレシピを覚えた！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1091</PointerOffset>
+      <JapaneseText>そこは、律儀なんだな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1116</PointerOffset>
+      <JapaneseText>けど、今度は必ず勝つパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1144</PointerOffset>
+      <JapaneseText>覚えておくがいいパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1167</PointerOffset>
+      <JapaneseText>いだいだパン……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1184</PointerOffset>
+      <JapaneseText>今度があるのかよ……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

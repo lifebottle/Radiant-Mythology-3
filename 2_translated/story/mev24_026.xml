@@ -1,27 +1,31 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>226</PointerOffset>
-    <JapaneseText>己自身を越えろ、ディセンダー。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>12</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>258</PointerOffset>
-    <JapaneseText>そなたには、その力があるのだ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>13</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>289</PointerOffset>
-    <JapaneseText>さあ、そなたの欲する未来を創れ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>14</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>226</PointerOffset>
+      <JapaneseText>己自身を越えろ、ディセンダー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>258</PointerOffset>
+      <JapaneseText>そなたには、その力があるのだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>289</PointerOffset>
+      <JapaneseText>さあ、そなたの欲する未来を創れ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

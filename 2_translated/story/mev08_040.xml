@@ -1,43 +1,47 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>186</PointerOffset>
-    <JapaneseText>銖</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>12</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>378</PointerOffset>
-    <JapaneseText>性懲りもなく、また来たか！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>23</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>405</PointerOffset>
-    <JapaneseText>ディセンダー様を守り、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>24</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>429</PointerOffset>
-    <JapaneseText>付き従うのが我等「暁の従者」の使命！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>25</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>467</PointerOffset>
-    <JapaneseText>ここは何人たりとも通さんぞ！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>26</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>186</PointerOffset>
+      <JapaneseText>銖</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>378</PointerOffset>
+      <JapaneseText>性懲りもなく、また来たか！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>405</PointerOffset>
+      <JapaneseText>ディセンダー様を守り、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>429</PointerOffset>
+      <JapaneseText>付き従うのが我等「暁の従者」の使命！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>467</PointerOffset>
+      <JapaneseText>ここは何人たりとも通さんぞ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

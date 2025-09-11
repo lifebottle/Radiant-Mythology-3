@@ -1,27 +1,31 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>64</PointerOffset>
-    <JapaneseText>船の調子はどうなのかしらね…。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>5</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>96</PointerOffset>
-    <JapaneseText>ねえ、ちょっと機関室へ行って</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>6</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>126</PointerOffset>
-    <JapaneseText>様子を見てきてくれないかな？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>7</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>64</PointerOffset>
+      <JapaneseText>船の調子はどうなのかしらね…。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>96</PointerOffset>
+      <JapaneseText>ねえ、ちょっと機関室へ行って</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>126</PointerOffset>
+      <JapaneseText>様子を見てきてくれないかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

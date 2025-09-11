@@ -1,83 +1,87 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>194</PointerOffset>
-    <JapaneseText>今回の仕事は護衛よ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>15</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>213</PointerOffset>
-    <JapaneseText>モラード村のジョアンさんを</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>16</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>241</PointerOffset>
-    <JapaneseText>ブラウニー坑道の奥へ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>17</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>263</PointerOffset>
-    <JapaneseText>連れて行ってもらいたいの</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>18</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>288</PointerOffset>
-    <JapaneseText>詳しい話は、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>19</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>302</PointerOffset>
-    <JapaneseText>現地でジョアンさんに聞いてね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>20</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>331</PointerOffset>
-    <JapaneseText>この仕事の同行者は、ファラとマルタ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>21</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>366</PointerOffset>
-    <JapaneseText>それじゃあ、ジョアンさんに</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>22</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>394</PointerOffset>
-    <JapaneseText>怪我をさせてはダメよ？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>23</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>417</PointerOffset>
-    <JapaneseText>行ってらっしゃい！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>24</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>194</PointerOffset>
+      <JapaneseText>今回の仕事は護衛よ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>213</PointerOffset>
+      <JapaneseText>モラード村のジョアンさんを</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>241</PointerOffset>
+      <JapaneseText>ブラウニー坑道の奥へ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263</PointerOffset>
+      <JapaneseText>連れて行ってもらいたいの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>288</PointerOffset>
+      <JapaneseText>詳しい話は、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>302</PointerOffset>
+      <JapaneseText>現地でジョアンさんに聞いてね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>331</PointerOffset>
+      <JapaneseText>この仕事の同行者は、ファラとマルタ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>366</PointerOffset>
+      <JapaneseText>それじゃあ、ジョアンさんに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>394</PointerOffset>
+      <JapaneseText>怪我をさせてはダメよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>417</PointerOffset>
+      <JapaneseText>行ってらっしゃい！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

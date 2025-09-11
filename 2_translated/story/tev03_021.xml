@@ -1,67 +1,71 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>142</PointerOffset>
-    <JapaneseText>よう、新入りなんだな。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>11</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>166</PointerOffset>
-    <JapaneseText>しかし</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>12</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>173</PointerOffset>
-    <JapaneseText>ここはコーダの店、道具屋なんだぞ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>13</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>209</PointerOffset>
-    <JapaneseText>何か買っていくといいんだな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>14</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>236</PointerOffset>
-    <JapaneseText>買い物なんて簡単、しかし。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>15</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>264</PointerOffset>
-    <JapaneseText>財布開けて、中から金を出して、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>16</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>296</PointerOffset>
-    <JapaneseText>コーダに渡せば買えるぞ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>17</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>319</PointerOffset>
-    <JapaneseText>さあ、早速何か買って欲しいぞ、しかし</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>18</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>142</PointerOffset>
+      <JapaneseText>よう、新入りなんだな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>166</PointerOffset>
+      <JapaneseText>しかし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>173</PointerOffset>
+      <JapaneseText>ここはコーダの店、道具屋なんだぞ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>209</PointerOffset>
+      <JapaneseText>何か買っていくといいんだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>236</PointerOffset>
+      <JapaneseText>買い物なんて簡単、しかし。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264</PointerOffset>
+      <JapaneseText>財布開けて、中から金を出して、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>296</PointerOffset>
+      <JapaneseText>コーダに渡せば買えるぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>319</PointerOffset>
+      <JapaneseText>さあ、早速何か買って欲しいぞ、しかし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

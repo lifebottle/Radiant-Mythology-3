@@ -1,59 +1,63 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>118</PointerOffset>
-    <JapaneseText>それじゃあ、挨拶も済んだし</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>8</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>146</PointerOffset>
-    <JapaneseText>アンジュさんの所に行こう</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>9</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>171</PointerOffset>
-    <JapaneseText>入隊試験が用意されてるはずだよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>10</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>202</PointerOffset>
-    <JapaneseText>「人物名鑑」が閲覧可能となりました</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>11</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>237</PointerOffset>
-    <JapaneseText>閲覧する場合は、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>12</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>255</PointerOffset>
-    <JapaneseText>メインメニュー、ライブラリの</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>13</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>285</PointerOffset>
-    <JapaneseText>「人物名鑑」を選択して下さい</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>14</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>118</PointerOffset>
+      <JapaneseText>それじゃあ、挨拶も済んだし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>146</PointerOffset>
+      <JapaneseText>アンジュさんの所に行こう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>171</PointerOffset>
+      <JapaneseText>入隊試験が用意されてるはずだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>202</PointerOffset>
+      <JapaneseText>「人物名鑑」が閲覧可能となりました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>237</PointerOffset>
+      <JapaneseText>閲覧する場合は、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>255</PointerOffset>
+      <JapaneseText>メインメニュー、ライブラリの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>285</PointerOffset>
+      <JapaneseText>「人物名鑑」を選択して下さい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

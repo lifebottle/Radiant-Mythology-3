@@ -1,35 +1,39 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>126</PointerOffset>
-    <JapaneseText>よしよし、これでまた新しい</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>7</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>154</PointerOffset>
-    <JapaneseText>料理が食える様になったぞ、しかし。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>8</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>190</PointerOffset>
-    <JapaneseText>メシか？　メシの時間だな？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>9</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>217</PointerOffset>
-    <JapaneseText>お好み焼きのレシピを覚えた！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>10</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>126</PointerOffset>
+      <JapaneseText>よしよし、これでまた新しい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>154</PointerOffset>
+      <JapaneseText>料理が食える様になったぞ、しかし。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>190</PointerOffset>
+      <JapaneseText>メシか？　メシの時間だな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>217</PointerOffset>
+      <JapaneseText>お好み焼きのレシピを覚えた！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

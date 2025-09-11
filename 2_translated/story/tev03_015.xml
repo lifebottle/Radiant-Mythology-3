@@ -1,83 +1,87 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>168</PointerOffset>
-    <JapaneseText>はい、ご苦労様。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>12</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>186</PointerOffset>
-    <JapaneseText>初めてのクエストはどうだったかな？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>13</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>221</PointerOffset>
-    <JapaneseText>こうやって、クエストを達成したら</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>14</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>255</PointerOffset>
-    <JapaneseText>報告をしてちょうだいね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>15</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>278</PointerOffset>
-    <JapaneseText>それからクエストを達成したら、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>16</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>310</PointerOffset>
-    <JapaneseText>報酬も出るのよ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>17</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>328</PointerOffset>
-    <JapaneseText>今回は、わたしからその報酬を渡すわね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>18</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>365</PointerOffset>
-    <JapaneseText>それじゃ、次のクエストも用意しておくよ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>19</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>407</PointerOffset>
-    <JapaneseText>それから棚卸しが終わったみたいだから、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>20</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>447</PointerOffset>
-    <JapaneseText>ショップを見てきたらどうかな？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>21</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>168</PointerOffset>
+      <JapaneseText>はい、ご苦労様。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>186</PointerOffset>
+      <JapaneseText>初めてのクエストはどうだったかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>221</PointerOffset>
+      <JapaneseText>こうやって、クエストを達成したら</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>255</PointerOffset>
+      <JapaneseText>報告をしてちょうだいね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>278</PointerOffset>
+      <JapaneseText>それからクエストを達成したら、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>310</PointerOffset>
+      <JapaneseText>報酬も出るのよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>328</PointerOffset>
+      <JapaneseText>今回は、わたしからその報酬を渡すわね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>365</PointerOffset>
+      <JapaneseText>それじゃ、次のクエストも用意しておくよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>407</PointerOffset>
+      <JapaneseText>それから棚卸しが終わったみたいだから、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>447</PointerOffset>
+      <JapaneseText>ショップを見てきたらどうかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

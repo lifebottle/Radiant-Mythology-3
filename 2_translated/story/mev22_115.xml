@@ -1,51 +1,55 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>90</PointerOffset>
-    <JapaneseText>ここは、ケイブレックスの目撃が</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>7</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>122</PointerOffset>
-    <JapaneseText>多い場所らしいけれど。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>8</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>146</PointerOffset>
-    <JapaneseText>…いないわね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>9</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>159</PointerOffset>
-    <JapaneseText>それじゃあ、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>10</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>173</PointerOffset>
-    <JapaneseText>今は他の場所を当たって、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>11</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>199</PointerOffset>
-    <JapaneseText>また後に来ましょう</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>12</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>90</PointerOffset>
+      <JapaneseText>ここは、ケイブレックスの目撃が</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122</PointerOffset>
+      <JapaneseText>多い場所らしいけれど。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>146</PointerOffset>
+      <JapaneseText>…いないわね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>159</PointerOffset>
+      <JapaneseText>それじゃあ、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>173</PointerOffset>
+      <JapaneseText>今は他の場所を当たって、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>199</PointerOffset>
+      <JapaneseText>また後に来ましょう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

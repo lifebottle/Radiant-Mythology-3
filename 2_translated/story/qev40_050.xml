@@ -1,123 +1,127 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>847</PointerOffset>
-    <JapaneseText>やっぱり今回も、化けてるんだな……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>59</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>882</PointerOffset>
-    <JapaneseText>待ってたパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>60</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>898</PointerOffset>
-    <JapaneseText>よくぞここまで来たパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>61</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>924</PointerOffset>
-    <JapaneseText>褒めてあげるパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>62</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>943</PointerOffset>
-    <JapaneseText>いや、お前が呼び出したんだろ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>63</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>976</PointerOffset>
-    <JapaneseText>レシピはそう簡単に手に入らないから、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>64</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1014</PointerOffset>
-    <JapaneseText>より価値が上がるんだパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>65</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1042</PointerOffset>
-    <JapaneseText>これも一つの修行だパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>66</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1067</PointerOffset>
-    <JapaneseText>誰も修行したいなんて言ってない……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>67</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1102</PointerOffset>
-    <JapaneseText>照れなくてもいいパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>68</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1126</PointerOffset>
-    <JapaneseText>それでは、レシピをあげるパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>69</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1158</PointerOffset>
-    <JapaneseText>しっかり、頑張るパン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>70</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1181</PointerOffset>
-    <JapaneseText>カレーパンのレシピを覚えた！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>71</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1210</PointerOffset>
-    <JapaneseText>いだいだパン……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>72</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1227</PointerOffset>
-    <JapaneseText>毎回転び過ぎだろ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>73</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>847</PointerOffset>
+      <JapaneseText>やっぱり今回も、化けてるんだな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>882</PointerOffset>
+      <JapaneseText>待ってたパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>898</PointerOffset>
+      <JapaneseText>よくぞここまで来たパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>924</PointerOffset>
+      <JapaneseText>褒めてあげるパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>943</PointerOffset>
+      <JapaneseText>いや、お前が呼び出したんだろ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>976</PointerOffset>
+      <JapaneseText>レシピはそう簡単に手に入らないから、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1014</PointerOffset>
+      <JapaneseText>より価値が上がるんだパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1042</PointerOffset>
+      <JapaneseText>これも一つの修行だパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1067</PointerOffset>
+      <JapaneseText>誰も修行したいなんて言ってない……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1102</PointerOffset>
+      <JapaneseText>照れなくてもいいパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1126</PointerOffset>
+      <JapaneseText>それでは、レシピをあげるパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1158</PointerOffset>
+      <JapaneseText>しっかり、頑張るパン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1181</PointerOffset>
+      <JapaneseText>カレーパンのレシピを覚えた！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1210</PointerOffset>
+      <JapaneseText>いだいだパン……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1227</PointerOffset>
+      <JapaneseText>毎回転び過ぎだろ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

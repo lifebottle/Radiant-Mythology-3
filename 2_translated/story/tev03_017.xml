@@ -1,27 +1,31 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>90</PointerOffset>
-    <JapaneseText>ねえ、ショップに行こうよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>7</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>115</PointerOffset>
-    <JapaneseText>それに、せっかく報酬をもらったんだし、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>8</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>155</PointerOffset>
-    <JapaneseText>あなたもお買い物をしてみたらどうかな？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>9</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>90</PointerOffset>
+      <JapaneseText>ねえ、ショップに行こうよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>115</PointerOffset>
+      <JapaneseText>それに、せっかく報酬をもらったんだし、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>155</PointerOffset>
+      <JapaneseText>あなたもお買い物をしてみたらどうかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

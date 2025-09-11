@@ -1,123 +1,127 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>819</PointerOffset>
-    <JapaneseText>ふぇ〜、すっきりしたぜ〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>57</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>844</PointerOffset>
-    <JapaneseText>あら、そんなにスッキリする事なんて、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>58</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>882</PointerOffset>
-    <JapaneseText>この船にあるの？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>59</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>899</PointerOffset>
-    <JapaneseText>おっさんにも教えてよ〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>60</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>922</PointerOffset>
-    <JapaneseText>別に変な意味じゃねえって。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>61</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>950</PointerOffset>
-    <JapaneseText>ただ、トイレに行ってきただけだよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>62</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>983</PointerOffset>
-    <JapaneseText>な〜によ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>63</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>995</PointerOffset>
-    <JapaneseText>ただのトイレか〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>64</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1012</PointerOffset>
-    <JapaneseText>ティトレイがトイレから出て来て、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>65</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1046</PointerOffset>
-    <JapaneseText>これがほんとの「ティトイレイ」なんちて</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>66</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1085</PointerOffset>
-    <JapaneseText>オヤジギャグかよ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>67</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1106</PointerOffset>
-    <JapaneseText>ティトイレイが、おトイレイから、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>68</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1140</PointerOffset>
-    <JapaneseText>出トイレイ、なんつって！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>69</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1165</PointerOffset>
-    <JapaneseText>あほらし……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>70</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1178</PointerOffset>
-    <JapaneseText>お褒めの言葉ありがと∀</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>71</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>819</PointerOffset>
+      <JapaneseText>ふぇ〜、すっきりしたぜ〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>844</PointerOffset>
+      <JapaneseText>あら、そんなにスッキリする事なんて、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>882</PointerOffset>
+      <JapaneseText>この船にあるの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>899</PointerOffset>
+      <JapaneseText>おっさんにも教えてよ〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>922</PointerOffset>
+      <JapaneseText>別に変な意味じゃねえって。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>950</PointerOffset>
+      <JapaneseText>ただ、トイレに行ってきただけだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>983</PointerOffset>
+      <JapaneseText>な〜によ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>995</PointerOffset>
+      <JapaneseText>ただのトイレか〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1012</PointerOffset>
+      <JapaneseText>ティトレイがトイレから出て来て、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1046</PointerOffset>
+      <JapaneseText>これがほんとの「ティトイレイ」なんちて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1085</PointerOffset>
+      <JapaneseText>オヤジギャグかよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1106</PointerOffset>
+      <JapaneseText>ティトイレイが、おトイレイから、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1140</PointerOffset>
+      <JapaneseText>出トイレイ、なんつって！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1165</PointerOffset>
+      <JapaneseText>あほらし……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1178</PointerOffset>
+      <JapaneseText>お褒めの言葉ありがと∀</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

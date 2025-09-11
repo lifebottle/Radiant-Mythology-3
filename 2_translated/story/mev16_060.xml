@@ -1,115 +1,119 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>1285</PointerOffset>
-    <JapaneseText>この僕が…ッ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>77</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1302</PointerOffset>
-    <JapaneseText>…クレア。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>78</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1314</PointerOffset>
-    <JapaneseText>無事で良かった</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>79</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1329</PointerOffset>
-    <JapaneseText>待てよ……どこに行くんだ……？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>80</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1360</PointerOffset>
-    <JapaneseText>もう、終わりだって言うのか…？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>81</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1391</PointerOffset>
-    <JapaneseText>オレは、オレに出来る事をやるだけだ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>82</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1426</PointerOffset>
-    <JapaneseText>何だよそれ……。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>83</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1444</PointerOffset>
-    <JapaneseText>情けをかけてるつもりかい？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>84</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1471</PointerOffset>
-    <JapaneseText>こんな終わり方は認めない。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>85</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1499</PointerOffset>
-    <JapaneseText>認められるもんか…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>86</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1518</PointerOffset>
-    <JapaneseText>殺せ……殺せよっ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>87</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1537</PointerOffset>
-    <JapaneseText>戻るぞ…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>88</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1546</PointerOffset>
-    <JapaneseText>殺せって言ってるだろう！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>89</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1574</PointerOffset>
-    <JapaneseText>こんちくしょうがぁぁぁぁッ！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>90</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>1285</PointerOffset>
+      <JapaneseText>この僕が…ッ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1302</PointerOffset>
+      <JapaneseText>…クレア。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1314</PointerOffset>
+      <JapaneseText>無事で良かった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1329</PointerOffset>
+      <JapaneseText>待てよ……どこに行くんだ……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1360</PointerOffset>
+      <JapaneseText>もう、終わりだって言うのか…？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1391</PointerOffset>
+      <JapaneseText>オレは、オレに出来る事をやるだけだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1426</PointerOffset>
+      <JapaneseText>何だよそれ……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1444</PointerOffset>
+      <JapaneseText>情けをかけてるつもりかい？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1471</PointerOffset>
+      <JapaneseText>こんな終わり方は認めない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1499</PointerOffset>
+      <JapaneseText>認められるもんか…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1518</PointerOffset>
+      <JapaneseText>殺せ……殺せよっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1537</PointerOffset>
+      <JapaneseText>戻るぞ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1546</PointerOffset>
+      <JapaneseText>殺せって言ってるだろう！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1574</PointerOffset>
+      <JapaneseText>こんちくしょうがぁぁぁぁッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

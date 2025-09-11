@@ -1,59 +1,63 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>72</PointerOffset>
-    <JapaneseText>メニューの「作戦」では、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>3</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>98</PointerOffset>
-    <JapaneseText>「基本行動」や「優先行動」の設定によって、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>4</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>142</PointerOffset>
-    <JapaneseText>仲間の戦闘行動を制御する事が出来ます</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>5</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>179</PointerOffset>
-    <JapaneseText>なお、戦闘中でも、戦闘メニューから</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>6</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>215</PointerOffset>
-    <JapaneseText>「作戦」の変更は可能です</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>7</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>240</PointerOffset>
-    <JapaneseText>メニューの「作戦・隊列」が使用可能になりました</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>8</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>287</PointerOffset>
-    <JapaneseText>優先行動（ひよっこ編）が使えるようになりました！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>9</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>72</PointerOffset>
+      <JapaneseText>メニューの「作戦」では、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>98</PointerOffset>
+      <JapaneseText>「基本行動」や「優先行動」の設定によって、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>142</PointerOffset>
+      <JapaneseText>仲間の戦闘行動を制御する事が出来ます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>179</PointerOffset>
+      <JapaneseText>なお、戦闘中でも、戦闘メニューから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>215</PointerOffset>
+      <JapaneseText>「作戦」の変更は可能です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>240</PointerOffset>
+      <JapaneseText>メニューの「作戦・隊列」が使用可能になりました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>287</PointerOffset>
+      <JapaneseText>優先行動（ひよっこ編）が使えるようになりました！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

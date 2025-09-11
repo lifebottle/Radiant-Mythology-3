@@ -1,115 +1,119 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>946</PointerOffset>
-    <JapaneseText>………くっ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>76</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>959</PointerOffset>
-    <JapaneseText>僕…、僕達は……、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>77</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>979</PointerOffset>
-    <JapaneseText>精霊を捕らえようなんて</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>78</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1003</PointerOffset>
-    <JapaneseText>思ってなくて……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>79</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1020</PointerOffset>
-    <JapaneseText>本当に、ただ、話をしたくて…。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>80</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1052</PointerOffset>
-    <JapaneseText>すみません、それが済んだら</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>81</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1080</PointerOffset>
-    <JapaneseText>すぐに帰りますから…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>82</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1101</PointerOffset>
-    <JapaneseText>そ、それより…あなたに手当てを……。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>83</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1139</PointerOffset>
-    <JapaneseText>すみません…！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>84</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1155</PointerOffset>
-    <JapaneseText>今、手当てをします…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>85</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1176</PointerOffset>
-    <JapaneseText>闘気をおさめて、リヒター。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>86</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1204</PointerOffset>
-    <JapaneseText>そのヒト達は、敵ではないわ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>87</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1238</PointerOffset>
-    <JapaneseText>わたしは、氷の精霊セルシウス</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>89</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1267</PointerOffset>
-    <JapaneseText>あなた達が知りたい事に答えるわ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>90</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>946</PointerOffset>
+      <JapaneseText>………くっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>959</PointerOffset>
+      <JapaneseText>僕…、僕達は……、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>979</PointerOffset>
+      <JapaneseText>精霊を捕らえようなんて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1003</PointerOffset>
+      <JapaneseText>思ってなくて……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1020</PointerOffset>
+      <JapaneseText>本当に、ただ、話をしたくて…。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1052</PointerOffset>
+      <JapaneseText>すみません、それが済んだら</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1080</PointerOffset>
+      <JapaneseText>すぐに帰りますから…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1101</PointerOffset>
+      <JapaneseText>そ、それより…あなたに手当てを……。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1139</PointerOffset>
+      <JapaneseText>すみません…！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1155</PointerOffset>
+      <JapaneseText>今、手当てをします…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1176</PointerOffset>
+      <JapaneseText>闘気をおさめて、リヒター。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1204</PointerOffset>
+      <JapaneseText>そのヒト達は、敵ではないわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1238</PointerOffset>
+      <JapaneseText>わたしは、氷の精霊セルシウス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1267</PointerOffset>
+      <JapaneseText>あなた達が知りたい事に答えるわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

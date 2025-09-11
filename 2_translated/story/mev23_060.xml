@@ -1,19 +1,23 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>129</PointerOffset>
-    <JapaneseText>あれが、ラザリスの為のゆりかご…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>9</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>162</PointerOffset>
-    <JapaneseText>待て…、封印次元が不安定に…！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>10</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>129</PointerOffset>
+      <JapaneseText>あれが、ラザリスの為のゆりかご…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>162</PointerOffset>
+      <JapaneseText>待て…、封印次元が不安定に…！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

@@ -1,147 +1,151 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>776</PointerOffset>
-    <JapaneseText>わぁ〜、でっかい森だなぁ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>58</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>804</PointerOffset>
-    <JapaneseText>ほら、窓の外全部が緑だぞ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>59</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>831</PointerOffset>
-    <JapaneseText>うわぁ、ほんとだ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>60</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>850</PointerOffset>
-    <JapaneseText>いいなぁ、わたしも外に出たかったな。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>61</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>888</PointerOffset>
-    <JapaneseText>陽射しがとっても気持ち良さそう</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>62</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>919</PointerOffset>
-    <JapaneseText>ああ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>63</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>927</PointerOffset>
-    <JapaneseText>それに、昼寝にちょうど良さそう……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>64</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>962</PointerOffset>
-    <JapaneseText>ふあ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>65</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>971</PointerOffset>
-    <JapaneseText>ああ、そういえば今日</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>66</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>993</PointerOffset>
-    <JapaneseText>全然昼寝してないんだよなぁ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>67</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1024</PointerOffset>
-    <JapaneseText>丁度いいや。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>68</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1038</PointerOffset>
-    <JapaneseText>この景色見ながら昼寝するよ、俺</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>69</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1069</PointerOffset>
-    <JapaneseText>ちょ、ちょっとスタン？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>70</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1093</PointerOffset>
-    <JapaneseText>ダメだよ、こんなとこで寝たら……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>71</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1126</PointerOffset>
-    <JapaneseText>…………ぐう</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>72</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1139</PointerOffset>
-    <JapaneseText>……って、もう寝ちゃった</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>73</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1164</PointerOffset>
-    <JapaneseText>もう……スタン！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>74</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1182</PointerOffset>
-    <JapaneseText>スタンってばぁ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>75</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>776</PointerOffset>
+      <JapaneseText>わぁ〜、でっかい森だなぁ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>804</PointerOffset>
+      <JapaneseText>ほら、窓の外全部が緑だぞ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>831</PointerOffset>
+      <JapaneseText>うわぁ、ほんとだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>850</PointerOffset>
+      <JapaneseText>いいなぁ、わたしも外に出たかったな。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>888</PointerOffset>
+      <JapaneseText>陽射しがとっても気持ち良さそう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>919</PointerOffset>
+      <JapaneseText>ああ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>927</PointerOffset>
+      <JapaneseText>それに、昼寝にちょうど良さそう……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>962</PointerOffset>
+      <JapaneseText>ふあ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>971</PointerOffset>
+      <JapaneseText>ああ、そういえば今日</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>993</PointerOffset>
+      <JapaneseText>全然昼寝してないんだよなぁ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1024</PointerOffset>
+      <JapaneseText>丁度いいや。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1038</PointerOffset>
+      <JapaneseText>この景色見ながら昼寝するよ、俺</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1069</PointerOffset>
+      <JapaneseText>ちょ、ちょっとスタン？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1093</PointerOffset>
+      <JapaneseText>ダメだよ、こんなとこで寝たら……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1126</PointerOffset>
+      <JapaneseText>…………ぐう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1139</PointerOffset>
+      <JapaneseText>……って、もう寝ちゃった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1164</PointerOffset>
+      <JapaneseText>もう……スタン！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1182</PointerOffset>
+      <JapaneseText>スタンってばぁ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

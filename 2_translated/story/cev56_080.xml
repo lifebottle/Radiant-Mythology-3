@@ -1,123 +1,127 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>98</PointerOffset>
-    <JapaneseText>傲</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>9</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>935</PointerOffset>
-    <JapaneseText>やっぱり、俺の作った扇風機は</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>65</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>965</PointerOffset>
-    <JapaneseText>最高だな！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>66</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>976</PointerOffset>
-    <JapaneseText>聞いたキュ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>67</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>989</PointerOffset>
-    <JapaneseText>涼しい物があるって聞いたキュ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>68</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1020</PointerOffset>
-    <JapaneseText>アレだキュ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>69</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1033</PointerOffset>
-    <JapaneseText>あ〜〜〜、気持ちいいキュ〜〜〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>70</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1064</PointerOffset>
-    <JapaneseText>キュッポ兄さんの〜〜、声が〜〜〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>71</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1098</PointerOffset>
-    <JapaneseText>変だ〜〜〜、キュ〜〜〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>72</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1121</PointerOffset>
-    <JapaneseText>面白い〜〜〜、キュ〜〜〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>73</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1146</PointerOffset>
-    <JapaneseText>キュッポ・ピッポ・ポッポ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>74</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1171</PointerOffset>
-    <JapaneseText>キュ〜〜〜〜〜〜〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>75</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1190</PointerOffset>
-    <JapaneseText>キュ〜〜〜〜〜〜〜〜〜〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>76</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1215</PointerOffset>
-    <JapaneseText>キュッポ・ピッポ・ポッポ・ガイ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>77</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1246</PointerOffset>
-    <JapaneseText>キュ〜〜〜〜〜〜〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>78</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>98</PointerOffset>
+      <JapaneseText>傲</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>935</PointerOffset>
+      <JapaneseText>やっぱり、俺の作った扇風機は</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>965</PointerOffset>
+      <JapaneseText>最高だな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>976</PointerOffset>
+      <JapaneseText>聞いたキュ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>989</PointerOffset>
+      <JapaneseText>涼しい物があるって聞いたキュ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1020</PointerOffset>
+      <JapaneseText>アレだキュ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1033</PointerOffset>
+      <JapaneseText>あ〜〜〜、気持ちいいキュ〜〜〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1064</PointerOffset>
+      <JapaneseText>キュッポ兄さんの〜〜、声が〜〜〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1098</PointerOffset>
+      <JapaneseText>変だ〜〜〜、キュ〜〜〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1121</PointerOffset>
+      <JapaneseText>面白い〜〜〜、キュ〜〜〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1146</PointerOffset>
+      <JapaneseText>キュッポ・ピッポ・ポッポ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1171</PointerOffset>
+      <JapaneseText>キュ〜〜〜〜〜〜〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1190</PointerOffset>
+      <JapaneseText>キュ〜〜〜〜〜〜〜〜〜〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1215</PointerOffset>
+      <JapaneseText>キュッポ・ピッポ・ポッポ・ガイ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1246</PointerOffset>
+      <JapaneseText>キュ〜〜〜〜〜〜〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

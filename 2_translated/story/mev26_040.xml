@@ -1,395 +1,399 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>86</PointerOffset>
-    <JapaneseText>時</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>3</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>914</PointerOffset>
-    <JapaneseText>ホント、双子みたい…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>60</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>935</PointerOffset>
-    <JapaneseText>でも、血も繋がってないし、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>61</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>963</PointerOffset>
-    <JapaneseText>そもそも別の世界の…別人なのね…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>62</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>996</PointerOffset>
-    <JapaneseText>この子には、この世界にこれから</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>63</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1028</PointerOffset>
-    <JapaneseText>必要になる物を届けてもらった</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>64</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1057</PointerOffset>
-    <JapaneseText>あっ、そうそう！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>65</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1075</PointerOffset>
-    <JapaneseText>設計書、ちゃんと持って来たよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>66</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1104</PointerOffset>
-    <JapaneseText>設計書？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>67</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1125</PointerOffset>
-    <JapaneseText>うん、私の世界グラニデで今使われてる</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>68</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1163</PointerOffset>
-    <JapaneseText>マナに変わる代替エネルギーの発生装置の</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>69</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1203</PointerOffset>
-    <JapaneseText>設計書だよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>70</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1214</PointerOffset>
-    <JapaneseText>この世界には必要だからって聞いて、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>71</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1250</PointerOffset>
-    <JapaneseText>持って来たんだ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>72</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1267</PointerOffset>
-    <JapaneseText>ジェイドさんが前に言ってた、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>73</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1297</PointerOffset>
-    <JapaneseText>星晶に頼らなくてもいい…あの…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>74</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1328</PointerOffset>
-    <JapaneseText>そう、これは内燃式半永久機関の</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>75</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1360</PointerOffset>
-    <JapaneseText>設計書だ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>76</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1369</PointerOffset>
-    <JapaneseText>グラニデでは、既に使用していて、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>77</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1403</PointerOffset>
-    <JapaneseText>全ての民に安全に供給する事が出来る</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>78</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1438</PointerOffset>
-    <JapaneseText>…これが完成すれば、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>79</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1460</PointerOffset>
-    <JapaneseText>この世界は、星晶の枯渇に苦しむ事も</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>80</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1496</PointerOffset>
-    <JapaneseText>無くなるだろう</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>81</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1511</PointerOffset>
-    <JapaneseText>すごい…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>82</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1520</PointerOffset>
-    <JapaneseText>もう星晶を巡って国同士が争う必要もないし、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>83</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1564</PointerOffset>
-    <JapaneseText>採掘の為に人々が駆りだされる事もないし</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>84</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1603</PointerOffset>
-    <JapaneseText>何より…、採掘が止まれば、土地は</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>85</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1637</PointerOffset>
-    <JapaneseText>マナを失わず、やせ衰える事もない…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>86</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1672</PointerOffset>
-    <JapaneseText>これで、もっと多くの人を</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>87</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1698</PointerOffset>
-    <JapaneseText>救う事が出来るのね！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>88</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1719</PointerOffset>
-    <JapaneseText>前に、ジェイドが</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>89</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1737</PointerOffset>
-    <JapaneseText>半永久機関の話をした際に</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>90</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1763</PointerOffset>
-    <JapaneseText>思い付いてはいたのだがね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>91</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1788</PointerOffset>
-    <JapaneseText>その時の我々には、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>92</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1808</PointerOffset>
-    <JapaneseText>グラニデからの転送に必要な</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>93</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1836</PointerOffset>
-    <JapaneseText>エネルギーが不足していたのだよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>94</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1867</PointerOffset>
-    <JapaneseText>ところで、アンジュ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>95</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1889</PointerOffset>
-    <JapaneseText>頼みがあるのだが…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>96</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1908</PointerOffset>
-    <JapaneseText>何かしら？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>97</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1919</PointerOffset>
-    <JapaneseText>彼女に、この世界を見せたくてね。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>98</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1953</PointerOffset>
-    <JapaneseText>しばらく、アドリビトムに</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>99</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1979</PointerOffset>
-    <JapaneseText>置いてくれないだろうか</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>100</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2002</PointerOffset>
-    <JapaneseText>腕は保障するよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>101</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2017</PointerOffset>
-    <JapaneseText>ええ、お安い御用よ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>102</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2036</PointerOffset>
-    <JapaneseText>その代わり、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>103</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2050</PointerOffset>
-    <JapaneseText>ちゃーんと働いてもらうからね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>104</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2079</PointerOffset>
-    <JapaneseText>わぁ！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>105</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2089</PointerOffset>
-    <JapaneseText>ありがとうございます！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>106</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2112</PointerOffset>
-    <JapaneseText>よーし、頑張らなくっちゃ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>107</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>86</PointerOffset>
+      <JapaneseText>時</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>914</PointerOffset>
+      <JapaneseText>ホント、双子みたい…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>935</PointerOffset>
+      <JapaneseText>でも、血も繋がってないし、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>963</PointerOffset>
+      <JapaneseText>そもそも別の世界の…別人なのね…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>996</PointerOffset>
+      <JapaneseText>この子には、この世界にこれから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1028</PointerOffset>
+      <JapaneseText>必要になる物を届けてもらった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1057</PointerOffset>
+      <JapaneseText>あっ、そうそう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1075</PointerOffset>
+      <JapaneseText>設計書、ちゃんと持って来たよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1104</PointerOffset>
+      <JapaneseText>設計書？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1125</PointerOffset>
+      <JapaneseText>うん、私の世界グラニデで今使われてる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1163</PointerOffset>
+      <JapaneseText>マナに変わる代替エネルギーの発生装置の</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1203</PointerOffset>
+      <JapaneseText>設計書だよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1214</PointerOffset>
+      <JapaneseText>この世界には必要だからって聞いて、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1250</PointerOffset>
+      <JapaneseText>持って来たんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1267</PointerOffset>
+      <JapaneseText>ジェイドさんが前に言ってた、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1297</PointerOffset>
+      <JapaneseText>星晶に頼らなくてもいい…あの…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1328</PointerOffset>
+      <JapaneseText>そう、これは内燃式半永久機関の</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1360</PointerOffset>
+      <JapaneseText>設計書だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1369</PointerOffset>
+      <JapaneseText>グラニデでは、既に使用していて、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1403</PointerOffset>
+      <JapaneseText>全ての民に安全に供給する事が出来る</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1438</PointerOffset>
+      <JapaneseText>…これが完成すれば、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1460</PointerOffset>
+      <JapaneseText>この世界は、星晶の枯渇に苦しむ事も</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1496</PointerOffset>
+      <JapaneseText>無くなるだろう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1511</PointerOffset>
+      <JapaneseText>すごい…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1520</PointerOffset>
+      <JapaneseText>もう星晶を巡って国同士が争う必要もないし、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1564</PointerOffset>
+      <JapaneseText>採掘の為に人々が駆りだされる事もないし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1603</PointerOffset>
+      <JapaneseText>何より…、採掘が止まれば、土地は</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1637</PointerOffset>
+      <JapaneseText>マナを失わず、やせ衰える事もない…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1672</PointerOffset>
+      <JapaneseText>これで、もっと多くの人を</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1698</PointerOffset>
+      <JapaneseText>救う事が出来るのね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1719</PointerOffset>
+      <JapaneseText>前に、ジェイドが</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1737</PointerOffset>
+      <JapaneseText>半永久機関の話をした際に</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1763</PointerOffset>
+      <JapaneseText>思い付いてはいたのだがね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1788</PointerOffset>
+      <JapaneseText>その時の我々には、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1808</PointerOffset>
+      <JapaneseText>グラニデからの転送に必要な</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1836</PointerOffset>
+      <JapaneseText>エネルギーが不足していたのだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1867</PointerOffset>
+      <JapaneseText>ところで、アンジュ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1889</PointerOffset>
+      <JapaneseText>頼みがあるのだが…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1908</PointerOffset>
+      <JapaneseText>何かしら？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1919</PointerOffset>
+      <JapaneseText>彼女に、この世界を見せたくてね。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1953</PointerOffset>
+      <JapaneseText>しばらく、アドリビトムに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1979</PointerOffset>
+      <JapaneseText>置いてくれないだろうか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2002</PointerOffset>
+      <JapaneseText>腕は保障するよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2017</PointerOffset>
+      <JapaneseText>ええ、お安い御用よ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>102</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2036</PointerOffset>
+      <JapaneseText>その代わり、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>103</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2050</PointerOffset>
+      <JapaneseText>ちゃーんと働いてもらうからね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>104</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2079</PointerOffset>
+      <JapaneseText>わぁ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>105</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2089</PointerOffset>
+      <JapaneseText>ありがとうございます！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>106</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2112</PointerOffset>
+      <JapaneseText>よーし、頑張らなくっちゃ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>107</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

@@ -1,395 +1,399 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>70</PointerOffset>
-    <JapaneseText>鴒</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>2</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>86</PointerOffset>
-    <JapaneseText>煎</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>3</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>632</PointerOffset>
-    <JapaneseText>鎌</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>47</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1088</PointerOffset>
-    <JapaneseText>辨周</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>78</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1738</PointerOffset>
-    <JapaneseText>残念、この道はハズレなんだよ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>125</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1770</PointerOffset>
-    <JapaneseText>ハ・ズ・レ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>126</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1781</PointerOffset>
-    <JapaneseText>サレ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>127</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1786</PointerOffset>
-    <JapaneseText>小うるさいお供の目の届かない所に</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>128</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1820</PointerOffset>
-    <JapaneseText>引っ張り出すのは苦労したよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>129</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1847</PointerOffset>
-    <JapaneseText>さあ、僕と来てくれるかな？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>130</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1875</PointerOffset>
-    <JapaneseText>ガルバンゾ国王女、エステリーゼ様</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>131</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1908</PointerOffset>
-    <JapaneseText>キミさえ来てくれれば、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>132</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1932</PointerOffset>
-    <JapaneseText>ガルバンゾ国が保有する多大な星晶も、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>133</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1970</PointerOffset>
-    <JapaneseText>帝国のものだ…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>134</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1985</PointerOffset>
-    <JapaneseText>わかるよね？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>135</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1999</PointerOffset>
-    <JapaneseText>近々、キミの国とは戦争になる</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>136</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2028</PointerOffset>
-    <JapaneseText>でも、キミが人質になって、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>137</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2056</PointerOffset>
-    <JapaneseText>ガルバンゾ国の星晶を渡してもらえれば</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>138</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2094</PointerOffset>
-    <JapaneseText>多くの人は血を流さずに済む</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>139</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2121</PointerOffset>
-    <JapaneseText>ガルバンゾ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>140</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2132</PointerOffset>
-    <JapaneseText>国民の命は今、キミの手の中にある。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>141</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2168</PointerOffset>
-    <JapaneseText>どう？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>142</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2176</PointerOffset>
-    <JapaneseText>命って重いのかな？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>143</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2195</PointerOffset>
-    <JapaneseText>サレだ…！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>144</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2207</PointerOffset>
-    <JapaneseText>ねえ、あの女の人が危ないよ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>145</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2236</PointerOffset>
-    <JapaneseText>ガルバンゾ国の王女、と聞こえましたが…。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>146</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2278</PointerOffset>
-    <JapaneseText>なぜここに…？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>147</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2293</PointerOffset>
-    <JapaneseText>わからない…。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>148</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2309</PointerOffset>
-    <JapaneseText>星晶狙いな事は間違いないだろう</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>149</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2340</PointerOffset>
-    <JapaneseText>何て奴だ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>150</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2352</PointerOffset>
-    <JapaneseText>助けよう、二人とも！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>151</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2373</PointerOffset>
-    <JapaneseText>あっ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>152</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2381</PointerOffset>
-    <JapaneseText>皆さん！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>153</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2390</PointerOffset>
-    <JapaneseText>正面から行くのは危険ですよ！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>154</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2421</PointerOffset>
-    <JapaneseText>退け…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>155</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2428</PointerOffset>
-    <JapaneseText>やあ、ヴェイグ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>156</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2446</PointerOffset>
-    <JapaneseText>お久しぶり</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>157</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2457</PointerOffset>
-    <JapaneseText>キミの事はよく覚えているよ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>158</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2487</PointerOffset>
-    <JapaneseText>僕に刃向かい、村を捨てて逃げた</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>159</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2519</PointerOffset>
-    <JapaneseText>ドブネズミくん</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>160</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2534</PointerOffset>
-    <JapaneseText>くッ…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>161</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2541</PointerOffset>
-    <JapaneseText>逃げなければ、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>162</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2557</PointerOffset>
-    <JapaneseText>僕の玩具になれていたのになぁ…。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>163</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2591</PointerOffset>
-    <JapaneseText>残念だ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>164</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2598</PointerOffset>
-    <JapaneseText>でも、再会出来て嬉しいよ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>165</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2626</PointerOffset>
-    <JapaneseText>ここでキミをズタズタに</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>166</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2650</PointerOffset>
-    <JapaneseText>弄んでやれるんだもの</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>167</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2671</PointerOffset>
-    <JapaneseText>僕に剣を向け、傷を付けた者なんて</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>168</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2705</PointerOffset>
-    <JapaneseText>キミが初めてだからね！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>169</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>70</PointerOffset>
+      <JapaneseText>鴒</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>86</PointerOffset>
+      <JapaneseText>煎</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>632</PointerOffset>
+      <JapaneseText>鎌</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1088</PointerOffset>
+      <JapaneseText>辨周</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1738</PointerOffset>
+      <JapaneseText>残念、この道はハズレなんだよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>125</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1770</PointerOffset>
+      <JapaneseText>ハ・ズ・レ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>126</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1781</PointerOffset>
+      <JapaneseText>サレ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>127</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1786</PointerOffset>
+      <JapaneseText>小うるさいお供の目の届かない所に</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>128</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1820</PointerOffset>
+      <JapaneseText>引っ張り出すのは苦労したよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>129</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1847</PointerOffset>
+      <JapaneseText>さあ、僕と来てくれるかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>130</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1875</PointerOffset>
+      <JapaneseText>ガルバンゾ国王女、エステリーゼ様</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>131</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1908</PointerOffset>
+      <JapaneseText>キミさえ来てくれれば、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1932</PointerOffset>
+      <JapaneseText>ガルバンゾ国が保有する多大な星晶も、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>133</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1970</PointerOffset>
+      <JapaneseText>帝国のものだ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>134</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1985</PointerOffset>
+      <JapaneseText>わかるよね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>135</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1999</PointerOffset>
+      <JapaneseText>近々、キミの国とは戦争になる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2028</PointerOffset>
+      <JapaneseText>でも、キミが人質になって、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>137</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2056</PointerOffset>
+      <JapaneseText>ガルバンゾ国の星晶を渡してもらえれば</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2094</PointerOffset>
+      <JapaneseText>多くの人は血を流さずに済む</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>139</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2121</PointerOffset>
+      <JapaneseText>ガルバンゾ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>140</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2132</PointerOffset>
+      <JapaneseText>国民の命は今、キミの手の中にある。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>141</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2168</PointerOffset>
+      <JapaneseText>どう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>142</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2176</PointerOffset>
+      <JapaneseText>命って重いのかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>143</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2195</PointerOffset>
+      <JapaneseText>サレだ…！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>144</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2207</PointerOffset>
+      <JapaneseText>ねえ、あの女の人が危ないよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>145</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2236</PointerOffset>
+      <JapaneseText>ガルバンゾ国の王女、と聞こえましたが…。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>146</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2278</PointerOffset>
+      <JapaneseText>なぜここに…？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>147</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2293</PointerOffset>
+      <JapaneseText>わからない…。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>148</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2309</PointerOffset>
+      <JapaneseText>星晶狙いな事は間違いないだろう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>149</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2340</PointerOffset>
+      <JapaneseText>何て奴だ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>150</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2352</PointerOffset>
+      <JapaneseText>助けよう、二人とも！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>151</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2373</PointerOffset>
+      <JapaneseText>あっ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>152</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2381</PointerOffset>
+      <JapaneseText>皆さん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>153</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2390</PointerOffset>
+      <JapaneseText>正面から行くのは危険ですよ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>154</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2421</PointerOffset>
+      <JapaneseText>退け…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>155</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2428</PointerOffset>
+      <JapaneseText>やあ、ヴェイグ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>156</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2446</PointerOffset>
+      <JapaneseText>お久しぶり</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>157</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2457</PointerOffset>
+      <JapaneseText>キミの事はよく覚えているよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>158</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2487</PointerOffset>
+      <JapaneseText>僕に刃向かい、村を捨てて逃げた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>159</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2519</PointerOffset>
+      <JapaneseText>ドブネズミくん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>160</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2534</PointerOffset>
+      <JapaneseText>くッ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>161</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2541</PointerOffset>
+      <JapaneseText>逃げなければ、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>162</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2557</PointerOffset>
+      <JapaneseText>僕の玩具になれていたのになぁ…。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>163</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2591</PointerOffset>
+      <JapaneseText>残念だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>164</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2598</PointerOffset>
+      <JapaneseText>でも、再会出来て嬉しいよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>165</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2626</PointerOffset>
+      <JapaneseText>ここでキミをズタズタに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>166</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2650</PointerOffset>
+      <JapaneseText>弄んでやれるんだもの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>167</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2671</PointerOffset>
+      <JapaneseText>僕に剣を向け、傷を付けた者なんて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>168</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2705</PointerOffset>
+      <JapaneseText>キミが初めてだからね！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>169</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

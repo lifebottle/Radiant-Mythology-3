@@ -1,11 +1,15 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>24</PointerOffset>
-    <JapaneseText>船の調子が悪い為、ヴェラトローパには行けません</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>2</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>24</PointerOffset>
+      <JapaneseText>船の調子が悪い為、ヴェラトローパには行けません</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

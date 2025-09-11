@@ -1,155 +1,159 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>1077</PointerOffset>
-    <JapaneseText>二人ともひどいよ、もうやめてよ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>74</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1112</PointerOffset>
-    <JapaneseText>あ〜ら、何言ってらっしゃいますの？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>75</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1148</PointerOffset>
-    <JapaneseText>ねえ、スパーダさん？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>76</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1169</PointerOffset>
-    <JapaneseText>そうだよなァ、イリア？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>77</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1193</PointerOffset>
-    <JapaneseText>お楽しみはまだまだ、これからだぜ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>78</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1226</PointerOffset>
-    <JapaneseText>そんなぁあ〜〜〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>79</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1243</PointerOffset>
-    <JapaneseText>二人とも、何してるの？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>80</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1266</PointerOffset>
-    <JapaneseText>まさか、喧嘩……じゃないよね？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>81</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1297</PointerOffset>
-    <JapaneseText>友達は大切にしなきゃダメだよ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>82</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1326</PointerOffset>
-    <JapaneseText>コハク……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>83</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1337</PointerOffset>
-    <JapaneseText>べっ、別にそういうワケじゃ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>84</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1368</PointerOffset>
-    <JapaneseText>コハク〜！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>85</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1380</PointerOffset>
-    <JapaneseText>ヒスイが探してた……よ！？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>86</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1407</PointerOffset>
-    <JapaneseText>や、やだシング！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>87</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1425</PointerOffset>
-    <JapaneseText>どこ触ってるの！？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>88</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1444</PointerOffset>
-    <JapaneseText>転んで、ぶつかった……だけ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>89</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1472</PointerOffset>
-    <JapaneseText>なの、に…………がくっ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>90</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1495</PointerOffset>
-    <JapaneseText>おいおい……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>91</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1508</PointerOffset>
-    <JapaneseText>友達は、大切に……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>92</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>1077</PointerOffset>
+      <JapaneseText>二人ともひどいよ、もうやめてよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1112</PointerOffset>
+      <JapaneseText>あ〜ら、何言ってらっしゃいますの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1148</PointerOffset>
+      <JapaneseText>ねえ、スパーダさん？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1169</PointerOffset>
+      <JapaneseText>そうだよなァ、イリア？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1193</PointerOffset>
+      <JapaneseText>お楽しみはまだまだ、これからだぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1226</PointerOffset>
+      <JapaneseText>そんなぁあ〜〜〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1243</PointerOffset>
+      <JapaneseText>二人とも、何してるの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1266</PointerOffset>
+      <JapaneseText>まさか、喧嘩……じゃないよね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1297</PointerOffset>
+      <JapaneseText>友達は大切にしなきゃダメだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1326</PointerOffset>
+      <JapaneseText>コハク……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1337</PointerOffset>
+      <JapaneseText>べっ、別にそういうワケじゃ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1368</PointerOffset>
+      <JapaneseText>コハク〜！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1380</PointerOffset>
+      <JapaneseText>ヒスイが探してた……よ！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1407</PointerOffset>
+      <JapaneseText>や、やだシング！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1425</PointerOffset>
+      <JapaneseText>どこ触ってるの！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1444</PointerOffset>
+      <JapaneseText>転んで、ぶつかった……だけ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1472</PointerOffset>
+      <JapaneseText>なの、に…………がくっ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1495</PointerOffset>
+      <JapaneseText>おいおい……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1508</PointerOffset>
+      <JapaneseText>友達は、大切に……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

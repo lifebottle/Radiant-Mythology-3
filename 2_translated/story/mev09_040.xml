@@ -1,451 +1,455 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>144</PointerOffset>
-    <JapaneseText>漲捧</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>6</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1058</PointerOffset>
-    <JapaneseText>樓</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>78</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1874</PointerOffset>
-    <JapaneseText>だ、誰かいるよ…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>125</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1891</PointerOffset>
-    <JapaneseText>精霊じゃ無さそうだな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>126</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1912</PointerOffset>
-    <JapaneseText>でも、アンジュさんの指示じゃ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>127</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1942</PointerOffset>
-    <JapaneseText>目的地はここなんだけどな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>128</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1967</PointerOffset>
-    <JapaneseText>男に精霊の居場所を聞いてみる</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>129</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1996</PointerOffset>
-    <JapaneseText>男を無視して、精霊を探す</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>130</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2021</PointerOffset>
-    <JapaneseText>精霊を探している、だと？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>131</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2046</PointerOffset>
-    <JapaneseText>…あ……、…その、僕達は…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>132</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2073</PointerOffset>
-    <JapaneseText>…ギルドの者で…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>133</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2091</PointerOffset>
-    <JapaneseText>精霊を……探していて………</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>134</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2118</PointerOffset>
-    <JapaneseText>精霊に会わせる事は出来ない。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>135</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2148</PointerOffset>
-    <JapaneseText>早々に立ち去れ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>136</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2163</PointerOffset>
-    <JapaneseText>でも、オレ達は精霊に</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>137</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2185</PointerOffset>
-    <JapaneseText>聞かなきゃいけない事があるんだよ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>138</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2221</PointerOffset>
-    <JapaneseText>話がしたいだけなんだ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>139</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2242</PointerOffset>
-    <JapaneseText>話だと？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>140</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2251</PointerOffset>
-    <JapaneseText>そんな嘘は、今まで訪れた者は皆言っていた</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>141</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2292</PointerOffset>
-    <JapaneseText>お前達の目的は、精霊を捕え</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>142</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2320</PointerOffset>
-    <JapaneseText>星晶がある場所を探知させる為に</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>143</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2352</PointerOffset>
-    <JapaneseText>利用したいだけなのだろう？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>144</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2379</PointerOffset>
-    <JapaneseText>い、いいえ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>145</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2394</PointerOffset>
-    <JapaneseText>そんな事は…、絶対に……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>146</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2419</PointerOffset>
-    <JapaneseText>精霊を知ってるんだな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>147</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2440</PointerOffset>
-    <JapaneseText>あんたこそ、何者なんだよ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>148</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2474</PointerOffset>
-    <JapaneseText>俺は、リヒター・アーベント。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>150</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2504</PointerOffset>
-    <JapaneseText>ここにいる精霊と契約し、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>151</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2530</PointerOffset>
-    <JapaneseText>この地と精霊を守る者だ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>152</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2553</PointerOffset>
-    <JapaneseText>精霊に会いたくば、俺に勝ってみせろ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>153</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2588</PointerOffset>
-    <JapaneseText>そういう事か</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>154</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2601</PointerOffset>
-    <JapaneseText>よし、行くぜ！　みんな！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>155</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2649</PointerOffset>
-    <JapaneseText>お前達、ここへ何しに来た…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>156</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2676</PointerOffset>
-    <JapaneseText>…あ……、…その、僕達は…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>157</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2703</PointerOffset>
-    <JapaneseText>…ギルドの者で…</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>158</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2721</PointerOffset>
-    <JapaneseText>精霊を……探していて………</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>159</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2748</PointerOffset>
-    <JapaneseText>精霊に会わせる事は出来ない。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>160</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2778</PointerOffset>
-    <JapaneseText>早々に立ち去れ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>161</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2793</PointerOffset>
-    <JapaneseText>でも、オレ達は精霊に</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>162</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2815</PointerOffset>
-    <JapaneseText>聞かなきゃいけない事があるんだよ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>163</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2851</PointerOffset>
-    <JapaneseText>話がしたいだけなんだ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>164</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2872</PointerOffset>
-    <JapaneseText>話だと？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>165</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2881</PointerOffset>
-    <JapaneseText>そんな嘘は、今まで訪れた者は皆言っていた</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>166</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2922</PointerOffset>
-    <JapaneseText>お前達の目的は、精霊を捕え</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>167</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2950</PointerOffset>
-    <JapaneseText>星晶がある場所を探知させる為に</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>168</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>2982</PointerOffset>
-    <JapaneseText>利用したいだけなのだろう？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>169</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>3009</PointerOffset>
-    <JapaneseText>い、いいえ……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>170</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>3024</PointerOffset>
-    <JapaneseText>そんな事は…、絶対に……</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>171</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>3049</PointerOffset>
-    <JapaneseText>精霊を知ってるんだな</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>172</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>3070</PointerOffset>
-    <JapaneseText>あんたこそ、何者なんだよ！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>173</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>3104</PointerOffset>
-    <JapaneseText>俺は、リヒター・アーベント。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>175</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>3134</PointerOffset>
-    <JapaneseText>ここにいる精霊と契約し、</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>176</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>3160</PointerOffset>
-    <JapaneseText>この地と精霊を守る者だ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>177</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>3183</PointerOffset>
-    <JapaneseText>精霊に会いたくば、俺に勝ってみせろ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>178</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>3218</PointerOffset>
-    <JapaneseText>そういう事か</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>179</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>3231</PointerOffset>
-    <JapaneseText>よし、行くぜ！　みんな！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>180</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>144</PointerOffset>
+      <JapaneseText>漲捧</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1058</PointerOffset>
+      <JapaneseText>樓</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1874</PointerOffset>
+      <JapaneseText>だ、誰かいるよ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>125</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1891</PointerOffset>
+      <JapaneseText>精霊じゃ無さそうだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>126</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1912</PointerOffset>
+      <JapaneseText>でも、アンジュさんの指示じゃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>127</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1942</PointerOffset>
+      <JapaneseText>目的地はここなんだけどな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>128</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1967</PointerOffset>
+      <JapaneseText>男に精霊の居場所を聞いてみる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>129</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1996</PointerOffset>
+      <JapaneseText>男を無視して、精霊を探す</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>130</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2021</PointerOffset>
+      <JapaneseText>精霊を探している、だと？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>131</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2046</PointerOffset>
+      <JapaneseText>…あ……、…その、僕達は…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2073</PointerOffset>
+      <JapaneseText>…ギルドの者で…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>133</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091</PointerOffset>
+      <JapaneseText>精霊を……探していて………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>134</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2118</PointerOffset>
+      <JapaneseText>精霊に会わせる事は出来ない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>135</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2148</PointerOffset>
+      <JapaneseText>早々に立ち去れ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2163</PointerOffset>
+      <JapaneseText>でも、オレ達は精霊に</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>137</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2185</PointerOffset>
+      <JapaneseText>聞かなきゃいけない事があるんだよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2221</PointerOffset>
+      <JapaneseText>話がしたいだけなんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>139</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2242</PointerOffset>
+      <JapaneseText>話だと？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>140</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2251</PointerOffset>
+      <JapaneseText>そんな嘘は、今まで訪れた者は皆言っていた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>141</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2292</PointerOffset>
+      <JapaneseText>お前達の目的は、精霊を捕え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>142</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2320</PointerOffset>
+      <JapaneseText>星晶がある場所を探知させる為に</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>143</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2352</PointerOffset>
+      <JapaneseText>利用したいだけなのだろう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>144</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2379</PointerOffset>
+      <JapaneseText>い、いいえ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>145</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2394</PointerOffset>
+      <JapaneseText>そんな事は…、絶対に……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>146</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2419</PointerOffset>
+      <JapaneseText>精霊を知ってるんだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>147</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2440</PointerOffset>
+      <JapaneseText>あんたこそ、何者なんだよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>148</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2474</PointerOffset>
+      <JapaneseText>俺は、リヒター・アーベント。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>150</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2504</PointerOffset>
+      <JapaneseText>ここにいる精霊と契約し、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>151</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2530</PointerOffset>
+      <JapaneseText>この地と精霊を守る者だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>152</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2553</PointerOffset>
+      <JapaneseText>精霊に会いたくば、俺に勝ってみせろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>153</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2588</PointerOffset>
+      <JapaneseText>そういう事か</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>154</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2601</PointerOffset>
+      <JapaneseText>よし、行くぜ！　みんな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>155</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2649</PointerOffset>
+      <JapaneseText>お前達、ここへ何しに来た…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>156</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2676</PointerOffset>
+      <JapaneseText>…あ……、…その、僕達は…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>157</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2703</PointerOffset>
+      <JapaneseText>…ギルドの者で…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>158</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2721</PointerOffset>
+      <JapaneseText>精霊を……探していて………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>159</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2748</PointerOffset>
+      <JapaneseText>精霊に会わせる事は出来ない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>160</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2778</PointerOffset>
+      <JapaneseText>早々に立ち去れ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>161</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2793</PointerOffset>
+      <JapaneseText>でも、オレ達は精霊に</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>162</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2815</PointerOffset>
+      <JapaneseText>聞かなきゃいけない事があるんだよ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>163</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2851</PointerOffset>
+      <JapaneseText>話がしたいだけなんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>164</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2872</PointerOffset>
+      <JapaneseText>話だと？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>165</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2881</PointerOffset>
+      <JapaneseText>そんな嘘は、今まで訪れた者は皆言っていた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>166</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2922</PointerOffset>
+      <JapaneseText>お前達の目的は、精霊を捕え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>167</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2950</PointerOffset>
+      <JapaneseText>星晶がある場所を探知させる為に</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>168</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2982</PointerOffset>
+      <JapaneseText>利用したいだけなのだろう？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>169</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3009</PointerOffset>
+      <JapaneseText>い、いいえ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>170</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3024</PointerOffset>
+      <JapaneseText>そんな事は…、絶対に……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>171</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3049</PointerOffset>
+      <JapaneseText>精霊を知ってるんだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>172</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3070</PointerOffset>
+      <JapaneseText>あんたこそ、何者なんだよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>173</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3104</PointerOffset>
+      <JapaneseText>俺は、リヒター・アーベント。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>175</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3134</PointerOffset>
+      <JapaneseText>ここにいる精霊と契約し、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>176</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3160</PointerOffset>
+      <JapaneseText>この地と精霊を守る者だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>177</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3183</PointerOffset>
+      <JapaneseText>精霊に会いたくば、俺に勝ってみせろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>178</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3218</PointerOffset>
+      <JapaneseText>そういう事か</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>179</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3231</PointerOffset>
+      <JapaneseText>よし、行くぜ！　みんな！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>180</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>

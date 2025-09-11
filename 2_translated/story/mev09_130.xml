@@ -1,99 +1,103 @@
-<?xml version="1.0" ?>
-<Entries>
-  <Entry>
-    <PointerOffset>1171</PointerOffset>
-    <JapaneseText>んじゃ、ちゃっちゃと始めちゃうわね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>87</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1206</PointerOffset>
-    <JapaneseText>何も起きないわねぇ。</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>88</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1228</PointerOffset>
-    <JapaneseText>触媒が足りなかったかしら</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>89</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1260</PointerOffset>
-    <JapaneseText>わぁぁぁぁぁぁぁ！！</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>91</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1288</PointerOffset>
-    <JapaneseText>きゃああああ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>93</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1308</PointerOffset>
-    <JapaneseText>うおおおおおおおおおお</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>95</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1331</PointerOffset>
-    <JapaneseText>今の音、なぁに？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>96</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1348</PointerOffset>
-    <JapaneseText>さあ？</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>97</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1355</PointerOffset>
-    <JapaneseText>そんな事より、その装置はまだ</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>98</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1385</PointerOffset>
-    <JapaneseText>手を加えないといけないんじゃないの</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>99</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1420</PointerOffset>
-    <JapaneseText>やっぱ、もうちょっと改良が必要ね</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>100</Id>
-    <Status>To Do</Status>
-  </Entry>
-  <Entry>
-    <PointerOffset>1453</PointerOffset>
-    <JapaneseText>じゃあ、撤収撤収〜</JapaneseText>
-    <EnglishText></EnglishText>
-    <Notes/>
-    <Id>101</Id>
-    <Status>To Do</Status>
-  </Entry>
-</Entries>
+<SceneText>
+  <FriendlyName></FriendlyName>
+  <Speakers/>
+    <Section></Section>
+  <Entries>
+    <Entry>
+      <PointerOffset>1171</PointerOffset>
+      <JapaneseText>んじゃ、ちゃっちゃと始めちゃうわね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1206</PointerOffset>
+      <JapaneseText>何も起きないわねぇ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1228</PointerOffset>
+      <JapaneseText>触媒が足りなかったかしら</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1260</PointerOffset>
+      <JapaneseText>わぁぁぁぁぁぁぁ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1288</PointerOffset>
+      <JapaneseText>きゃああああ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1308</PointerOffset>
+      <JapaneseText>うおおおおおおおおおお</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1331</PointerOffset>
+      <JapaneseText>今の音、なぁに？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1348</PointerOffset>
+      <JapaneseText>さあ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1355</PointerOffset>
+      <JapaneseText>そんな事より、その装置はまだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1385</PointerOffset>
+      <JapaneseText>手を加えないといけないんじゃないの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1420</PointerOffset>
+      <JapaneseText>やっぱ、もうちょっと改良が必要ね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1453</PointerOffset>
+      <JapaneseText>じゃあ、撤収撤収〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Entries>
+</SceneText>
