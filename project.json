@@ -1,6 +1,6 @@
 {
     "paths": {
-        "encoding_table":   "",
+        "encoding_table":   "./project/tbl_all.json",
         "menu_table":       "",
         "original_files":   "./0_disc/",
         "extracted_files":  "./1_extracted/",
