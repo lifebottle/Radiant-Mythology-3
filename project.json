@@ -1,0 +1,19 @@
+{
+    "paths": {
+        "encoding_table":   "",
+        "menu_table":       "",
+        "original_files":   "./0_disc/",
+        "extracted_files":  "./1_extracted/",
+        "import_dat":       "./2_translated/DAT/",
+        "menu_xml":         "./2_translated/menu/",
+        "story_xml":        "./2_translated/story/",
+        "skit_xml":         "./2_Translated/skits/",
+        "translated_files": "./2_Translated/",
+        "final_files":      "./3_patched/",
+        "temp_files":       "./3_patched/patched_temp/",
+        "game_builds":      "./4_builds/",
+        "tools":            "./tools/"
+    },
+    "asm_file":        "main.asm",
+    "main_exe_name":   "namco.bdi"
+}
